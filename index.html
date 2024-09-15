@@ -1,76 +1,118 @@
+<!-- @format -->
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Google Scholar Publications</title>
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <!-- DataTables CSS -->
+    <link
+      href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
     <div class="container my-5">
-        <h1 class="text-center mb-4">Google Scholar Publications</h1>
-        <table class="table table-striped table-bordered">
-            <thead class="thead-dark">
-                <tr>
-                    <th>#</th>
-                    <th>Title</th>
-                    <th>Authors</th>
-                    <th>Year</th>
-                    <th>Publication Date</th>
-                    <th>Journal</th>
-                    <th>Volume</th>
-                    <th>Pages</th>
-                    <th>Total Citations</th>
-                    <th>Source</th>
-                    <th>Publication Link</th>
-                </tr>
-            </thead>
-            <tbody id="publication-table">
-                <!-- Data will be injected here -->
-            </tbody>
-        </table>
+      <h1 class="text-center mb-4">Google Scholar Publications</h1>
+      <p class="text-center" id="last-updated">Last Updated: Loading...</p>
+      <table id="publicationTable" class="table table-striped table-bordered">
+        <thead class="thead-dark">
+          <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Authors</th>
+            <th>Year</th>
+            <th>Publication Date</th>
+            <th>Journal</th>
+            <th>Volume</th>
+            <th>Pages</th>
+            <th>Total Citations</th>
+            <th>Source</th>
+            <th>Publication Link</th>
+          </tr>
+        </thead>
+        <tbody id="publication-table">
+          <!-- Data will be injected here -->
+        </tbody>
+      </table>
     </div>
 
     <!-- Bootstrap JS and Popper.js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
 
     <!-- JavaScript to fetch and display data -->
     <script>
-        // Function to load data from a JSON file
-        async function loadData() {
-            try {
-                const response = await fetch('scholar-data-qK-YgxAAAAAJ.json'); // Adjust the path if necessary
-                const jsonData = await response.json();
-                const publications = jsonData.data;
-                const tableBody = document.getElementById('publication-table');
-
-                // Iterate over the data and create table rows
-                publications.forEach((pub, index) => {
-                    const row = `
-                        <tr>
-                            <td>${index + 1}</td>
-                            <td>${pub.title}</td>
-                            <td>${pub.authors}</td>
-                            <td>${pub.year}</td>
-                            <td>${pub.publication_date}</td>
-                            <td>${pub.journal}</td>
-                            <td>${pub.volume || ''}</td>
-                            <td>${pub.pages || ''}</td>
-                            <td>${pub.total_citations || 'N/A'}</td>
-                            <td><a href="${pub.source_url}" target="_blank">Source</a></td>
-                            <td><a href="${pub.url}" target="_blank">View Publication</a></td>
-                        </tr>
-                    `;
-                    tableBody.innerHTML += row;
-                });
-            } catch (error) {
-                console.error('Error loading data:', error);
-            }
+      // Function to trim authors after 200 characters
+      function trimAuthors(authors = "") {
+        if (authors.length > 200) {
+          return authors.substring(0, 200) + "..."; // Trim and add ellipsis
         }
+        return authors;
+      }
+      // Function to convert UTC to local date time
+      function convertUTCToLocal(utcDate) {
+        const date = new Date(utcDate);
+        return date.toLocaleString(); // Convert to local date time string
+      }
 
-        // Load the data when the page is ready
-        window.onload = loadData;
+      // Function to load data from a JSON file
+      async function loadData() {
+        try {
+          const response = await fetch("scholar-data-qK-YgxAAAAAJ.json"); // Adjust the path if necessary
+          const jsonData = await response.json();
+          const publications = jsonData.data;
+          const tableBody = document.getElementById("publication-table");
+          const lastUpdated = document.getElementById("last-updated");
+
+          // Update the last updated UTC date
+          lastUpdated.textContent = `Last Updated: ${convertUTCToLocal(jsonData.last_updated_utc)}`;
+
+          // Iterate over the data and create table rows
+          publications.forEach((pub, index) => {
+            const row = `
+              <tr>
+                  <td>${index + 1}</td>
+                  <td>${pub.title}</td>
+                  <td>${trimAuthors(pub.authors || pub.journal || "")}</td>
+                  <td>${pub.year}</td>
+                  <td>${pub.publication_date}</td>
+                  <td>${
+                    pub.publisher || pub.journal || pub.book || pub.source
+                  }</td>
+                  <td>${pub.volume || ""}</td>
+                  <td>${pub.pages || ""}</td>
+                  <td>${pub.total_citations || "N/A"}</td>
+                  <td><a href="${
+                    pub.source_url
+                  }" target="_blank">Source</a></td>
+                  <td><a href="${
+                    pub.url
+                  }" target="_blank">View Publication</a></td>
+              </tr>
+            `;
+            tableBody.innerHTML += row;
+          });
+
+          // Initialize DataTables after data is loaded
+          $("#publicationTable").DataTable();
+        } catch (error) {
+          console.error("Error loading data:", error);
+        }
+      }
+
+      // Load the data when the page is ready
+      window.onload = loadData;
     </script>
-</body>
+  </body>
 </html>
