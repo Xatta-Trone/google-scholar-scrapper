@@ -1,5 +1,5 @@
 # Google Scholar Scraper
-This project scrapes publication data and metadata from an author's Google Scholar profile. The scraper is currently configured to scrape and update the data of [Dr. Subhasish Das](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate) on a daily basis, saving the results to the JSON file `scholar-data-qK-YgxAAAAAJ.json`.
+This project automatically scrapes publication data and metadata from an author's Google Scholar profile. The scraper is currently configured to scrape and update the data of [Dr. Subhasish Das](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate) on a daily basis, saving the results to the JSON file `scholar-data-qK-YgxAAAAAJ.json`.
 
 The live preview of the scraped data is available at: https://google-scholar-scrapper.vercel.app.
 
