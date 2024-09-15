@@ -23,7 +23,7 @@ const scholarParser = {
 
     // Launch Puppeteer
     const browser = await puppeteer.launch({
-      headless: false,
+      headless: true,
       defaultViewport: null,
     });
 
