@@ -232,4 +232,4 @@ const scholarParser = {
 };
 
 // Run the parser with user ID and target year
-scholarParser.parse("qK-YgxAAAAAJ", 2023); // Replace with the Google Scholar user ID and target year
+scholarParser.parse("qK-YgxAAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
