@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-09-19T01:24:11.467Z",
+    "last_updated_utc": "2024-09-20T01:24:06.110Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4344,6 +4344,15 @@
             "issue": "08-3SS",
             "publisher": "Louisiana Transportation Research Center",
             "description": "Approximately 1,000 people lose their lives each year in traffic crashes on Louisiana’s roadways, and 50,000 are injured. Traffic crashes cost the citizens of Louisiana $6.03 billion each year, which accounts for about $2,104 for every licensed driver in Louisiana. The Louisiana traffic fatality rate in 2006 was 2.16, while the nation average was 1.41. The lowest rate, 0.78, was reported for Massachusetts. In fact, the traffic fatality rate in Louisiana has been higher than the national average for the past several years."
+        },
+        {
+            "title": "Understanding Spatial-temporal Attributes Influencing Electric Vehicle's Charging Stations Utilization: A Multi-City Study",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Tfl4UtY-dJUC",
+            "total_citations": "",
+            "year": "2024",
+            "authors": "Boniphace Kutela, Abdallah Kinero, Hellen Shita, Subasish Das, Cuthbert Ruseruka, Tumlumbe Juliana Chengula, Norris Novat",
+            "publication_date": "2024/8/15",
+            "journal": "Available at SSRN 4926662"
         }
     ]
 }
