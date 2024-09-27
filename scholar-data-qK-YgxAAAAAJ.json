@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-09-26T01:25:40.978Z",
+    "last_updated_utc": "2024-09-27T01:26:26.041Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4353,6 +4353,21 @@
             "authors": "Boniphace Kutela, Abdallah Kinero, Hellen Shita, Subasish Das, Cuthbert Ruseruka, Tumlumbe Juliana Chengula, Norris Novat",
             "publication_date": "2024/8/15",
             "journal": "Available at SSRN 4926662"
+        },
+        {
+            "title": "Global estimates on the number of people blind or visually impaired by cataract: a meta-analysis from 2000 to 2020",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:GYcXSSpN504C",
+            "total_citations": "7\n*",
+            "year": "2024",
+            "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11269584/",
+            "authors": "Vision Loss Expert Group of the Global Burden of Disease Study",
+            "publication_date": "2024/8",
+            "journal": "Eye",
+            "volume": "38",
+            "issue": "11",
+            "pages": "2156",
+            "publisher": "Nature Publishing Group",
+            "description": "Background\nTo estimate global and regional trends from 2000 to 2020 of the number of persons visually impaired by cataract and their proportion of the total number of vision-impaired individuals.\nMethods\nA systematic review and meta-analysis of published population studies and gray literature from 2000 to 2020 was carried out to estimate global and regional trends. We developed prevalence estimates based on modeled distance visual impairment and blindness due to cataract, producing location-, year-, age-, and sex-specific estimates of moderate to severe vision impairment (MSVI presenting visual acuity< 6/18,≥ 3/60) and blindness (presenting visual acuity< 3/60). Estimates are age-standardized using the GBD standard population.\nResults\nIn 2020, among overall (all ages) 43.3 million blind and 295 million with MSVI, 17.0 million (39.6%) people were blind and 83.5 million (28.3%) had MSVI due to cataract …"
         }
     ]
 }
