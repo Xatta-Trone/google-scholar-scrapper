@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-10-09T01:25:51.623Z",
+    "last_updated_utc": "2024-10-10T01:25:59.961Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4379,6 +4379,16 @@
             "journal": "Transportation Research Record",
             "pages": "03611981241277819",
             "publisher": "SAGE Publications"
+        },
+        {
+            "title": "Assessing the risk of pedestrian crossing behavior on suburban roads using structural equation model",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:qPeb-qHga9sC",
+            "total_citations": "",
+            "year": "2024",
+            "authors": "Shahrbanoo Kavianpour, Farshidreza Haghighi, Abbas Sheykhfard, Subasish Das, Grigorios Fountas, Mohammad Mehdi Oshanreh",
+            "publication_date": "2024/10/3",
+            "journal": "Journal of Traffic and Transportation Engineering (English Edition)",
+            "publisher": "Elsevier"
         }
     ]
 }
