@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-10-13T01:38:37.575Z",
+    "last_updated_utc": "2024-10-14T01:36:17.994Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4389,6 +4389,19 @@
             "publication_date": "2024/10/3",
             "journal": "Journal of Traffic and Transportation Engineering (English Edition)",
             "publisher": "Elsevier"
+        },
+        {
+            "title": "Navigating the Blame Game: Investigating Automated Vehicle Fault in Collisions under Mixed Traffic Conditions",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:wuD5JclIwkYC",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S092188902400215X",
+            "authors": "Boniphace Kutela, Jimoku Hinda Salum, Seif Rashidi Seif, Subasish Das, Emmanuel Kidando",
+            "publication_date": "2024/10/10",
+            "journal": "Robotics and Autonomous Systems",
+            "pages": "104831",
+            "publisher": "North-Holland",
+            "description": "Vehicle being at fault in a crash has extensively been associated with its driver's behaviors and other human errors for human-driven vehicles (HDV). The introduction of automated vehicles (AVs) is expected to eliminate such human errors due to the ability of AVs to communicate with the external environment. However, various reports have documented AVs being at fault in collisions. This study applied text mining and mixed-effects logistic regression (MELR) on crash data involving AVs collected between 2017 and 2022 in California to explore the likelihood of an AV being at fault during a collision. It was found that among 497 crashes, a relatively small percentage (14.29%) involved AVs being at fault. The text network results revealed patterns of keywords associated with the AVs being at fault. Such patterns include conventional mode of operation, area of impact, and resulting injuries. Furthermore, with about a …"
         }
     ]
 }
