@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-10-19T01:25:39.008Z",
+    "last_updated_utc": "2024-10-20T01:40:34.513Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4402,6 +4402,15 @@
             "pages": "104831",
             "publisher": "North-Holland",
             "description": "Vehicle being at fault in a crash has extensively been associated with its driver's behaviors and other human errors for human-driven vehicles (HDV). The introduction of automated vehicles (AVs) is expected to eliminate such human errors due to the ability of AVs to communicate with the external environment. However, various reports have documented AVs being at fault in collisions. This study applied text mining and mixed-effects logistic regression (MELR) on crash data involving AVs collected between 2017 and 2022 in California to explore the likelihood of an AV being at fault during a collision. It was found that among 497 crashes, a relatively small percentage (14.29%) involved AVs being at fault. The text network results revealed patterns of keywords associated with the AVs being at fault. Such patterns include conventional mode of operation, area of impact, and resulting injuries. Furthermore, with about a …"
+        },
+        {
+            "title": "A Survey on Deep Tabular Learning",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Gpwnp1kGG20C",
+            "total_citations": "",
+            "year": "2024",
+            "authors": "Shriyank Somvanshi, Subasish Das, Syed Aaqib Javed, Gian Antariksa, Ahmed Hossain",
+            "publication_date": "2024/10/15",
+            "journal": "arXiv preprint arXiv:2410.12034"
         }
     ]
 }
