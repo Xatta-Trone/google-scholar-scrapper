@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-10-26T01:24:32.483Z",
+    "last_updated_utc": "2024-10-27T01:39:45.233Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4411,6 +4411,18 @@
             "authors": "Shriyank Somvanshi, Subasish Das, Syed Aaqib Javed, Gian Antariksa, Ahmed Hossain",
             "publication_date": "2024/10/15",
             "journal": "arXiv preprint arXiv:2410.12034"
+        },
+        {
+            "title": "Exploring patterns in older pedestrian involved crashes during nighttime",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:T8_be82Iz5gC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Mahmuda Sultana Mimi, Rohit Chakraborty, Jinli Liu, Swastika Barua, Subasish Das",
+            "publication_date": "2025/1/1",
+            "journal": "Accident Analysis & Prevention",
+            "volume": "209",
+            "pages": "107815",
+            "publisher": "Pergamon"
         }
     ]
 }
