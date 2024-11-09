@@ -34,7 +34,7 @@
             <th>Title</th>
             <th>Authors</th>
             <th>Year</th>
-            <th>Publication Date</th>
+            <th>Img</th>
             <th>Journal</th>
             <th>Volume</th>
             <th>Pages</th>
@@ -92,7 +92,7 @@
                   <td>${pub.title}</td>
                   <td>${trimAuthors(pub.authors || pub.journal || "")}</td>
                   <td>${pub.year}</td>
-                  <td>${pub.publication_date}</td>
+                  <td><img src=${pub.img ? pub.img : ""} height="200" /></td>
                   <td>${
                     pub.publisher || pub.journal || pub.book || pub.source
                   }</td>
