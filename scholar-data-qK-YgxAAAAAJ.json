@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-11-10T01:37:12.603Z",
+    "last_updated_utc": "2024-11-11T01:26:51.239Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4504,6 +4504,19 @@
             "pages": "298-318",
             "publisher": "Elsevier",
             "description": "Curved segments account for a disproportionately high proportion of fatal and serious injury crashes, with most of these crashes occurring on rural two-lane (R2L) highways. During the 10-year period from 2008 to 2017, a total of 1 234 fatal single-vehicle roadway departure (SV-RwD) crashes occurred on R2L roads in Louisiana, out of which 635 (51.5 %) crashes occurred on curved segments. Therefore, it is critical to investigate the causes of SV-RwD crashes, specifically those that occur on curved segments. This study aimed to investigate the ‘association knowledge’ of the factors contributing to SV-RwD crashes on R2L curved segments in Louisiana using fatal and injury crash data collected from 2008 to 2017. The study utilized Cluster Correspondence Analysis (CCA), a robust joint dimension reduction and clustering method for handling high-dimensionality and multicollinearity of crash data, to achieve this …"
+        },
+        {
+            "title": "Behavioral Modeling of Drivers near Speed Control Cameras: A Dual Perspective from Micro and Macro Data",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:rFyVMFCKTwsC",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://journals.sagepub.com/doi/abs/10.1177/03611981241287787",
+            "authors": "Abbas Sheykhfard, Farshidreza Haghighi, Soheila Saeidi, Mohammad SafariTaherkhani, Grigorios Fountas, Subasish Das",
+            "publication_date": "2024/11/8",
+            "journal": "Transportation Research Record",
+            "pages": "03611981241287787",
+            "publisher": "SAGE Publications",
+            "description": "The present study investigates the efficacy of speed cameras in managing vehicle speeds and their influence on various driver demographics within the operational context of the cameras. The research, conducted as a case study in Iran, comprises both macroscopic and detailed analyses, quantifying vehicle speeds at different spatial points relative to the speed camera location—upstream, adjacent to, and downstream of the camera—using a manual laser speedometer. Furthermore, the study examines diverse driver behavior metrics, including vehicle type, speeds at different locations, lane changes, braking actions, and measures such as obscuring license plates. Statistical analyses show that speed cameras effectively reduce speeds across different user groups and lead to increased braking and lane-changing behaviors, particularly among light vehicle categories. Moreover, the study reveals distinct …"
         }
     ]
 }
