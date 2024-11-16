@@ -27,17 +27,17 @@ async function generateImage(details) {
   });
   const page = await browser.newPage();
 
-  //   // Step 1: Go to the login page
-  //   await page.goto("https://deepdreamgenerator.com/login");
+  // Step 1: Go to the login page
+  await page.goto("https://deepdreamgenerator.com/login");
 
-  //   // Step 2: Enter email and password
-  //   const email = "viyen42549@opposir.com";
-  //   const password = "viyen42549@opposir.com"; // replace with the actual password
-  //   await page.type('input[name="email"]', email);
-  //   await page.type('input[name="password"]', password);
+  // Step 2: Enter email and password
+  // const email = "viyen42549@opposir.com";
+  const email = "apeywsrwiouzafyhuy@nbmbb.com";
+  await page.type('input[name="email"]', email);
+  await page.type('input[name="password"]', email);
 
-  //   // Step 3: Click the "Log in" button
-  //   await page.click('button[type="submit"]');
+  // Step 3: Click the "Log in" button
+  await page.click('button[type="submit"]');
 
   // Navigate to the generator page directly
   await delay(2000); // Short delay to ensure proper navigation

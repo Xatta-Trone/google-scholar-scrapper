@@ -37,11 +37,12 @@ async function generateImage(details) {
   });
   const page = await browser.newPage();
 
-  // Step 1: Go to the login page
+  // // Step 1: Go to the login page
   // await page.goto("https://deepdreamgenerator.com/login");
   // // Step 2: Enter email and password
   // // const email = "viyen42549@opposir.com";
-  // const email = "qjoskgecnwxpfxyeoy@nbmbb.com";
+  // // const email = "qjoskgecnwxpfxyeoy@nbmbb.com";
+  // const email = "apeywsrwiouzafyhuy@nbmbb.com";
   // await page.type('input[name="email"]', email);
   // await page.type('input[name="password"]', email);
 
@@ -72,10 +73,13 @@ async function generateImage(details) {
   );
 
   try {
-    const response = await fetch(imageUrl);
-    if (!response.ok)
-      throw new Error(`Failed to fetch image: ${response.statusText}`);
-    const imageBuffer = await response.buffer();
+    // const response = await fetch(imageUrl);
+    // if (!response.ok)
+    //   throw new Error(`Failed to fetch image: ${response.statusText}`);
+    // const imageBuffer = await response.buffer();
+
+    const imagePage = await page.goto(imageUrl);
+    const imageBuffer = await imagePage.buffer();
 
     // Save the image to the 'images' directory
     if (!fs.existsSync("images")) fs.mkdirSync("images");
