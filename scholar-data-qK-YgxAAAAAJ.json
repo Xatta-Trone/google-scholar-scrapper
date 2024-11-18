@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-11-17T01:42:55.001Z",
+    "last_updated_utc": "2024-11-18T01:41:01.232Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4544,6 +4544,17 @@
             "journal": "Transport Policy",
             "publisher": "Pergamon",
             "description": "The transition rate to electric vehicles (EVs) has accelerated globally as indicated by a notable rise in the number of used EVs in the market. However, most existing studies focused on the attributes related to the new EVs. This study explores the factors influencing consumer purchase intentions of used EVs using structural equation modeling (SEM). Drawing on a survey of 992 used EV owners in the United States, the research examines the impact of sociodemographic characteristics, purchase details, information sources, pre-purchase concerns, current driving and charging experiences, and future purchase intentions. The findings reveal that charging ease has the strongest positive direct effect on future purchase intentions, while information sources and driving experience show negative direct effects. Sociodemographic characteristics and pre-purchase concerns indirectly influence future intentions through …"
+        },
+        {
+            "title": "A Survey on Kolmogorov-Arnold Network",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:wGzT3bKASkAC",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://arxiv.org/abs/2411.06078",
+            "authors": "Shriyank Somvanshi, Syed Aaqib Javed, Md Monzurul Islam, Diwas Pandit, Subasish Das",
+            "publication_date": "2024/11/9",
+            "source": "arXiv preprint arXiv:2411.06078",
+            "description": "This systematic review explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov-Arnold Networks (KAN), a neural network model inspired by the Kolmogorov-Arnold representation theorem. KANs distinguish themselves from traditional neural networks by using learnable, spline-parameterized functions instead of fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. This review details KAN's architectural strengths, including adaptive edge-based activation functions that improve parameter efficiency and scalability in applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements, including Temporal-KAN, FastKAN, and Partial Differential Equation (PDE) KAN, illustrate KAN's growing applicability in dynamic environments, enhancing interpretability, computational efficiency, and adaptability for complex function approximation tasks. Additionally, this paper discusses KAN's integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks requiring hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, motivating ongoing research into optimization strategies, regularization techniques, and hybrid models. This paper highlights KAN's role in modern neural architectures and outlines future directions to improve its computational efficiency, interpretability, and scalability in data-intensive applications."
         }
     ]
 }
