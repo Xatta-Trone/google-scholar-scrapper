@@ -2,5 +2,8 @@
   "type": "module",
   "dependencies": {
     "puppeteer": "^23.3.0"
+  },
+  "scripts": {
+    "gen": "node img-gen3.js"
   }
 }
