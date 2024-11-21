@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-11-20T02:14:59.876Z",
+    "last_updated_utc": "2024-11-21T01:38:13.240Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4555,6 +4555,32 @@
             "publication_date": "2024/11/9",
             "source": "arXiv preprint arXiv:2411.06078",
             "description": "This systematic review explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov-Arnold Networks (KAN), a neural network model inspired by the Kolmogorov-Arnold representation theorem. KANs distinguish themselves from traditional neural networks by using learnable, spline-parameterized functions instead of fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. This review details KAN's architectural strengths, including adaptive edge-based activation functions that improve parameter efficiency and scalability in applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements, including Temporal-KAN, FastKAN, and Partial Differential Equation (PDE) KAN, illustrate KAN's growing applicability in dynamic environments, enhancing interpretability, computational efficiency, and adaptability for complex function approximation tasks. Additionally, this paper discusses KAN's integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks requiring hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, motivating ongoing research into optimization strategies, regularization techniques, and hybrid models. This paper highlights KAN's role in modern neural architectures and outlines future directions to improve its computational efficiency, interpretability, and scalability in data-intensive applications."
+        },
+        {
+            "title": "Identifying attribute associations in fatal speeding crashes using latent class clustering and association rule mining",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:BW2nPTmhBn4C",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://www.tandfonline.com/doi/full/10.1080/19439962.2024.2429095",
+            "authors": "M Ashifur Rahman, Rohit Chakraborty, Subasish Das, Nurul-Haq Mohammed, Md Mahmud Hossain, Siam Junaed",
+            "publication_date": "2024/11/13",
+            "journal": "Journal of Transportation Safety & Security",
+            "pages": "1-40",
+            "publisher": "Taylor & Francis",
+            "description": "Speeding has been distinguished as one of the most frequent and persistent contributing factors and is a critical contributing factor to the degree of injury severity. In the United States, at least a quarter of nationwide annual fatal crashes during the last decade involved speeding. There is still a need for an overarching look at crashes involving speeding by considering a wider set of crashes, roadway, driver, and vehicle characteristics. Despite extensive research on speeding-related crashes, there is limited understanding of how collective variables in homogeneous crash clusters contribute to fatal speeding crashes. This paper addresses this gap by investigating these collective impacts using fatal crash data from the Fatality Analysis Reporting System (FARS). Using crash data from the 2015–2019 FARS repository, this study applies latent class clustering (LCC) to obtain homogeneous clusters of fatal speeding …"
+        },
+        {
+            "title": "Understanding patterns of factor influences in motorcycle crashes with fixed objects",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:K4-iKlO5MD4C",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://www.tandfonline.com/doi/full/10.1080/19439962.2024.2429077",
+            "authors": "Subasish Das, Richard Dzinyela, Jinli Liu, Bahar Dadashova, Chiara Silvestri-Dobrovolny",
+            "publication_date": "2024/11/12",
+            "journal": "Journal of Transportation Safety & Security",
+            "pages": "1-27",
+            "publisher": "Taylor & Francis",
+            "description": "Previous research has demonstrated that crashes involving motorcycles and fixed objects often result in severe injuries. However, there is a scarcity of stand-alone studies examining the contributing factors related to this specific type of crash. This study sought to address this gap by analyzing a comprehensive dataset comprising 1,198 crash observations involving motorcycles and fixed objects over a 5-year period (2016–2020) in Massachusetts. By understanding the contributing factors more comprehensively, this study aims to facilitate targeted interventions to mitigate the severity of crashes involving motorcycles and fixed objects, ultimately fostering a safer road environment. Through data conflation, various factors pertaining to driver demographics, driver actions, road features, traffic characteristics, weather conditions, and lighting conditions were considered for this analysis. A novel approach called cluster …"
         }
     ]
 }
