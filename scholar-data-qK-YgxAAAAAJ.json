@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-12-02T01:44:12.726Z",
+    "last_updated_utc": "2024-12-03T01:42:36.137Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4581,6 +4581,18 @@
             "pages": "1-27",
             "publisher": "Taylor & Francis",
             "description": "Previous research has demonstrated that crashes involving motorcycles and fixed objects often result in severe injuries. However, there is a scarcity of stand-alone studies examining the contributing factors related to this specific type of crash. This study sought to address this gap by analyzing a comprehensive dataset comprising 1,198 crash observations involving motorcycles and fixed objects over a 5-year period (2016–2020) in Massachusetts. By understanding the contributing factors more comprehensively, this study aims to facilitate targeted interventions to mitigate the severity of crashes involving motorcycles and fixed objects, ultimately fostering a safer road environment. Through data conflation, various factors pertaining to driver demographics, driver actions, road features, traffic characteristics, weather conditions, and lighting conditions were considered for this analysis. A novel approach called cluster …"
+        },
+        {
+            "title": "Demographic risk factors and injury severity scores in Substance-use behaviour related traffic crashes",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:cSdaV2aYdYsC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Mahmuda Sultana Mimi, Rohit Chakraborty, Swastika Barua, Subasish Das, Md Nasim Khan, Bahar Dadashova",
+            "publication_date": "2025/1/1",
+            "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+            "volume": "108",
+            "pages": "168-187",
+            "publisher": "Pergamon"
         }
     ]
 }
