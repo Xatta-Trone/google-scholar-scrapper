@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-12-05T01:43:00.879Z",
+    "last_updated_utc": "2024-12-06T01:41:42.726Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4593,6 +4593,20 @@
             "volume": "108",
             "pages": "168-187",
             "publisher": "Pergamon"
+        },
+        {
+            "title": "Revealing equity gaps in pedestrian crash data through explainable artificial intelligence clustering",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:wBLCggQE-ToC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S1361920924004954",
+            "authors": "Jinli Liu, Gian Antariksa, Shriyank Somvanshi, Subasish Das",
+            "publication_date": "2025/2/1",
+            "journal": "Transportation Research Part D: Transport and Environment",
+            "volume": "139",
+            "pages": "104538",
+            "publisher": "Pergamon",
+            "description": "Pedestrian crashes represent a critical traffic safety issue, often resulting in fatal outcomes and raising significant equity concerns. This study analyzed detailed records of pedestrian-involved crashes in California from 2018 to 2021, employing a novel clustering framework enhanced by the SHapley Additive exPlanations approach. The proposed method significantly enhanced interpretability by effectively capturing complex non-linear relationships and interactions among features. The results indicate that impairment status and lighting conditions are pivotal in severe crash outcomes, while broader societal and demographic factors are more substantially associated with less severe cases. Non-injury pedestrian crashes tend to occur in less underserved, more resilient communities, whereas fatal crashes are more common in underserved communities with poor lighting and incomplete pedestrian infrastructure …"
         }
     ]
 }
