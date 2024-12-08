@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-12-07T01:40:52.966Z",
+    "last_updated_utc": "2024-12-08T01:48:50.901Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4607,6 +4607,19 @@
             "pages": "104538",
             "publisher": "Pergamon",
             "description": "Pedestrian crashes represent a critical traffic safety issue, often resulting in fatal outcomes and raising significant equity concerns. This study analyzed detailed records of pedestrian-involved crashes in California from 2018 to 2021, employing a novel clustering framework enhanced by the SHapley Additive exPlanations approach. The proposed method significantly enhanced interpretability by effectively capturing complex non-linear relationships and interactions among features. The results indicate that impairment status and lighting conditions are pivotal in severe crash outcomes, while broader societal and demographic factors are more substantially associated with less severe cases. Non-injury pedestrian crashes tend to occur in less underserved, more resilient communities, whereas fatal crashes are more common in underserved communities with poor lighting and incomplete pedestrian infrastructure …"
+        },
+        {
+            "title": "Unraveling the complex relationship between weather conditions and traffic safety",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:ShjGdcaqzI0C",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://www.tandfonline.com/doi/abs/10.1080/19439962.2024.2435307",
+            "authors": "Subasish Das, Swastika Barua, Ahmed Hossain",
+            "publication_date": "2024/11/27",
+            "source": "Journal of Transportation Safety & Security",
+            "pages": "1-40",
+            "publisher": "Taylor & Francis",
+            "description": "Understanding the impact of different weather conditions on crash frequency and crash severance is essential for developing effective strategies and interventions to mitigate road crashes. Extensive research has been conducted worldwide over the past few decades to investigate the relationship between weather conditions and traffic crashes. By synthesizing this collective body of work using the guidelines of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), this paper seeks to provide a valuable resource for practitioners, policymakers, and researchers in their quest for evidence-based strategies to enhance traffic safety and minimize the adverse effects of weather conditions on road users. This systematic literature review establishes eligibility criteria for selecting relevant studies that span diverse geographical regions, climates, and methodologies. The objective is to present a …"
         }
     ]
 }
