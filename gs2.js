@@ -25,6 +25,8 @@ const scholarParser = {
     const browser = await puppeteer.launch({
       headless: true,
       defaultViewport: null,
+      args: [`--no-sandbox`, `--disable-setuid-sandbox`],
+      slowMo: 50,
     });
 
     const page = await browser.newPage();
