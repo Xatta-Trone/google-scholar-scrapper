@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2024-12-26T01:26:09.312Z",
+    "last_updated_utc": "2024-12-27T01:26:34.153Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4878,6 +4878,19 @@
             "publication_date": "2024/11/10",
             "journal": "Transport Policy",
             "publisher": "Pergamon"
+        },
+        {
+            "title": "Investigating Factor Associations in Barrier Crashes through Cluster Correspondence Analysis",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:S2WlVNSe3u4C",
+            "total_citations": "",
+            "year": "2024",
+            "source_url": "https://journals.sagepub.com/doi/abs/10.1177/03611981241297976",
+            "authors": "Rohit Chakraborty, Subasish Das, Mahmuda Sultana Mimi, Boniphace Kutela",
+            "publication_date": "2024/12/24",
+            "journal": "Transportation Research Record",
+            "pages": "03611981241297976",
+            "publisher": "SAGE Publications",
+            "description": "Roadside and median barriers have proven effective in preventing crashes; however, a significant number of crashes still occur that involve road barriers across United States. This study focuses on analyzing the factors related to barrier crashes across Texas. The dataset includes 63,475 crashes involving road barriers and covering six years of crash data (2017–2022). Using cluster correspondence analysis (CCA) data mining approach, the study identifies six different clusters of crashes. Each cluster identifies factors contributing to barrier-related crashes. Before implying the CCA, variable importance analysis is also performed to identify the significance of the variables. The analysis highlighted that dry road surface conditions and clear weather are highly associated with high-speed crashes. Driver distraction and absence of traffic control devices can attribute to the crashes on roads with lower speed limits …"
         }
     ]
 }
