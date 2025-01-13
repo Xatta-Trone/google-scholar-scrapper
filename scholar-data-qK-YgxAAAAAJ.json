@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-01-12T01:41:48.640Z",
+    "last_updated_utc": "2025-01-13T01:39:06.845Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4904,6 +4904,19 @@
             "pages": "100255",
             "publisher": "Elsevier",
             "description": "Electric vehicles (EVs) are gaining popularity across the globe. Various initiatives are being implemented to ensure that most of the operating vehicles on public roadways are EVs by 2050. Such initiatives include the construction of charging stations to improve EV charging accessibility. The utilization of the charging stations has not been explored to a great extent, despite its importance in future installations in various cities. This study evaluated the EV station utilization across eleven cities in three countries: the United States, Canada, and Scotland. The Negative Binomial (NB) regression model was applied to understand the influence of the spatial-temporal factors on the daily utilization of EV charging stations. In addition to the overall analysis, country-specific analyses were also performed. It was revealed that there is a great variation in daily EV utilization across the cities in different countries and within the …"
+        },
+        {
+            "title": "Analysis of Motorcyclists Crash Severity using Cluster Correspondence and Hierarchical Binary Logit Models",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:oYLFIHfuHKwC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S2772586325000115",
+            "authors": "Richard Dzinyela, Bahar Dadashova, Grant Westfall, Subasish Das, Chiara Silvestri-Dobrovolny, Emmanuel Kofi Adanu, Dominique Lord",
+            "publication_date": "2025/1/10",
+            "journal": "Multimodal Transportation",
+            "pages": "100197",
+            "publisher": "Elsevier",
+            "description": "Crashes involving motorcyclists account for a significant portion of traffic-related injuries and fatalities. Despite motorcycles making only three percent of all registered vehicles, motorcyclists account for 14 percent of all roadway fatalities. As the number of motorcyclists increase, there is an urgent need to understand the factors that affect the severity of injuries they sustain in crashes. In this paper, we use cluster correspondence analysis (CCA) and hierarchical binary logit model to explore the factors associated with motorcyclists’ crash injury severities in Utah between 2016 and 2020. Cluster correspondence analysis was used to cluster the crash data into seven groups, while hierarchical binary logit model was used to identify the significant factors that contributed to the injury severity of motorcycle crashes. The results of this study indicate that among the crash-contributing factors the motorcyclist age, roadway …"
         }
     ]
 }
