@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-01-23T01:24:50.504Z",
+    "last_updated_utc": "2025-01-24T01:24:49.023Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4917,6 +4917,18 @@
             "pages": "100197",
             "publisher": "Elsevier",
             "description": "Crashes involving motorcyclists account for a significant portion of traffic-related injuries and fatalities. Despite motorcycles making only three percent of all registered vehicles, motorcyclists account for 14 percent of all roadway fatalities. As the number of motorcyclists increase, there is an urgent need to understand the factors that affect the severity of injuries they sustain in crashes. In this paper, we use cluster correspondence analysis (CCA) and hierarchical binary logit model to explore the factors associated with motorcyclists’ crash injury severities in Utah between 2016 and 2020. Cluster correspondence analysis was used to cluster the crash data into seven groups, while hierarchical binary logit model was used to identify the significant factors that contributed to the injury severity of motorcycle crashes. The results of this study indicate that among the crash-contributing factors the motorcyclist age, roadway …"
+        },
+        {
+            "title": "Automated and Explainable Artificial Intelligence to Enhance Prediction of Pedestrian Injury Severity",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:DIubQTN3OvUC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://ieeexplore.ieee.org/abstract/document/10847308/",
+            "authors": "Gian Antariksa, Reuben Tamakloe, Jinli Liu, Subasish Das",
+            "publication_date": "2025/1/20",
+            "journal": "IEEE Transactions on Intelligent Transportation Systems",
+            "publisher": "IEEE",
+            "description": "This study used a detailed explainable AI for automatic machine learning, AutoGluon, to predict pedestrian injury severity using data collected over five years (2016-2021) in Louisiana. The final dataset includes forty variables related to pedestrian characteristics, environmental circumstances, and vehicle specifications. Pedestrian injury severity was divided into three categories: fatal, injury, and no injury. The novelty of this approach lies in the application of explainable AI (XAI), specifically SHAP (SHapley Additive exPlanations) values, to interpret the AutoML model’s predictions. This combination not only addressed the opaqueness typically associated with AI “black box” models but also illuminated the critical variables influencing pedestrian injury severity outcomes. The results revealed that the weighted ensemble model emerged as top performers, showcasing high accuracy with minimal prediction times …"
         }
     ]
 }
