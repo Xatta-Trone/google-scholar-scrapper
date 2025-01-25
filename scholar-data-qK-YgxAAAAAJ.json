@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-01-24T01:24:49.023Z",
+    "last_updated_utc": "2025-01-25T01:21:17.593Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4929,6 +4929,53 @@
             "journal": "IEEE Transactions on Intelligent Transportation Systems",
             "publisher": "IEEE",
             "description": "This study used a detailed explainable AI for automatic machine learning, AutoGluon, to predict pedestrian injury severity using data collected over five years (2016-2021) in Louisiana. The final dataset includes forty variables related to pedestrian characteristics, environmental circumstances, and vehicle specifications. Pedestrian injury severity was divided into three categories: fatal, injury, and no injury. The novelty of this approach lies in the application of explainable AI (XAI), specifically SHAP (SHapley Additive exPlanations) values, to interpret the AutoML model’s predictions. This combination not only addressed the opaqueness typically associated with AI “black box” models but also illuminated the critical variables influencing pedestrian injury severity outcomes. The results revealed that the weighted ensemble model emerged as top performers, showcasing high accuracy with minimal prediction times …"
+        },
+        {
+            "title": "A Hybrid Data Mining Framework to Investigate Roadway Departure Crashes on Rural Two-Lane Highways: Applying Fast and Frugal Tree with Association Rules Mining",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:hfzGNhXhx5MC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Ahmed Hossain, Subasish Das, Xiaoduan Sun, Ahmed Sajid Hasan, Mohammad Jalayer",
+            "publication_date": "2025/2",
+            "journal": "Available at SSRN 4937707"
+        },
+        {
+            "title": "Behavioral Insights into Older Driver Involved Crashes at High-Speed Signalized Intersections (Hssis): A Random Parameter Ordered Probit Approach",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:ojlX30-wUrgC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089636",
+            "authors": "Ahmed Hossain, Subasish Das, Monire Jafari, Siam Junaed, Julius Codjoe",
+            "publication_date": "2025/1",
+            "journal": "Available at SSRN 5089636",
+            "description": "The ongoing increase in the generation of baby boomers is expected to significantly impact demographic changes, leading to a higher proportion of elderly individuals in the population. According to the 2020 census data, 1 in every 6 people in the United States were aged 65 years and over. Due to the rise of this specific age group population and the corresponding increase in driver population, their safety on the roadway is a critical concern. Due to the reduced cognitive skills and decision-making abilities, older drivers frequently struggle in high-speed settings. This study aims to investigate the unique driving challenges of older drivers at high-speed signalized intersections (HSSIs) with posted speed limits of 45 mph or higher. For this purpose, 3,446 crashes on HSSIs involving older drivers were collected from Louisiana State between 2017 and 2021. The research team explored Random Parameter Ordered Probit with Heterogeneity in Means (RPOP-HM) for analysis purposes. The choice of random parameter modeling helped to address the inherent ‘ordinal nature of crash severity’in addition to ‘unobserved heterogeneity’in the crash data. The research identified some of the critical factors increasing the likelihood of fatal-severe or injury crashes involving older drivers at HSSIs including the manner of collision (right turn, right-angle), presence of passengers in the vehicles, difficulties in driving roadways with multiple lanes (3-4) and higher ADT and driving during the weekend. The findings of this study can guide transportation agencies in implementing targeted countermeasures, such as advanced warning systems, protected turn phases …"
+        },
+        {
+            "title": "Who Should Be Responsible for Setting Standards for How Automated Vehicles are Used? Insights from the Nationwide Survey",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:inmFHauC9wsC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Abdallah Kinero, Boniphace Kutela, Subasish Das, Ahmed Hossain",
+            "publication_date": "2025/1",
+            "journal": "SSRN"
+        },
+        {
+            "title": "Enhanced Balanced-Generative Adversarial Networks to Predict Pedestrian Injury Types",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:lK9BDNCuzFgC",
+            "total_citations": "1\n*",
+            "year": "2025",
+            "authors": "Shriyank Somvanshi, Gian Antariksa, Subasish Das",
+            "publication_date": "2025/1",
+            "journal": "Available at SSRN 4847615"
+        },
+        {
+            "title": "Investigating Pedestrian-Vehicle Crashes on Interstate Highways: Applying Random Parameter Logit Model",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:3lUAU8Oskd0C",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Ahmed Hossain, Xiaoduan Sun, Subasish Das, Monire Jafari, M Ashifur Rahman",
+            "publication_date": "2025/1",
+            "journal": "Available at SSRN 4649205"
         }
     ]
 }
