@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-01-25T01:21:17.593Z",
+    "last_updated_utc": "2025-01-26T01:27:26.148Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -4976,6 +4976,19 @@
             "authors": "Ahmed Hossain, Xiaoduan Sun, Subasish Das, Monire Jafari, M Ashifur Rahman",
             "publication_date": "2025/1",
             "journal": "Available at SSRN 4649205"
+        },
+        {
+            "title": "SUV-pedestrian crash severity modelling considering unobserved heterogeneity in means and variances",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Nufq_to8ts0C",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://www.tandfonline.com/doi/abs/10.1080/23249935.2025.2453509",
+            "authors": "Monire Jafari, Subasish Das, Michael Starewich, Swastika Barua",
+            "publication_date": "2025/1/21",
+            "journal": "Transportmetrica A: Transport Science",
+            "pages": "1-45",
+            "publisher": "Taylor & Francis",
+            "description": "SUV-type vehicles (light trucks, minivans, vans, SUVs) pose significant risks to pedestrians due to their size and weight. This study analyzed pedestrian crashes involving SUVs using Louisiana traffic crash data (2017–2021) with a random parameter ordered probit model to account for unobserved heterogeneity. Factors linked to higher pedestrian injury severity include winter conditions, divided roads, midblock crossings, business/residential areas, and drivers aged 25–65. Lower injury severity is associated with state highways, city streets, low-speed roads (<25 mph), undivided two-way roads, and intersections. Stability of parameters was observed over time, particularly for crashes involving single SUVs and pedestrians in normal conditions. Variations in variables like \"white dashed line\" and \"proceeding straight ahead\" highlight the influence of daylight and speed limits. At the policy level, integrating these …"
         }
     ]
 }
