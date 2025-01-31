@@ -31,7 +31,7 @@
             "pages": "04024076",
             "publisher": "American Society of Civil Engineers",
             "description": "Preparing the Manual on Uniform Traffic Control Devices (MUTCD) involves gathering inputs from various public and the National Committee on Uniform Traffic Control Devices (NCUTCD) sponsoring agencies. The NCUTCD assists in developing standards, guidelines, and warrants for traffic control devices and practices employed to regulate, warn, and guide traffic flow on roadways. This organization advises the Federal Highway Administration (FHWA) and other relevant agencies on suggested updates and interpretations to the MUTCD and other nationally recognized standards. Examples of such sponsoring agencies include AASHTO, ASCE, Institute of Transportation Engineers (ITE), American Highway Users Alliance (AHUA), National Association of City Transportation Officials (NACTO), National Association of County Engineers (NACE), International Bridge, Tunnel and Turnpike Association (IBTTA), and …",
-            "img": "images/2024_nWoA1JPTheMC.jpg",
+            "img": "new_images/nWoA1JPTheMC.png",
             "pdf_link": "2024 (A) Kutela ASCE MUTCD.pdf"
         },
         {
@@ -47,7 +47,7 @@
             "pages": "107711",
             "publisher": "Pergamon",
             "description": "Crash counts are non-negative integer events often analyzed using crash frequency models such as the negative binomial (NB) distribution. However, due to their random and infrequent nature, crash data usually exhibit unique characteristics, such as excess zero observations that the NB distribution cannot adequately model. The negative binomial-Lindley (NBL) and random parameters negative binomial-Lindley (RPNBL) models have been proposed to address this limitation. Despite addressing the issues of excess zero observations, these models may not fully account for unobserved heterogeneity resulting from temporal variations in crash data. In addition, many variables, such as traffic volume, speed, and weather, change with time. Therefore, the analyst often requires disaggregated data to account for their variations. For example, it is recommended to use monthly crash datasets to better account for …",
-            "img": "images/2024_txeM2kYbVNMC.jpg",
+            "img": "new_images/txeM2kYbVNMC.png",
             "pdf_link": "2024 (A) Dzinyela AAP NBL.pdf"
         },
         {
@@ -64,7 +64,7 @@
             "pages": "427-439",
             "publisher": "Elsevier",
             "description": "This study examined the influential roadway and contextual factors affecting drivers' speed selection through a comprehensive investigation employing structural equation modeling. Roadway and contextual variables including road curvature, presence of roundabouts, adverse weather conditions, and access were investigated using infrared speed sensors. The analysis revealed that specific roadway and contextual factors such as field variables, uphill and downhill road inclines, particular road curvature, and rainy weather significantly influence drivers' chosen speeds, while factors such as road access, nighttime conditions, larger road curvature, and signage exhibit a lesser impact. Notably, the study also found a positive correlation between road curvature radius and driver-chosen speed. The study's implications for transportation infrastructure planning and road safety interventions are underscored, with potential …",
-            "img": "images/2024_Oo1CbQkBAzEC.jpg"
+            "img": "new_images/0o1CbQkBAzEC.png"
         },
         {
             "title": "Exploring Diversity of Activities on Shared-Use Paths: Factors and Implications for Planning and Design",
@@ -80,7 +80,7 @@
             "pages": "04024061",
             "publisher": "American Society of Civil Engineers",
             "description": "The increased need for active transportation facilities coupled with the limited funding and space have influenced the prioritizing of shared-use paths (SUPs). Unlike other activity-specific facilities, the SUP can accommodate a wide range of users. With SUPs being relatively new facilities, less is known about the characteristics of the users and the key factors associated with the user type. This study explored the influential factors for SUP user diverse activities using multinomial regression on the survey data collected in Edmonton in 2018. The descriptive analysis revealed that walking was the activity with the highest frequency, followed by walking and cycling, and walking with pets, whereas cycling had the lowest priority. The multinomial model showed that as the age increases, residents are less likely to perform activities other than walking or cycling alone. Further, residents with higher education are more likely to …",
-            "img": "images/2024_Vztgr1qGG8IC.jpg",
+            "img": "new_images/Vztgr1qGG8IC.png",
             "pdf_link": "2024 (A) Kutela ASCE SUP_Diversity.pdf"
         },
         {
@@ -96,7 +96,7 @@
             "pages": "107713",
             "publisher": "Pergamon",
             "description": "Identifying factors that significantly affect drivers that are repeatedly involved in traffic violations or non-fatal crashes (defined here as recidivist drivers) is very important in highway safety studies. This study sought to understand the relationship between a set of variables related to previous driving violations and the duration between a previous non-fatal crash and a subsequent fatal crash, taking into account the age and gender of the driver. By identifying the characteristics of this unique driver population and the factors that influence the duration between their crash events strategies can be put in place to prevent the occurrence of future and potentially fatal crashes. To do this, a five-year (2015–2019) historical fatal crash data from the United States was used for this study. Out of 15,956 fatal crashes involving recidivist drivers obtained, preliminary analysis revealed an overrepresentation of males (about 75%). It …",
-            "img": "images/2024_X5YyAB84Iw4C.jpg",
+            "img": "new_images/X5YyAB84Iw4C.png",
             "pdf_link": "2024 (A) Dzinyela AAP Recidivist.pdf"
         },
         {
@@ -112,7 +112,7 @@
             "pages": "101873",
             "publisher": "Elsevier",
             "description": "Introduction\nThe transportation sector was severely impacted by the COVID-19 pandemic, with shared mobility services being the most affected due to concerns from the public regarding the high likelihood of being a vector of the virus. Although studies have evaluated the impact of the COVID-19 pandemic on shared mobility, a deeper understanding of public satisfaction with the measures adopted during COVID-19 has not been explored.\nMethods\nThis study utilized data collected in the Summer of 2020 across the United States to fill that literature gap. The study applied Ordered Probit (OP) models to explore the factors influencing an individual's confidence in not contracting COVID-19 while using shared mobility modes and Text Network Analysis (TNA) to understand the deeper reasons for their confidence levels.\nResults\nResults show a significant influence of sociodemographic factors, land-use/built environment …",
-            "img": "images/2024_c1AJUTjuCtUC.jpg",
+            "img": "new_images/c1AJUTjuCtUC.png",
             "pdf_link": "2024 (A) Kutela JTH Shared Mobility Measures.pdf"
         },
         {
@@ -128,7 +128,7 @@
             "pages": "164-181",
             "publisher": "Pergamon",
             "description": "Investigating pedestrian safety disparities across sociodemographic groups is essential for enhancing traffic safety. This study examines the impact of sociodemographic and built environment characteristics on pedestrian crashes. It introduces a comprehensive macro spatial analysis framework that includes a global regression model, spatial autoregressive models, and a local spatial regression model. Three measures of pedestrian injury are analyzed. The findings reveal that a higher percentage of the high-income population significantly correlates with lower rates of pedestrian injuries across all three measures. Conversely, a higher percentage of the low-income population shows a significant positive correlation with the proportion of crashes involving the Black population, and with the proportion of severe pedestrian crashes involving the Black population. Pedestrian-oriented network density is negatively …",
-            "img": "images/2024_CMvovTBb2okC.jpg",
+            "img": "new_images/CMvovTBb2okC.png",
             "pdf_link": "2024 (A) Liu TP Disparities.pdf"
         },
         {
@@ -143,7 +143,7 @@
             "pages": "1-28",
             "publisher": "Taylor & Francis",
             "description": "This study aims to explore the phenomenon of pedestrian crash severity by investigating how pedestrian injury levels have evolved in incidents occurring prior to (2019), during (2020), and after (2021) the COVID-19 lockdowns. Using Louisiana crash data, distinct annual models for pedestrian injury severity (categorised as severe (fatal and severe), minor (moderate and minor), and no injury) were developed using a random parameters logit approach, accounting for potential heterogeneity in means and variances of random parameters. Likelihood ratio tests were employed to assess the overall stability of model estimates across the studied years, and a comparison was made between partially constrained and unconstrained temporal modelling approaches. The results reveal statistically significant differences in injury severity before, during, and after the COVID-19 pandemic.",
-            "img": "images/2024_q1zXlPLtbUIC.jpg",
+            "img": "new_images/q1zXlPLtbUIC.png",
             "pdf_link": "2024 (A) Dzinyela T-A Unconstrained and partially constrained ped.pdf"
         },
         {
@@ -160,7 +160,7 @@
             "pages": "373-381",
             "publisher": "Springer Nature Singapore",
             "description": "A notable shortcoming in contemporary digital navigation systems is their failure to incorporate live weather data. This study investigates the possibility of improving urban navigation experiences by integrating real-time weather data. We developed a navigation tool that utilizes weather data from the OpenWeather API, providing users with real-time insights into weather conditions such as temperature, wind speed and direction, precipitation, and atmospheric pressure. This tool enables users to make informed decisions about their routes and travel plans by providing updated temperature information for selected routes and assessing the risk of road sections based on weather conditions. Incorporating weather data into navigation systems has the potential to enhance driving safety, minimize travel durations, and alleviate weather-related disturbances in urban settings.",
-            "img": "images/2024_KI9T_ytC6pkC.jpg",
+            "img": "new_images/KI9T_ytC6pkC.png",
             "pdf_link": "2023 (A) Ye Weather.pdf"
         },
         {
@@ -175,7 +175,7 @@
             "pages": "1-48",
             "publisher": "Taylor & Francis",
             "description": "The current study investigated the contributing factors and temporal variation in pedestrian crashes at midblock, with a particular focus on the severity levels: fatal/severe, moderate injury, and minor/no injury. It used association rules mining to uncover patterns between crash-contributing factors. By generating, evaluating, and visualising association rules for each severity level within each cluster, significant findings were discovered. Significant associations are observed between fatal crashes on weekdays and factors such as alcohol or drug impairment and nighttime. Similarly, factors including one-way roadway type, summer, and 25 MPH posted speed limit have a strong association with moderate injury crashes during weekdays. On weekends, nighttime crashes with non-motorised vehicles have the strongest association with fatal/severe injury crashes. Moreover, the generated rules for nighttime pedestrian fatal …",
-            "img": "images/2024_Ej9njvOgR2oC.jpg",
+            "img": "new_images/Ej9njvOgR2oC.png",
             "pdf_link": "2024 (A) Chakraborty T-A Ped Midblock ARules.pdf"
         },
         {
@@ -205,7 +205,7 @@
             "pages": "877-891",
             "publisher": "Routledge",
             "description": "Suicide is the deliberate act of ending a person’s own life due to multifarious reasons. In the U.S., suicide is the 10th major cause of death. Nearly 45,000 people died by suicide in 2016 across the nation. It is anticipated that not all traffic crashes can be considered as accidents. Traffic crash related injuries are occasionally considered a means of suicide, and some crashes occur due to the suicidal attempts. These attempts can be made by operators of motor vehicles, jumpers into the pathway of trains, and pedestrians deliberately jumping into the vehicle trajectory. There are a handful of studies that have focused on traffic crashes (both railroad and roadway) related to suicidal incidents. This study aimed to explore the insights associated with suicide related traffic crashes (SRTCs) by collecting traffic data for seven years (2010–2016) from Louisiana. At first, exploratory data analysis was performed to examine the …",
-            "img": "images/2024_VRfTbSk87rEC.jpg",
+            "img": "new_images/VRfTbSk87rEC.png",
             "pdf_link": "2023 (A) Das AoSR Text Mining Suicide Related Traffic Crashes.pdf"
         },
         {
@@ -219,7 +219,7 @@
             "issue": "FHWA-HRT-24-130",
             "publisher": "United States. Department of Transportation. Federal Highway Administration. Office of Safety",
             "description": "Speed is widely recognized as having significant safety impacts, especially on the severity of crashes. However, these effects are complex and generally have not been captured in the Highway Safety Manual (HSM) (American Association of State Highway and Transportation Officials (AASHTO) 2010). The current Federal Highway Administration (FHWA) project developed speed-related crash modification factors (CMFs) for 12 different roadway facility types—rural highways, urban and suburban arterials, and rural and urban freeways—by using Washington and North Carolina data from three major databases: Second Strategic Highway Research Program Roadway Information Database, National Performance Management Research Dataset, and Highway Safety Information System (VTTI 2020; Iowa State University of Science and Technology 2023; National Academies of Sciences 2023; RITIS 2023; FHWA n.d.). The results show that speed variation (e.g., operating speed standard deviation) was the dominant speed measure for rural highways and rural and urban freeways, and speed differential (i.e., difference between the posted speed limit and average operating speed) was the dominant speed measure for urban and suburban arterials. In most cases, the association of speed variation/differential with crashes is positive. The researchers developed CMFs for 129 crash types and severity levels, and most obtained three-star CMF Clearinghouse ratings (AASHTO 2010; FHWA 2023a). These CMFs were developed through a data-driven safety analysis approach, and application of these CMFs (e.g., in HSM-related evaluation tools) requires …",
-            "img": "images/2024_DquSII9TDu4C.jpg",
+            "img": "new_images/DquSII9TDu4C.png",
             "pdf_link": "2024 (R) FHWA-HRT-24-130_App.pdf"
         },
         {
@@ -235,7 +235,7 @@
             "pages": "105042",
             "publisher": "Pergamon",
             "description": "Shared Use Paths (SUPs) allow individuals with diverse activities, including walkers, cyclists, scooterists, and skateboarders, to coexist. In this context, the behavior of one group can impact the experience of the other. Thus, this study applied an ordered logit model on survey data collected from Edmonton, Canada, to examine the six behaviors exhibited by SUP users. Results indicated that respondents were most concerned about cyclists not ringing the bell, followed by people not watching their dogs and cyclists' speed. Additionally, the model results revealed a clear pattern of concerns between walkers and cyclists. Cyclists were more likely to express concern about pedestrians spreading out and not staying to the right, while pedestrians exhibited similar concerns towards cyclists. Furthermore, older respondents expressed a greater concern regarding cyclists' speed, people passing on the right, cyclists not …",
-            "img": "images/2024_X4-KO54GjGYC.jpg",
+            "img": "new_images/X4-KO54GjGYC.png",
             "pdf_link": "2024 (A) Kutela CIities.pdf"
         },
         {
@@ -250,7 +250,7 @@
             "pages": "1-35",
             "publisher": "Taylor & Francis",
             "description": "Older drivers are often more susceptible to crashes due to age-related physical and cognitive limitations, particularly in complex driving environments. Considering the limited research in this area, this study focuses on investigating crashes involving older drivers on high-speed roadways (≥ 45 mph). The analysis is based on data collected from Louisiana State, encompassing 18,300 older driver-involved crashes (2017-2021). For analysis, a two-step hybrid modelling approach is employed: a) Extreme Gradient Boosting (XGBoost) is used to classify top variable features and b) Correlated Random Parameter Ordered Probit with Heterogeneity in Means (CRPOP-HM) is used to predict the likelihood of crash injury severity. . Some of the critical factors increasing the likelihood of fatal-severe or injury crashes involving older drivers on high-speed segments include the manner of collision (rear-end, right-angle, single …",
-            "img": "images/2024_gV6rEsy15s0C.jpg",
+            "img": "new_images/gV6rEsy15s0C.png",
             "pdf_link": "2024 (A) Hossain T-A Investigating older driver crashes on high-speed roadway segments.pdf"
         },
         {
@@ -267,7 +267,7 @@
             "pages": "655-682",
             "publisher": "Taylor & Francis",
             "description": "Work zones are crucial for maintaining and enhancing road infrastructure, but they also pose a significant risk to traffic safety. Between 2016 and 2020, work zone-related crashes in the United States increased by 13%, highlighting the pressing need for effective safety measures. This study examines the factors that influence work zone crashes, including traffic control devices, geometric configurations, traffic operations, and human factors. The study also investigates how these factors vary by work zone type, day of the week, and time of day. To explore these temporal and spatial impacts, the study utilized five years of fatal crash data from the Fatality Analysis Reporting System (FARS) and applied association rules mining. The findings demonstrate that rear-end crashes and collisions with other vehicles are the primary contributing factors. Although some common patterns emerged in the association rules, the study …",
-            "img": "images/2024_U0iAMwwPxtsC.jpg",
+            "img": "new_images/U0iAMwwPxtsC.png",
             "pdf_link": "2023 (A) Das JTSS Analyzing the time varying patterns of contributing factors in work zone related crashes.pdf"
         },
         {
@@ -283,7 +283,7 @@
             "pages": "289-304",
             "publisher": "Elsevier",
             "description": "Automated vehicles (AVs) hold great promise for creating a safer, more efficient, more equitable, and more sustainable transportation system. However, the rapid adoption of AVs requires a thorough understanding in their coexistence with the human environment in the current roadway network, particularly with respect to interactions between AVs and non-motorists. Bike Pittsburgh (BikePGH) conducted a 2019 survey to examine non-motorists' perceptions of AV safety. Using Bayesian network (BN) analysis, the study identified key factors such as safety perception, AV technology knowledge, and real-world interaction experiences that influence non-motorists' overall perception of AV safety using BikePGH survey data. The study also explored several counterfactual scenarios to gain insights into non-motorists' viewpoints on AV safety. Notably, the study found that the differences in the ways of AVs and human-driven …",
-            "img": "images/2024_KTwcwpFFj4wC.jpg",
+            "img": "new_images/KTwcwpFFj4wC.png",
             "pdf_link": "2023 (A) Das Understanding non-motorists’ views on automated.pdf"
         },
         {
@@ -299,7 +299,7 @@
             "pages": "156-170",
             "publisher": "Elsevier",
             "description": "Motor vehicle crashes are the leading cause of the death of teenagers in the United States. Young drivers have shown a higher propensity to get involved in crashes due to using a cellphone while driving, breaking the speed limit, and reckless driving. This study analyzed motor vehicle crashes involving young drivers using New Jersey crash data. Specifically, four years of crash data (2016–2019) were gathered and analyzed. Different machine learning (ML) methods, such as Random Forest, Light GBM, Catboost, and XGBoost, were used to predict the injury severity. The performance of the models was evaluated using accuracy, precision, and recall scores. In addition, interpretable ML techniques like sensitivity analysis and Shapley values were conducted to assess the most influential factors' impacts on young driver-related crashes. The results revealed that XGBoost performed better than Random Forest …",
-            "img": "images/2024_bVQMTfhMCi4C.jpg",
+            "img": "new_images/bVQMTfhMCi4C.png",
             "pdf_link": "2023 (A) Hasan IJTST SHAP.pdf"
         },
         {
@@ -316,7 +316,7 @@
             "pages": "2204-2256",
             "publisher": "Elsevier",
             "description": "Background\nFuture trends in disease burden and drivers of health are of great interest to policy makers and the public at large. This information can be used for policy and long-term health investment, planning, and prioritisation. We have expanded and improved upon previous forecasts produced as part of the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) and provide a reference forecast (the most likely future), and alternative scenarios assessing disease burden trajectories if selected sets of risk factors were eliminated from current levels by 2050.\nMethods\nUsing forecasts of major drivers of health such as the Socio-demographic Index (SDI; a composite measure of lag-distributed income per capita, mean years of education, and total fertility under 25 years of age) and the full set of risk factor exposures captured by GBD, we provide cause-specific forecasts of mortality, years of life lost (YLLs …",
-            "img": "images/2024_cNe27ouKFcQC.jpg"
+            "img": "new_images/cNe27ouKFcQC.png"
         },
         {
             "title": "Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease …",
@@ -332,7 +332,7 @@
             "pages": "2162-2203",
             "publisher": "Elsevier",
             "description": "Background\nUnderstanding the health consequences associated with exposure to risk factors is necessary to inform public health policy and practice. To systematically quantify the contributions of risk factor exposures to specific health outcomes, the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 aims to provide comprehensive estimates of exposure levels, relative health risks, and attributable burden of disease for 88 risk factors in 204 countries and territories and 811 subnational locations, from 1990 to 2021.\nMethods\nThe GBD 2021 risk factor analysis used data from 54 561 total distinct sources to produce epidemiological estimates for 88 risk factors and their associated health outcomes for a total of 631 risk–outcome pairs. Pairs were included on the basis of data-driven determination of a risk–outcome association. Age-sex-location-year-specific estimates were generated at global …",
-            "img": "images/2024_V_vSwabWVtYC.jpg"
+            "img": "new_images/2024_V_vSwabWVtYC.png"
         },
         {
             "title": "Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the …",
@@ -348,7 +348,7 @@
             "pages": "2100-2132",
             "publisher": "Elsevier",
             "description": "Background\nRegular, detailed reporting on population health by underlying cause of death is fundamental for public health decision making. Cause-specific estimates of mortality and the subsequent effects on life expectancy worldwide are valuable metrics to gauge progress in reducing mortality rates. These estimates are particularly important following large-scale mortality spikes, such as the COVID-19 pandemic. When systematically analysed, mortality rates and life expectancy allow comparisons of the consequences of causes of death globally and over time, providing a nuanced understanding of the effect of these causes on global populations.\nMethods\nThe Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2021 cause-of-death analysis estimated mortality and years of life lost (YLLs) from 288 causes of death by age-sex-location-year in 204 countries and territories and 811 subnational …",
-            "img": "images/2024_g_UdREhPGEoC.jpg"
+            "img": "new_images/g_UdREhPGEoC.png"
         },
         {
             "title": "From self-reports to observations: unraveling digital billboard influence on drivers",
@@ -363,7 +363,7 @@
             "pages": "201-216",
             "publisher": "Pergamon",
             "description": "The objective of this current study was to evaluate the impact of digital billboards (DBs) on self-reported and observed driving behavior, given their established association with distracted driving. This investigation focused on driver behavior in Iran using a dual-pronged approach. Initially, self-reported driving behavior was analyzed using a Driving Behavior Questionnaire (DBQ), which was completed online by 453 drivers. The factor analysis of the questionnaire data emphasized the significant role of DBs in generating driving errors, lapses, unintentional violations, and intentional violations. The DBQ questions exhibited a clear factor structure, demonstrating high factor loadings and satisfactory internal stability. The findings indicated that advertising signages notably influenced drivers' behavior, particularly in instances of neglecting the behavior of the leading vehicle's driver (Lapse), disregarding pedestrian …",
-            "img": "images/2024_hHIA4WEVY-EC.jpg",
+            "img": "new_images/hHIA4WEVY-EC.png",
             "pdf_link": "2024 (A) Shekhfard TR-F Billboard.pdf"
         },
         {
@@ -410,7 +410,7 @@
             "pages": "162-173",
             "publisher": "SAGE Publications",
             "description": "Many studies have investigated how child occupants lead to distraction-associated crashes. However, not many studies have focused on how the presence of child passengers influences drivers’ speeding behavior. This study examines how the presence of child passengers can affect driving behavior considering sociodemographic characteristics such as driver’s age, gender, ethnicity, employment, and driving aggressiveness. The current study used resourceful, open-source data based on urban areas in Texas to identify the key patterns of speeding behavior and associated safety surrogates in the presence or absence of child occupants. A unique data analysis procedure known as Taxicab Correspondence Analysis (TCA) was used to analyze the data. The results indicate that speeding patterns are affected by child occupancy during a trip. The results find that regardless of the presence of child passengers …",
-            "img": "images/2024_R22Rs3tN8aoC.jpg",
+            "img": "new_images/R22Rs3tN8aoC.png",
             "pdf_link": "2023 (A) Das Probing into Driver Speeding Patterns.pdf"
         },
         {
@@ -424,7 +424,7 @@
             "issue": "FHWA/TX-24/5-7083-01-R1",
             "publisher": "Texas A&M Transportation Institute",
             "description": "The Highway Safety Manual (HSM) contains safety performance functions (SPFs) that are used in project-level decision-making to estimate the average crash frequency by severity level for existing conditions, alternatives to existing conditions, or proposed new roadways. Because most existing HSM SPFs were developed for states other than Texas, SPF calibration is needed to apply for Texas highways. Calibration is conducted to account for differences in crash reporting procedures, thresholds, driver characteristics, animal population, and weather conditions, among others. The Texas Department of Transportation (TxDOT) sponsored Research Projects 0-7083 and 0-7067 that derived local calibration factors for the SPFs documented in the HSM Chapters 10, 11, 12, and 18. Researchers also developed new safety prediction models for frontage roads and ramp segments. These projects developed analysis spreadsheet tools to help implement the new models and facilitate analysis of all rural and urban roadway segments and intersections. The researchers developed training workshop and webinar materials to assist TxDOT practitioners and consulting firms in their application of these new resources. The researchers presented these workshops and the webinar to safety stakeholders about the safety prediction methods and usage of spreadsheet tools for estimating the average crash frequency at a particular site and in evaluating different cross-sectional alternatives. This training will help safety professionals in evaluating complex trade-offs between safety, operations, community impacts, and costs that are often necessary when planning …",
-            "img": "images/2024_pYKElYtJMmwC.jpg",
+            "img": "new_images/pYKElYtJMmwC.png",
             "pdf_link": "2022 (R) Geedipally Calibrating the Highway Safety Manual Predictive Methods for Texas Highways.pdf"
         },
         {
@@ -439,7 +439,7 @@
             "pages": "1-21",
             "publisher": "Taylor & Francis",
             "description": "The current study examined 1,465 crash observations (2017–2021) from Louisiana, identifying significant variables grouped into three major categories: drivers’, crash, and road characteristics. Considering crash injury severity as a dependent variable, we employed classic Multinomial Logit (MNL) model, and several other models to address unobserved heterogeneity in crash data including Random Parameter Logit (RPL), Random Parameter Logit with Heterogeneity in Means (RPLHM), and Random Parameter Logit with Heterogeneity in Means and Variance (RPLHMV). Our findings highlight the impact of factors such as driver gender, age, traffic violations, driver distractions, crash types, surface conditions, and roadway attributes on crash injury severity. These insights emphasise the complexity of toll road safety and inform targeted interventions to mitigate crash injury severity. Notably, male drivers and those …",
-            "img": "images/2024_BJtnxTr0fRcC.jpg",
+            "img": "new_images/BJtnxTr0fRcC.png",
             "pdf_link": "2024 (A) Das T-A Toll road crash severity using mixed logit model incorporating heterogeneous mean structures.pdf"
         },
         {
@@ -453,7 +453,7 @@
             "issue": "FHWA/TX-23/0-7049-R1",
             "publisher": "Texas A&M Transportation Institute",
             "description": "Posted speed limits (PSLs) are a highly complex issue involving engineering, human factors, and political and societal concerns. On a national level, recent research along with calls to change how speed limit are set, especially for city streets, have generated extensive discussion on future speed limit setting procedures. Within this TxDOT project, the Research Team conducted dialogs with TxDOT districts to learn about the practices and procedures being used, developed a number of products designed to increase the understanding of operating speed and of PSLs, and performed new research into operating speed relationships with roadway characteristics. The developed communication products include videos (one for engineers and one for the public), a pamphlet for public distribution, answers to common questions about speed and speed limits, and a workshop on state and national speed limit setting practices. Review of the literature along with this study’s evaluations confirmed that an increase in the PSL is typically associated with a smaller magnitude increase in operating speed and that higher operating speeds are associated with higher PSLs. Freeway geometric factors, including left and right shoulder widths and distance to downstream and upstream ramps by ramp type (entrance or exit), demonstrated to have a significant impact on operating speed. This study estimates that a strategy that entails modifying geometry, changing the PSL, and varying the level of law enforcement presence within the ranges included in this study may impact freeway operational speeds up to 6.2 mph (depending upon existing conditions along with the …",
-            "img": "images/2024_oursBaop5wYC.jpg",
+            "img": "new_images/oursBaop5wYC.png",
             "pdf_link": "2024 (R) Fitzpatrick 0-7049-R1 Transmittal.pdf"
         },
         {
@@ -470,7 +470,7 @@
             "pages": "344-381",
             "publisher": "Elsevier",
             "description": "Background\nDisorders affecting the nervous system are diverse and include neurodevelopmental disorders, late-life neurodegeneration, and newly emergent conditions, such as cognitive impairment following COVID-19. Previous publications from the Global Burden of Disease, Injuries, and Risk Factor Study estimated the burden of 15 neurological conditions in 2015 and 2016, but these analyses did not include neurodevelopmental disorders, as defined by the International Classification of Diseases (ICD)-11, or a subset of cases of congenital, neonatal, and infectious conditions that cause neurological damage. Here, we estimate nervous system health loss caused by 37 unique conditions and their associated risk factors globally, regionally, and nationally from 1990 to 2021.\nMethods\nWe estimated mortality, prevalence, years lived with disability (YLDs), years of life lost (YLLs), and disability-adjusted life-years …",
-            "img": "images/2024_NtCmTCuxid4C.jpg",
+            "img": "new_images/NtCmTCuxid4C.jpg",
             "pdf_link": "2023 (A) GBD Lancet Neurology.pdf"
         },
         {
@@ -487,7 +487,7 @@
             "pages": "040802",
             "publisher": "American Society of Mechanical Engineers",
             "description": "Advancements in computing power have recently made it possible to utilize machine learning and deep learning to push scientific computing forward in a range of disciplines, such as fluid mechanics, solid mechanics, materials science, etc. The incorporation of neural networks is particularly crucial in this hybridization process. Due to their intrinsic architecture, conventional neural networks cannot be successfully trained and scoped when data are sparse, which is the case in many scientific and engineering domains. Nonetheless, neural networks provide a solid foundation to respect physics-driven or knowledge-based constraints during training. Generally speaking, there are three distinct neural network frameworks to enforce the underlying physics: (i) physics-guided neural networks (PgNNs), (ii) physics-informed neural networks (PiNNs), and (iii) physics-encoded neural networks (PeNNs). These methods …",
-            "img": "images/2024_E7VqQtBCVmcC.jpg"
+            "img": "new_images/E7VqQtBCVmcC.png"
         },
         {
             "title": "Exploring the Influence of Signal Countdown Timers on Driver Behavior: An Analysis of Pedestrian–Vehicle Conflicts at Signalized Intersections",
@@ -503,7 +503,7 @@
             "pages": "865-880",
             "publisher": "SAGE Publications",
             "description": "Although signal countdown timers (SCTs) are likely to enhance efficiency at signalized intersections, there is little research on how they affect road users’ behavior. The present study explores factors associated with driver behavior through two approaches to examine how SCTs influence drivers’ actions toward pedestrians violating red lights. In the first approach, through an on-road questionnaire survey, the self-reported behavior of 369 drivers when crossing an intersection enabled with SCTs was analyzed. In the second approach, the drivers’ behavior was studied through naturalistic driving studies at two signalized intersections equipped with SCTs in Babol, Iran. Analyzing vehicle–pedestrian conflicts indicated that the presence of SCTs had a significant influence on driving behavior. Also, the ending seconds of green lights, as critical times of the SCTs, led to changes in driving behavior. Increasing the vehicle …",
-            "img": "images/2024_WWeOtg8bX_EC.jpg",
+            "img": "new_imagesWWeOtg8bX_EC.png",
             "pdf_link": "2023 (A) Sheykhfard TRR Exploring the Influence of Signal.pdf"
         },
         {
@@ -520,7 +520,7 @@
             "pages": "575-589",
             "publisher": "SAGE Publications",
             "description": "In recent years, nonmotorized transportation and micromobility have become increasingly popular in urban areas, and bike sharing and e-scooter usage are more affordable and accessible than ever before. However, users of these modes face several significant challenges, including risky riding behavior and the danger of being involved in collisions or near collisions with other motorists. Because of a lack of relevant data sets, it is difficult to comprehend the underlying causes of e-scooter collisions. This study collected narrative descriptions of 24 e-scooter collisions that occurred in Texas in 2021. The perceptual cycle model (PCM) was applied to these narrative crash reports to analyze the causation patterns of the crash occurrences. The PCM mechanism was applied independently to fatal and injury collisions, and the results were then compared with Haddon’s matrix to develop policy recommendations. The …",
-            "img": "images/2024_aEW5N-EHWIMC.jpg",
+            "img": "new_images/aEW5N-EHWIMC.png",
             "pdf_link": "2023 (A) Das TRR E-scooters.pdf"
         },
         {
@@ -536,7 +536,7 @@
             "pages": "107457",
             "publisher": "Pergamon",
             "description": "This research leverages a novel deep learning model, Inception-v3, to predict pedestrian crash severity using data collected over five years (2016–2021) from Louisiana. The final dataset incorporates forty different variables related to pedestrian attributes, environmental conditions, and vehicular specifics. Crash severity was classified into three categories: fatal, injury, and no injury. The Boruta algorithm was applied to determine the importance of variables and investigate contributing factors to pedestrian crash severity, revealing several associated aspects, including pedestrian gender, pedestrian and driver impairment, posted speed limits, alcohol involvement, pedestrian age, visibility obstruction, roadway lighting conditions, and both pedestrian and driver conditions, including distraction and inattentiveness. To address data imbalance, the study employed Random Under Sampling (RUS) and the Synthetic …",
-            "img": "images/2024_JH5k92_tO-AC.jpg",
+            "img": "new_images/JH5k92_tO-AC.png",
             "pdf_link": "2024 (A) Khan Inception v-3.pdf"
         },
         {
@@ -553,7 +553,7 @@
             "pages": "232-245",
             "publisher": "Elsevier",
             "description": "Purpose\nInterpersonal violence is a leading cause of adolescent deaths and disability. This study investigates sex differences in burden of interpersonal violence for adolescents and explores associations with gender inequality.\nMethod\nUsing data from the 2019 Global Burden of Disease study, we report numbers, proportions, rates of interpersonal violence deaths and disability adjusted life years (DALYs) for all ages, and rate of change (from 1990 to 2019) in adolescents aged 10–24 years disaggregated by sex and geography. We explored associations with gender inequality using gender inequality index.\nResults\nOne in four (24.8%) all-age interpersonal violence deaths are in adolescents. In 2019, the rate of deaths in adolescent males was almost six times higher than females (9.3 vs. 1.6 per 100,000); and since 1990, the rate of decline in DALYs for females was double than that for males (−28.9% vs. −12.7%). By …",
-            "img": "images/2024_vVJNg6_NJEsC.jpg"
+            "img": "new_images/vVJNg6_NJEsC.png"
         },
         {
             "title": "Case study on the relationship between socio-demographic characteristics and work-from-home behavior before, during, and after the COVID-19 pandemic",
@@ -569,7 +569,7 @@
             "pages": "11-23",
             "publisher": "SAGE Publications",
             "description": "Many studies have explored the impact of the COVID-19 pandemic on work-from-home (WFH) behavior from different perspectives. However, it is rare to find studies focusing on how the newly adopted WFH practices will affect commuting patterns in the post-pandemic era. This study defines two mediation factors to capture the perceptions of pandemic severity and work environment at home and further investigates their impacts on future WFH adoption. This study utilizes a comprehensive survey and a path analysis method known as structural equation modeling (SEM) to explore the association between demographic factors, perception of COVID-related issues, and WFH behavior before, during, and after the pandemic. The results show that motherhood negatively affected WFH experiences in the before, during, and after periods of the pandemic. It was also found that being forced to WFH and mixing the working …",
-            "img": "images/2024_YPNY0knpFBYC.jpg",
+            "img": "new_images/YPNY0knpFBYC.png",
             "pdf_link": "2023 (A) Kong TRR WFH.pdf"
         },
         {
@@ -585,7 +585,7 @@
             "pages": "107411",
             "publisher": "Pergamon",
             "description": "In the realm of traditional roadway crash studies, cross-sectional modeling methods have been commonly employed to investigate the intricate relationship between the crash risk of roadway segments and variables including roadway geometrics, weather conditions, and speed distribution. However, these methodologies assume that the explanatory variables and target variable are only associated within the same time period. Although this assumption is well-founded for static factors like roadway geometrics, it proves inadequate when dealing with highly time-varying variables related to weather conditions and speed variation. Recent investigations have unveiled that these time-varying variables may exhibit lagged impacts on segment crash risk, necessitating the adoption of more comprehensive time-series modeling methods. This study employs two interpretable statistical methods, namely the distributed lag …",
-            "img": "images/2024_rCNdntzdTkkC.jpg",
+            "img": "new_images/rCNdntzdTkkC.png",
             "pdf_link": "2024 (A) Wei AAP SpaceTime.pdf"
         },
         {
@@ -600,7 +600,8 @@
             "pages": "03611981241270161",
             "publisher": "SAGE Publications",
             "description": "Ensuring the safety of work zones is a top priority for transportation agencies because of the dangers posed by vehicles changing lanes and paths within these areas. Recent statistics highlight the seriousness of this issue, showing a shocking 46% increase in fatal collisions within work zones in 2019 compared with 2011. Therefore, this study examined crashes related to intrusions or encroachments in work zones to uncover the underlying mechanisms. Analyzing four years of crash data (2016–2019) from the Texas Department of Transportation, this research utilized Bayesian network to identify crucial factors, their relationships, and potential alternative scenarios. The severity of injuries in work zone intrusion accidents was significantly influenced by male drivers, curved roads, and specific patterns of driver distraction and condition. The study revealed three distinct scenarios with complete probability of specific …",
-            "pdf_link": "2024 (A) Das TRR WorkZone.pdf"
+            "pdf_link": "2024 (A) Das TRR WorkZone.pdf",
+            "img": "new_images/d4tt_xEv1X8C.png"
         },
         {
             "title": "Using Perceptual Cycle Model and Text Mining to Investigate Ambulance Traffic Crashes",
@@ -614,7 +615,8 @@
             "pages": "03611981241270157",
             "publisher": "SAGE Publications",
             "description": "Ambulance crashes constitute a matter of utmost concern within public health, posing potential risks to both patients and emergency responders. Despite this critical importance, investigating the underlying causes of these collisions is difficult because of the scarcity of comprehensive and relevant datasets. To bridge this research gap and gain valuable insights, the present study embarked on a mission to shed light on the causative factors behind ambulance-related crashes. To achieve this objective, this study adopted a meticulous approach, collecting narrative descriptions from ten special investigation reports published by the National Highway Traffic Safety Administration. These reports were selected as they offered in-depth accounts of real-life ambulance crashes, rendering them an invaluable resource for analyzing the multifaceted aspects leading to such incidents. Central to this investigation was the …",
-            "pdf_link": "2024 (A) Das TRR Ambulance.pdf"
+            "pdf_link": "2024 (A) Das TRR Ambulance.pdf",
+            "img": "new_images/8uzoZH4hB9AC.png"
         },
         {
             "title": "Automating Pedestrian Crash Typology Using Transformer Models",
@@ -628,7 +630,8 @@
             "pages": "03611981241260691",
             "publisher": "SAGE Publications",
             "description": "To accurately analyze and understand the causes of traffic crashes involving pedestrians and bicyclists, the Pedestrian and Bicycle Crash Analysis Tool (PBCAT) was developed. However, manual data entry in the tool is labor intensive. Thus, a more automated method is needed for large data sets. This study developed deep-learning models to automate the classification of crash types. Additionally, the PBCAT’s classification typology can lead to imbalanced data sets, underscoring the need to actively tackle the issue of imbalanced native classification. By addressing this issue, researchers can significantly enhance their ability to harness the potential of emerging large language models. This endeavor becomes even more crucial as large language models like transformer models become increasingly accessible, offering promising opportunities in transportation safety research. This study focused on police reports …",
-            "pdf_link": "2024 (A) Oliaee TRR Ped Typo Transformers.pdf"
+            "pdf_link": "2024 (A) Oliaee TRR Ped Typo Transformers.pdf",
+            "img": "new_images/j5aT6aphRxQC.png"
         },
         {
             "title": "Unlocking Urban Sentiments about 15-Min City through Hashtags",
@@ -641,7 +644,8 @@
             "book": "International Conference on Transportation and Development 2024",
             "pages": "158-169",
             "description": "The 15-min city concept promotes active transportation and sustainable lifestyles by ensuring essential amenities within a 15-min radius from residences. While attracting significant interest, concerns about potential limitations on freedom of movement have been raised. This study aimed to gain broad insights into public perceptions and understanding of the 15-min city concept. Text mining and sentiment analysis techniques were applied to extract prevailing sentiments. The findings indicated that positive and negative sentiments were evenly distributed among the collected tweets, suggesting a balanced and diverse range of opinions. These opinions are what helps shape the policy and legislation, especially when prominent individuals with a large online presence endorse or reject a specific idea or theory. To further enhance the analysis, three different machine learning classifiers, namely naïve Bayes, logistic …",
-            "pdf_link": "2024 (A) ICTD Unlocking Urban Sentiments about 15-Min City through Hashtags.pdf"
+            "pdf_link": "2024 (A) ICTD Unlocking Urban Sentiments about 15-Min City through Hashtags.pdf",
+            "img": "new_images/yJjnfzR0HrkC.png"
         },
         {
             "title": "Is ChatGPT a Reliable Source of Transportation Equity Information for Scientific Writing?",
@@ -654,7 +658,8 @@
             "book": "International Conference on Transportation and Development 2024",
             "pages": "525-537",
             "description": "Transportation equity is an interdisciplinary agenda that requires both transportation and social inputs. Traditionally, transportation equity information is sourced from public libraries, conferences, television, and social media, among others. Artificial intelligence (AI) tools, including advanced language models such as ChatGPT, are becoming favorite information sources. However, their credibility has not been well explored. This study explored the content and usefulness of ChatGPT-generated information related to transportation equity. It utilized 152 papers retrieved through the Web of Science (WoS) repository. The prompt was crafted for ChatGPT to provide an abstract given the paper’s title. The ChatGPT’s abstracts were then compared to human-written abstracts using statistical tools and unsupervised text mining. The results indicate a weak similarity between ChatGPT and human-written abstracts. On average …",
-            "pdf_link": "2024 (A) ICTD Kutela Is ChatGPT a Reliable Source of Transportation Equity Information.pdf"
+            "pdf_link": "2024 (A) ICTD Kutela Is ChatGPT a Reliable Source of Transportation Equity Information.pdf",
+            "img": "new_images/AFmTUeZ1pmEC.png"
         },
         {
             "title": "Mapping Communication Patterns of Transit Agencies on Social Media",
@@ -667,7 +672,8 @@
             "source": "International Conference on Transportation and Development 2024",
             "pages": "688-700",
             "description": "Social media networks, like X (formerly Twitter), emerged as a revolutionary means of communication, drastically changing how information is disseminated. This study attempted to synthesize the current state of social media usage by transit agencies, accomplishing three primary tasks: (1) conducting a comprehensive review of agencies’ social media practices, (2) surveying and analyzing representative United States agencies to understand their social media usage, and (3) performing text mining on selected agencies’ archived tweets. Notably, the study revealed that the COVID-19 pandemic has significantly impacted information-sharing patterns among transit agencies. The text network analysis indicated that the information shared was primarily related to services, alerts, delays, detours, and promotional offers, such as free rides. However, more recent discussions have started to include evolving topics like …",
-            "pdf_link": "2024 (A) ICTD Transit Social Media.pdf"
+            "pdf_link": "2024 (A) ICTD Transit Social Media.pdf",
+            "img": "new_images/w2UhwfzvF0QC.png"
         },
         {
             "title": "Unraveling Crash Causation: A Deep Dive into Non-Motorists on Personal Conveyance",
@@ -680,7 +686,8 @@
             "book": "International Conference on Transportation and Development 2024",
             "pages": "47-58",
             "description": "Non-motorists using personal conveyances, like skateboards, face increased safety challenges due to reduced visibility, particularly at intersections and in low light conditions. Safety studies on non-motorists using personal conveyances rely on limited hospital datasets or controlled/naturalistic riding conditions, lacking comprehensive identification of e-scooter riding risk factors. To address this research gap, this study collected real-world traffic crash data and quantified safety risks related to key contributing factors. Utilizing the 2020−2021 Fatality Analysis Reporting System (FARS) fatal crash data, this study examined the patterns of crashes associated with non-motorists using personal conveyances at segments and intersections. The findings provide valuable insights into key risk factors that can guide stakeholders, municipalities, and campus administrators in developing effective mitigation strategies to reduce …",
-            "pdf_link": "2024 (A) ICTD ASCE Deep Dive into Non-Motorists on Personal Conveyance.pdf"
+            "pdf_link": "2024 (A) ICTD ASCE Deep Dive into Non-Motorists on Personal Conveyance.pdf",
+            "img": "new_images/qCpRzq7zkD8C.png"
         },
         {
             "title": "Causal Insights into Speeding Crashes",
@@ -693,7 +700,8 @@
             "book": "International Conference on Transportation and Development 2024",
             "pages": "348-359",
             "description": "Excessive speeding poses significant risks to road safety, impacting a driver’s ability to maneuver safely around obstacles and leading to longer stopping distances and delayed reactions to hazardous situations. It is a major contributor to fatal and serious road trauma, accounting for over 20% of such incidents in the US. Eliminating speeding entirely could potentially substantially reduce fatal injuries by 20% or more. This study leveraged the comprehensive National Highway Traffic Safety Administration’s (NHTSA) Fatality Analysis Reporting System (FARS) data, focusing on 50,081 speed-related motor vehicle traffic fatal crashes that occurred between 2016 and 2021, and a probabilistic graphical model to investigate the causal associations between key contributing factors involved in these speeding incidents. Ultimately, this high-impact research advanced our understanding of the risks posed by speeding and …",
-            "pdf_link": "2024 (A) ICTD Causal Insights into Speeding Crashes.pdf"
+            "pdf_link": "2024 (A) ICTD Causal Insights into Speeding Crashes.pdf",
+            "img": "new_images/sgsej9ZJWHMC.png"
         },
         {
             "title": "Delivering Tomorrow: Analyzing Automated Delivery Vehicle Narratives through Media Mining",
@@ -706,7 +714,8 @@
             "book": "International Conference on Transportation and Development 2024",
             "pages": "627-639",
             "description": "Amid the COVID-19 pandemic, automated delivery vehicles (ADVs) have gained even more significance due to their touchless capabilities, aligning perfectly with the need for contactless delivery services to safeguard public health. This study collected and conducted quantitative analysis on the most relevant 86 news articles focused on ADVs by employing sophisticated text network and collocation analyses to extract valuable insights. The findings indicated a noteworthy trend: express delivery services have forged partnerships with various ADV companies, leveraging their capabilities to tackle the challenging “last mile” delivery stage. Furthermore, the study revealed a growing integration of ADVs into diverse delivery sectors, particularly in food, grocery, and other on-demand services. Overall, this study provides invaluable insights into the current state of ADVs and their widespread adoption across various …",
-            "pdf_link": "2024 (A) ICTD Analyzing Automated Delivery Vehicle Narratives.pdf"
+            "pdf_link": "2024 (A) ICTD Analyzing Automated Delivery Vehicle Narratives.pdf",
+            "img": "new_images/tBlTYpvFGQIC.png"
         },
         {
             "title": "Burden of disease scenarios for 204 countries and territories, 2022-2050: a forecasting analysis for the global burden of disease study 2021",
@@ -731,7 +740,8 @@
             "pages": "03611981241242751",
             "publisher": "SAGE Publications",
             "description": "Pedestrian-involved hit-and-run (PIHR) crashes represent a significant public health concern, and identifying patterns in these crashes can aid in developing effective countermeasures. Cluster correspondence analysis (CCA) is a multidimensional statistical technique that combines dimension reduction and clustering to identify patterns in categorical data. This method provides insights into underlying patterns and relationships among categories. The current study analyzed a Louisiana crash dataset of 2,201 PIHR crashes from 2015 to 2019 using CCA to identify underlying patterns. CCA identified six clusters, examined the top associative attributes, and assessed their cluster-to-dataset percentage ratio. The first two clusters, representing 66% of PIHR crashes, mainly involved crashes on city streets, occurring primarily during early night (7 to 11 p.m.) in Cluster 1 and the afternoon (12 noon to 4 p.m.) in Cluster 2 …",
-            "pdf_link": "2024 (A) Rahman TRR pedestrian-involved-hit-and-run-crashes-through-cluster.pdf"
+            "pdf_link": "2024 (A) Rahman TRR pedestrian-involved-hit-and-run-crashes-through-cluster.pdf",
+            "img": "new_images/SpPTWFSNUtQC.png"
         },
         {
             "title": "Decoding the impacts of contributory factors and addressing social disparities in crash frequency analysis",
@@ -746,7 +756,8 @@
             "pages": "107375",
             "publisher": "Pergamon",
             "description": "Understanding the relationship between social disparities and traffic crash frequency is essential for long-term transportation planning and policymaking. Few studies have systemically examined the influence of socioeconomic and infrastructure-related disparities in macro-level traffic crash frequency. This study provides a framework to spatially examine the relationships between crash rates and demographic and socioeconomic characteristics, as well as roadway infrastructure and traffic characteristics at the Census Block Groups (CBGs) level. Spatial autocorrelation analysis was first performed on the residual of the Ordinary Least Squares (OLS) model to identify whether non-stationarity exists. Then, the Geographically Weighted Regression (GWR) model and the Multiscale Geographically Weighted Regression (MGWR) model were applied to assess the impacts of these factors on crash rates spatially and …",
-            "pdf_link": "2024 (A) Liu AAP Disparities Crash Freq.pdf"
+            "pdf_link": "2024 (A) Liu AAP Disparities Crash Freq.pdf",
+            "img": "new_images/aDl3D7KC1E4C.png"
         },
         {
             "title": "Crashes involving distracted pedestrians: Identifying risk factors and their relationships to pedestrian severity levels and distraction modes",
@@ -761,7 +772,8 @@
             "pages": "107359",
             "publisher": "Pergamon",
             "description": "The concept of distracted pedestrians and its impact on highway safety has gained increasing attention in recent years. However, studies focusing exclusively on distracted pedestrian crashes are less pervasive than distracted driving. In addition, most prior studies investigate the harmful effect of cellphone usage while walking, without considering other forms of pedestrian distraction. Also, the existing literature provides limited knowledge on comprehending the affinities between pedestrian distraction and safety consequences. This study aims to reveal the chain of contributing factors involved in distracted pedestrian crashes, considering both pedestrian severity levels and specific distraction-related tasks. Ten years (2010–2019) of related crashes were extracted from the Louisiana Department of Transportation and Development (LADOTD) database, and association rule mining (ARM) was applied to identify the …",
-            "pdf_link": "2024 (A) Hossain AAP Ped Distraction.pdf"
+            "pdf_link": "2024 (A) Hossain AAP Ped Distraction.pdf",
+            "img": "new_images/vnF2_uLGgtgC.png"
         },
         {
             "title": "Exploring the Shared Use Pathway: A Review of the Design and Demand Estimation Approaches",
@@ -963,7 +975,8 @@
             "publication_date": "2023/10/18",
             "journal": "International Journal of Transportation Science and Technology",
             "publisher": "Elsevier",
-            "description": "Curved segments account for a disproportionately high proportion of fatal and serious injury crashes, with most of these crashes occurring on rural two-lane (R2L) highways. During the 10-year period from 2008 to 2017, a total of 1,234 fatal single-vehicle roadway departure (SV-RwD) crashes occurred on R2L roads in Louisiana, out of which 635 (51.5 %) crashes occurred on curved segments. Therefore, it is critical to investigate the causes of SV-RwD crashes, specifically those that occur on curved segments. This study aimed to investigate the ‘association knowledge’ of the factors contributing to SV-RwD crashes on R2L curved segments in Louisiana using fatal and injury crash data collected from 2008 to 2017. The study utilized Cluster Correspondence Analysis (CCA), a robust joint dimension reduction and clustering method for handling high-dimensionality and multicollinearity of crash data, to achieve this …"
+            "description": "Curved segments account for a disproportionately high proportion of fatal and serious injury crashes, with most of these crashes occurring on rural two-lane (R2L) highways. During the 10-year period from 2008 to 2017, a total of 1,234 fatal single-vehicle roadway departure (SV-RwD) crashes occurred on R2L roads in Louisiana, out of which 635 (51.5 %) crashes occurred on curved segments. Therefore, it is critical to investigate the causes of SV-RwD crashes, specifically those that occur on curved segments. This study aimed to investigate the ‘association knowledge’ of the factors contributing to SV-RwD crashes on R2L curved segments in Louisiana using fatal and injury crash data collected from 2008 to 2017. The study utilized Cluster Correspondence Analysis (CCA), a robust joint dimension reduction and clustering method for handling high-dimensionality and multicollinearity of crash data, to achieve this …",
+            "img": "new_images/PuOEWVtPfzwC.png"
         },
         {
             "title": "Rules mining on hybrid electric vehicle consumer complaint database",
@@ -4623,7 +4636,8 @@
             "year": "2024",
             "authors": "Boniphace Kutela, Abdallah Kinero, Hellen Shita, Subasish Das, Cuthbert Ruseruka, Tumlumbe Juliana Chengula, Norris Novat",
             "publication_date": "2024/8/15",
-            "journal": "Available at SSRN 4926662"
+            "journal": "Available at SSRN 4926662",
+            "img": "new_images/Tfl4UtY-dJUC.png"
         },
         {
             "title": "Global estimates on the number of people blind or visually impaired by cataract: a meta-analysis from 2000 to 2020",
@@ -4652,7 +4666,8 @@
             "journal": "Transportation Research Record",
             "pages": "03611981241277819",
             "publisher": "SAGE Publications",
-            "pdf_link": "2024 (A) geedipally TRR Frontage Road SPFs.pdf"
+            "pdf_link": "2024 (A) geedipally TRR Frontage Road SPFs.pdf",
+            "img": "new_images/17ZO-CJnx_8C.png"
         },
         {
             "title": "Assessing the risk of pedestrian crossing behavior on suburban roads using structural equation model",
@@ -4663,7 +4678,8 @@
             "publication_date": "2024/10/3",
             "journal": "Journal of Traffic and Transportation Engineering (English Edition)",
             "publisher": "Elsevier",
-            "pdf_link": "2024 (A) Kavianpour JTTE Ped Crossing.pdf"
+            "pdf_link": "2024 (A) Kavianpour JTTE Ped Crossing.pdf",
+            "img": "new_images/qPeb-qHga9sC.png"
         },
         {
             "title": "Navigating the Blame Game: Investigating Automated Vehicle Fault in Collisions under Mixed Traffic Conditions",
@@ -4677,7 +4693,8 @@
             "pages": "104831",
             "publisher": "North-Holland",
             "description": "Vehicle being at fault in a crash has extensively been associated with its driver's behaviors and other human errors for human-driven vehicles (HDV). The introduction of automated vehicles (AVs) is expected to eliminate such human errors due to the ability of AVs to communicate with the external environment. However, various reports have documented AVs being at fault in collisions. This study applied text mining and mixed-effects logistic regression (MELR) on crash data involving AVs collected between 2017 and 2022 in California to explore the likelihood of an AV being at fault during a collision. It was found that among 497 crashes, a relatively small percentage (14.29%) involved AVs being at fault. The text network results revealed patterns of keywords associated with the AVs being at fault. Such patterns include conventional mode of operation, area of impact, and resulting injuries. Furthermore, with about a …",
-            "pdf_link": "2024 (A) Kutela RAS AV Blame Game.pdf"
+            "pdf_link": "2024 (A) Kutela RAS AV Blame Game.pdf",
+            "img": "new_images/wuD5JclIwkYC.png"
         },
         {
             "title": "A Survey on Deep Tabular Learning",
@@ -4686,7 +4703,8 @@
             "year": "2024",
             "authors": "Shriyank Somvanshi, Subasish Das, Syed Aaqib Javed, Gian Antariksa, Ahmed Hossain",
             "publication_date": "2024/10/15",
-            "journal": "arXiv preprint arXiv:2410.12034"
+            "journal": "arXiv preprint arXiv:2410.12034",
+            "img": "new_images/Gpwnp1kGG20C.png"
         },
         {
             "title": "Exploring patterns in older pedestrian involved crashes during nighttime",
@@ -4715,7 +4733,8 @@
             "pages": "937-950",
             "publisher": "Pergamon",
             "description": "Driver distraction and reduced situational awareness pose significant risks in vehicles with Level 2 (L2) automation systems, such as adaptive cruise control and lane-keeping assistance. This study analyzed naturalistic driving data using Association Rules Mining (ARM) to investigate the impact of L2 automation on driver behavior. The dataset included 771 driving events categorized by L2 system activation status (active or inactive), intersection types, and hand positions on the steering wheel. Key variables were analyzed, such as eyes-off-road (EOR) time, off-road glance frequency and duration, and the influence of different driving conditions. The findings revealed that driver distraction, indicated by longer EOR times and more frequent off-road glances, is significantly higher when L2 systems are active. Additionally, drivers exhibit the highest levels of inattention with no hands on the wheel during L2 activation …",
-            "pdf_link": "2024 (A) Chakraborty TRF L2.pdf"
+            "pdf_link": "2024 (A) Chakraborty TRF L2.pdf",
+            "img": "new_images/3MwzVuqRcA0C.png"
         },
         {
             "title": "Understanding the influence of environmental factors on driver speed: a structural equation modeling analysis",
@@ -4731,7 +4750,7 @@
             "pages": "427-439",
             "publisher": "Elsevier",
             "description": "This study examined the influential roadway and contextual factors affecting drivers' speed selection through a comprehensive investigation employing structural equation modeling. Roadway and contextual variables including road curvature, presence of roundabouts, adverse weather conditions, and access were investigated using infrared speed sensors. The analysis revealed that specific roadway and contextual factors such as field variables, uphill and downhill road inclines, particular road curvature, and rainy weather significantly influence drivers' chosen speeds, while factors such as road access, nighttime conditions, larger road curvature, and signage exhibit a lesser impact. Notably, the study also found a positive correlation between road curvature radius and driver-chosen speed. The study's implications for transportation infrastructure planning and road safety interventions are underscored, with potential …",
-            "img": "images/2024_Oo1CbQkBAzEC.jpg",
+            "img": "new_images/Oo1CbQkBAzEC.png",
             "pdf_link": "2024 (A) Sheykhfard IATSS Driver Speed SEM.pdf"
         },
         {
@@ -4746,7 +4765,8 @@
             "volume": "15",
             "pages": "298-318",
             "publisher": "Elsevier",
-            "description": "Curved segments account for a disproportionately high proportion of fatal and serious injury crashes, with most of these crashes occurring on rural two-lane (R2L) highways. During the 10-year period from 2008 to 2017, a total of 1 234 fatal single-vehicle roadway departure (SV-RwD) crashes occurred on R2L roads in Louisiana, out of which 635 (51.5 %) crashes occurred on curved segments. Therefore, it is critical to investigate the causes of SV-RwD crashes, specifically those that occur on curved segments. This study aimed to investigate the ‘association knowledge’ of the factors contributing to SV-RwD crashes on R2L curved segments in Louisiana using fatal and injury crash data collected from 2008 to 2017. The study utilized Cluster Correspondence Analysis (CCA), a robust joint dimension reduction and clustering method for handling high-dimensionality and multicollinearity of crash data, to achieve this …"
+            "description": "Curved segments account for a disproportionately high proportion of fatal and serious injury crashes, with most of these crashes occurring on rural two-lane (R2L) highways. During the 10-year period from 2008 to 2017, a total of 1 234 fatal single-vehicle roadway departure (SV-RwD) crashes occurred on R2L roads in Louisiana, out of which 635 (51.5 %) crashes occurred on curved segments. Therefore, it is critical to investigate the causes of SV-RwD crashes, specifically those that occur on curved segments. This study aimed to investigate the ‘association knowledge’ of the factors contributing to SV-RwD crashes on R2L curved segments in Louisiana using fatal and injury crash data collected from 2008 to 2017. The study utilized Cluster Correspondence Analysis (CCA), a robust joint dimension reduction and clustering method for handling high-dimensionality and multicollinearity of crash data, to achieve this …",
+            "img": "new_images/PuOEWVtPfzwC.png"
         },
         {
             "title": "Behavioral Modeling of Drivers near Speed Control Cameras: A Dual Perspective from Micro and Macro Data",
@@ -4760,7 +4780,8 @@
             "pages": "03611981241287787",
             "publisher": "SAGE Publications",
             "description": "The present study investigates the efficacy of speed cameras in managing vehicle speeds and their influence on various driver demographics within the operational context of the cameras. The research, conducted as a case study in Iran, comprises both macroscopic and detailed analyses, quantifying vehicle speeds at different spatial points relative to the speed camera location—upstream, adjacent to, and downstream of the camera—using a manual laser speedometer. Furthermore, the study examines diverse driver behavior metrics, including vehicle type, speeds at different locations, lane changes, braking actions, and measures such as obscuring license plates. Statistical analyses show that speed cameras effectively reduce speeds across different user groups and lead to increased braking and lane-changing behaviors, particularly among light vehicle categories. Moreover, the study reveals distinct …",
-            "pdf_link": "2024 (A) Abbas TRR Behavioral-modeling-of-drivers-near-speed-control-cameras.pdf"
+            "pdf_link": "2024 (A) Abbas TRR Behavioral-modeling-of-drivers-near-speed-control-cameras.pdf",
+            "img": "new_images/rFyVMFCKTwsC.png"
         },
         {
             "title": "Navigating the blame game: Investigating automated vehicle fault in collisions under mixed traffic conditions",
@@ -4774,7 +4795,8 @@
             "volume": "182",
             "pages": "104831",
             "publisher": "North-Holland",
-            "description": "Vehicle being at fault in a crash has extensively been associated with its driver's behaviors and other human errors for human-driven vehicles (HDV). The introduction of automated vehicles (AVs) is expected to eliminate such human errors due to the ability of AVs to communicate with the external environment. However, various reports have documented AVs being at fault in collisions. This study applied text mining and mixed-effects logistic regression (MELR) on crash data involving AVs collected between 2017 and 2022 in California to explore the likelihood of an AV being at fault during a collision. It was found that among 497 crashes, a relatively small percentage (14.29 %) involved AVs being at fault. The text network results revealed patterns of keywords associated with the AVs being at fault. Such patterns include conventional mode of operation, area of impact, and resulting injuries. Furthermore, with about a …"
+            "description": "Vehicle being at fault in a crash has extensively been associated with its driver's behaviors and other human errors for human-driven vehicles (HDV). The introduction of automated vehicles (AVs) is expected to eliminate such human errors due to the ability of AVs to communicate with the external environment. However, various reports have documented AVs being at fault in collisions. This study applied text mining and mixed-effects logistic regression (MELR) on crash data involving AVs collected between 2017 and 2022 in California to explore the likelihood of an AV being at fault during a collision. It was found that among 497 crashes, a relatively small percentage (14.29 %) involved AVs being at fault. The text network results revealed patterns of keywords associated with the AVs being at fault. Such patterns include conventional mode of operation, area of impact, and resulting injuries. Furthermore, with about a …",
+            "img": "new_images/wuD5JclIwkYC.png"
         },
         {
             "title": "Analyzing Purchase Intentions of Used Electric Vehicles Through Consumer Experiences: A Structural Equation Modeling Approach",
@@ -4787,7 +4809,8 @@
             "journal": "Transport Policy",
             "publisher": "Pergamon",
             "description": "The transition rate to electric vehicles (EVs) has accelerated globally as indicated by a notable rise in the number of used EVs in the market. However, most existing studies focused on the attributes related to the new EVs. This study explores the factors influencing consumer purchase intentions of used EVs using structural equation modeling (SEM). Drawing on a survey of 992 used EV owners in the United States, the research examines the impact of sociodemographic characteristics, purchase details, information sources, pre-purchase concerns, current driving and charging experiences, and future purchase intentions. The findings reveal that charging ease has the strongest positive direct effect on future purchase intentions, while information sources and driving experience show negative direct effects. Sociodemographic characteristics and pre-purchase concerns indirectly influence future intentions through …",
-            "pdf_link": "2024 (A) Abbas TP Used EV Purchase.pdf"
+            "pdf_link": "2024 (A) Abbas TP Used EV Purchase.pdf",
+            "img": "new_images/cB__R-XWw9UC.png"
         },
         {
             "title": "A Survey on Kolmogorov-Arnold Network",
@@ -4798,7 +4821,8 @@
             "authors": "Shriyank Somvanshi, Syed Aaqib Javed, Md Monzurul Islam, Diwas Pandit, Subasish Das",
             "publication_date": "2024/11/9",
             "source": "arXiv preprint arXiv:2411.06078",
-            "description": "This systematic review explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov-Arnold Networks (KAN), a neural network model inspired by the Kolmogorov-Arnold representation theorem. KANs distinguish themselves from traditional neural networks by using learnable, spline-parameterized functions instead of fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. This review details KAN's architectural strengths, including adaptive edge-based activation functions that improve parameter efficiency and scalability in applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements, including Temporal-KAN, FastKAN, and Partial Differential Equation (PDE) KAN, illustrate KAN's growing applicability in dynamic environments, enhancing interpretability, computational efficiency, and adaptability for complex function approximation tasks. Additionally, this paper discusses KAN's integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks requiring hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, motivating ongoing research into optimization strategies, regularization techniques, and hybrid models. This paper highlights KAN's role in modern neural architectures and outlines future directions to improve its computational efficiency, interpretability, and scalability in data-intensive applications."
+            "description": "This systematic review explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov-Arnold Networks (KAN), a neural network model inspired by the Kolmogorov-Arnold representation theorem. KANs distinguish themselves from traditional neural networks by using learnable, spline-parameterized functions instead of fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. This review details KAN's architectural strengths, including adaptive edge-based activation functions that improve parameter efficiency and scalability in applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements, including Temporal-KAN, FastKAN, and Partial Differential Equation (PDE) KAN, illustrate KAN's growing applicability in dynamic environments, enhancing interpretability, computational efficiency, and adaptability for complex function approximation tasks. Additionally, this paper discusses KAN's integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks requiring hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, motivating ongoing research into optimization strategies, regularization techniques, and hybrid models. This paper highlights KAN's role in modern neural architectures and outlines future directions to improve its computational efficiency, interpretability, and scalability in data-intensive applications.",
+            "img": "new_images/wGzT3bKASkAC.png"
         },
         {
             "title": "Identifying attribute associations in fatal speeding crashes using latent class clustering and association rule mining",
@@ -4812,7 +4836,8 @@
             "pages": "1-40",
             "publisher": "Taylor & Francis",
             "description": "Speeding has been distinguished as one of the most frequent and persistent contributing factors and is a critical contributing factor to the degree of injury severity. In the United States, at least a quarter of nationwide annual fatal crashes during the last decade involved speeding. There is still a need for an overarching look at crashes involving speeding by considering a wider set of crashes, roadway, driver, and vehicle characteristics. Despite extensive research on speeding-related crashes, there is limited understanding of how collective variables in homogeneous crash clusters contribute to fatal speeding crashes. This paper addresses this gap by investigating these collective impacts using fatal crash data from the Fatality Analysis Reporting System (FARS). Using crash data from the 2015–2019 FARS repository, this study applies latent class clustering (LCC) to obtain homogeneous clusters of fatal speeding …",
-            "pdf_link": "2024 (A) Rahman JTSS Fatal Speed Crashes ARM.pdf"
+            "pdf_link": "2024 (A) Rahman JTSS Fatal Speed Crashes ARM.pdf",
+            "img": "new_images/BW2nPTmhBn4C.png"
         },
         {
             "title": "Understanding patterns of factor influences in motorcycle crashes with fixed objects",
@@ -4826,7 +4851,8 @@
             "pages": "1-27",
             "publisher": "Taylor & Francis",
             "description": "Previous research has demonstrated that crashes involving motorcycles and fixed objects often result in severe injuries. However, there is a scarcity of stand-alone studies examining the contributing factors related to this specific type of crash. This study sought to address this gap by analyzing a comprehensive dataset comprising 1,198 crash observations involving motorcycles and fixed objects over a 5-year period (2016–2020) in Massachusetts. By understanding the contributing factors more comprehensively, this study aims to facilitate targeted interventions to mitigate the severity of crashes involving motorcycles and fixed objects, ultimately fostering a safer road environment. Through data conflation, various factors pertaining to driver demographics, driver actions, road features, traffic characteristics, weather conditions, and lighting conditions were considered for this analysis. A novel approach called cluster …",
-            "pdf_link": "2024 (A) Das JTSS Understanding patterns of factor influences in motorcycle crashes with fixed objects.pdf"
+            "pdf_link": "2024 (A) Das JTSS Understanding patterns of factor influences in motorcycle crashes with fixed objects.pdf",
+            "img": "new_images/K4-iKlO5MD4C.png"
         },
         {
             "title": "Demographic risk factors and injury severity scores in Substance-use behaviour related traffic crashes",
@@ -4870,7 +4896,8 @@
             "pages": "1-40",
             "publisher": "Taylor & Francis",
             "description": "Understanding the impact of different weather conditions on crash frequency and crash severance is essential for developing effective strategies and interventions to mitigate road crashes. Extensive research has been conducted worldwide over the past few decades to investigate the relationship between weather conditions and traffic crashes. By synthesizing this collective body of work using the guidelines of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), this paper seeks to provide a valuable resource for practitioners, policymakers, and researchers in their quest for evidence-based strategies to enhance traffic safety and minimize the adverse effects of weather conditions on road users. This systematic literature review establishes eligibility criteria for selecting relevant studies that span diverse geographical regions, climates, and methodologies. The objective is to present a …",
-            "pdf_link": "2024 (A) Das JTSS Weather conditions and traffic safety.pdf"
+            "pdf_link": "2024 (A) Das JTSS Weather conditions and traffic safety.pdf",
+            "img": "new_images/ShjGdcaqzI0C.png"
         },
         {
             "title": "Analyzing purchase intentions of used electric vehicles through consumer experiences: A structural equation modeling approach",
@@ -4880,7 +4907,8 @@
             "authors": "Abbas Sheykhfard, Mohammad Azmoodeh, Subasish Das, Boniphace Kutela",
             "publication_date": "2024/11/10",
             "journal": "Transport Policy",
-            "publisher": "Pergamon"
+            "publisher": "Pergamon",
+            "img": "new_images/cB__R-XWw9UC.png"
         },
         {
             "title": "Investigating Factor Associations in Barrier Crashes through Cluster Correspondence Analysis",
@@ -4998,7 +5026,8 @@
             "journal": "Transportmetrica A: Transport Science",
             "pages": "1-45",
             "publisher": "Taylor & Francis",
-            "description": "SUV-type vehicles (light trucks, minivans, vans, SUVs) pose significant risks to pedestrians due to their size and weight. This study analyzed pedestrian crashes involving SUVs using Louisiana traffic crash data (2017–2021) with a random parameter ordered probit model to account for unobserved heterogeneity. Factors linked to higher pedestrian injury severity include winter conditions, divided roads, midblock crossings, business/residential areas, and drivers aged 25–65. Lower injury severity is associated with state highways, city streets, low-speed roads (<25 mph), undivided two-way roads, and intersections. Stability of parameters was observed over time, particularly for crashes involving single SUVs and pedestrians in normal conditions. Variations in variables like \"white dashed line\" and \"proceeding straight ahead\" highlight the influence of daylight and speed limits. At the policy level, integrating these …"
+            "description": "SUV-type vehicles (light trucks, minivans, vans, SUVs) pose significant risks to pedestrians due to their size and weight. This study analyzed pedestrian crashes involving SUVs using Louisiana traffic crash data (2017–2021) with a random parameter ordered probit model to account for unobserved heterogeneity. Factors linked to higher pedestrian injury severity include winter conditions, divided roads, midblock crossings, business/residential areas, and drivers aged 25–65. Lower injury severity is associated with state highways, city streets, low-speed roads (<25 mph), undivided two-way roads, and intersections. Stability of parameters was observed over time, particularly for crashes involving single SUVs and pedestrians in normal conditions. Variations in variables like \"white dashed line\" and \"proceeding straight ahead\" highlight the influence of daylight and speed limits. At the policy level, integrating these …",
+            "img": "new_images/Nufq_to8ts0C.png"
         }
     ]
 }
