@@ -4699,7 +4699,8 @@
             "volume": "209",
             "pages": "107815",
             "publisher": "Pergamon",
-            "pdf_link": "2024 (A) Mimi AAP Older Ped.pdf"
+            "pdf_link": "2024 (A) Mimi AAP Older Ped.pdf",
+            "img": "new_images/T8_be82Iz5gC.png"
         },
         {
             "title": "Impact of level 2 automation on driver behavior: A study using association rules mining",
@@ -4838,7 +4839,8 @@
             "volume": "108",
             "pages": "168-187",
             "publisher": "Pergamon",
-            "pdf_link": "2024 (A) Mimi TRF Substance.pdf"
+            "pdf_link": "2024 (A) Mimi TRF Substance.pdf",
+            "img": "new_images/cSdaV2aYdYsC.png"
         },
         {
             "title": "Revealing equity gaps in pedestrian crash data through explainable artificial intelligence clustering",
@@ -4853,7 +4855,8 @@
             "pages": "104538",
             "publisher": "Pergamon",
             "description": "Pedestrian crashes represent a critical traffic safety issue, often resulting in fatal outcomes and raising significant equity concerns. This study analyzed detailed records of pedestrian-involved crashes in California from 2018 to 2021, employing a novel clustering framework enhanced by the SHapley Additive exPlanations approach. The proposed method significantly enhanced interpretability by effectively capturing complex non-linear relationships and interactions among features. The results indicate that impairment status and lighting conditions are pivotal in severe crash outcomes, while broader societal and demographic factors are more substantially associated with less severe cases. Non-injury pedestrian crashes tend to occur in less underserved, more resilient communities, whereas fatal crashes are more common in underserved communities with poor lighting and incomplete pedestrian infrastructure …",
-            "pdf_link": "2024 (A) Liu TR-D Pedestrian Crash XAI.pdf"
+            "pdf_link": "2024 (A) Liu TR-D Pedestrian Crash XAI.pdf",
+            "img": "new_images/wBLCggQE-ToC.png"
         },
         {
             "title": "Unraveling the complex relationship between weather conditions and traffic safety",
@@ -4903,7 +4906,8 @@
             "journal": "Green Energy and Intelligent Transportation",
             "pages": "100255",
             "publisher": "Elsevier",
-            "description": "Electric vehicles (EVs) are gaining popularity across the globe. Various initiatives are being implemented to ensure that most of the operating vehicles on public roadways are EVs by 2050. Such initiatives include the construction of charging stations to improve EV charging accessibility. The utilization of the charging stations has not been explored to a great extent, despite its importance in future installations in various cities. This study evaluated the EV station utilization across eleven cities in three countries: the United States, Canada, and Scotland. The Negative Binomial (NB) regression model was applied to understand the influence of the spatial-temporal factors on the daily utilization of EV charging stations. In addition to the overall analysis, country-specific analyses were also performed. It was revealed that there is a great variation in daily EV utilization across the cities in different countries and within the …"
+            "description": "Electric vehicles (EVs) are gaining popularity across the globe. Various initiatives are being implemented to ensure that most of the operating vehicles on public roadways are EVs by 2050. Such initiatives include the construction of charging stations to improve EV charging accessibility. The utilization of the charging stations has not been explored to a great extent, despite its importance in future installations in various cities. This study evaluated the EV station utilization across eleven cities in three countries: the United States, Canada, and Scotland. The Negative Binomial (NB) regression model was applied to understand the influence of the spatial-temporal factors on the daily utilization of EV charging stations. In addition to the overall analysis, country-specific analyses were also performed. It was revealed that there is a great variation in daily EV utilization across the cities in different countries and within the …",
+            "img": "new_images/Tfl4UtY-dJUC.png"
         },
         {
             "title": "Analysis of Motorcyclists Crash Severity using Cluster Correspondence and Hierarchical Binary Logit Models",
@@ -4916,7 +4920,8 @@
             "journal": "Multimodal Transportation",
             "pages": "100197",
             "publisher": "Elsevier",
-            "description": "Crashes involving motorcyclists account for a significant portion of traffic-related injuries and fatalities. Despite motorcycles making only three percent of all registered vehicles, motorcyclists account for 14 percent of all roadway fatalities. As the number of motorcyclists increase, there is an urgent need to understand the factors that affect the severity of injuries they sustain in crashes. In this paper, we use cluster correspondence analysis (CCA) and hierarchical binary logit model to explore the factors associated with motorcyclists’ crash injury severities in Utah between 2016 and 2020. Cluster correspondence analysis was used to cluster the crash data into seven groups, while hierarchical binary logit model was used to identify the significant factors that contributed to the injury severity of motorcycle crashes. The results of this study indicate that among the crash-contributing factors the motorcyclist age, roadway …"
+            "description": "Crashes involving motorcyclists account for a significant portion of traffic-related injuries and fatalities. Despite motorcycles making only three percent of all registered vehicles, motorcyclists account for 14 percent of all roadway fatalities. As the number of motorcyclists increase, there is an urgent need to understand the factors that affect the severity of injuries they sustain in crashes. In this paper, we use cluster correspondence analysis (CCA) and hierarchical binary logit model to explore the factors associated with motorcyclists’ crash injury severities in Utah between 2016 and 2020. Cluster correspondence analysis was used to cluster the crash data into seven groups, while hierarchical binary logit model was used to identify the significant factors that contributed to the injury severity of motorcycle crashes. The results of this study indicate that among the crash-contributing factors the motorcyclist age, roadway …",
+            "img": "new_images/oYLFIHfuHKwC.png"
         },
         {
             "title": "Automated and Explainable Artificial Intelligence to Enhance Prediction of Pedestrian Injury Severity",
@@ -4928,7 +4933,8 @@
             "publication_date": "2025/1/20",
             "journal": "IEEE Transactions on Intelligent Transportation Systems",
             "publisher": "IEEE",
-            "description": "This study used a detailed explainable AI for automatic machine learning, AutoGluon, to predict pedestrian injury severity using data collected over five years (2016-2021) in Louisiana. The final dataset includes forty variables related to pedestrian characteristics, environmental circumstances, and vehicle specifications. Pedestrian injury severity was divided into three categories: fatal, injury, and no injury. The novelty of this approach lies in the application of explainable AI (XAI), specifically SHAP (SHapley Additive exPlanations) values, to interpret the AutoML model’s predictions. This combination not only addressed the opaqueness typically associated with AI “black box” models but also illuminated the critical variables influencing pedestrian injury severity outcomes. The results revealed that the weighted ensemble model emerged as top performers, showcasing high accuracy with minimal prediction times …"
+            "description": "This study used a detailed explainable AI for automatic machine learning, AutoGluon, to predict pedestrian injury severity using data collected over five years (2016-2021) in Louisiana. The final dataset includes forty variables related to pedestrian characteristics, environmental circumstances, and vehicle specifications. Pedestrian injury severity was divided into three categories: fatal, injury, and no injury. The novelty of this approach lies in the application of explainable AI (XAI), specifically SHAP (SHapley Additive exPlanations) values, to interpret the AutoML model’s predictions. This combination not only addressed the opaqueness typically associated with AI “black box” models but also illuminated the critical variables influencing pedestrian injury severity outcomes. The results revealed that the weighted ensemble model emerged as top performers, showcasing high accuracy with minimal prediction times …",
+            "img": "new_images/DIubQTN3OvUC.png"
         },
         {
             "title": "A Hybrid Data Mining Framework to Investigate Roadway Departure Crashes on Rural Two-Lane Highways: Applying Fast and Frugal Tree with Association Rules Mining",
@@ -4937,7 +4943,8 @@
             "year": "2025",
             "authors": "Ahmed Hossain, Subasish Das, Xiaoduan Sun, Ahmed Sajid Hasan, Mohammad Jalayer",
             "publication_date": "2025/2",
-            "journal": "Available at SSRN 4937707"
+            "journal": "Available at SSRN 4937707",
+            "img": "new_images/hfzGNhXhx5MC.png"
         },
         {
             "title": "Behavioral Insights into Older Driver Involved Crashes at High-Speed Signalized Intersections (Hssis): A Random Parameter Ordered Probit Approach",
@@ -4948,7 +4955,8 @@
             "authors": "Ahmed Hossain, Subasish Das, Monire Jafari, Siam Junaed, Julius Codjoe",
             "publication_date": "2025/1",
             "journal": "Available at SSRN 5089636",
-            "description": "The ongoing increase in the generation of baby boomers is expected to significantly impact demographic changes, leading to a higher proportion of elderly individuals in the population. According to the 2020 census data, 1 in every 6 people in the United States were aged 65 years and over. Due to the rise of this specific age group population and the corresponding increase in driver population, their safety on the roadway is a critical concern. Due to the reduced cognitive skills and decision-making abilities, older drivers frequently struggle in high-speed settings. This study aims to investigate the unique driving challenges of older drivers at high-speed signalized intersections (HSSIs) with posted speed limits of 45 mph or higher. For this purpose, 3,446 crashes on HSSIs involving older drivers were collected from Louisiana State between 2017 and 2021. The research team explored Random Parameter Ordered Probit with Heterogeneity in Means (RPOP-HM) for analysis purposes. The choice of random parameter modeling helped to address the inherent ‘ordinal nature of crash severity’in addition to ‘unobserved heterogeneity’in the crash data. The research identified some of the critical factors increasing the likelihood of fatal-severe or injury crashes involving older drivers at HSSIs including the manner of collision (right turn, right-angle), presence of passengers in the vehicles, difficulties in driving roadways with multiple lanes (3-4) and higher ADT and driving during the weekend. The findings of this study can guide transportation agencies in implementing targeted countermeasures, such as advanced warning systems, protected turn phases …"
+            "description": "The ongoing increase in the generation of baby boomers is expected to significantly impact demographic changes, leading to a higher proportion of elderly individuals in the population. According to the 2020 census data, 1 in every 6 people in the United States were aged 65 years and over. Due to the rise of this specific age group population and the corresponding increase in driver population, their safety on the roadway is a critical concern. Due to the reduced cognitive skills and decision-making abilities, older drivers frequently struggle in high-speed settings. This study aims to investigate the unique driving challenges of older drivers at high-speed signalized intersections (HSSIs) with posted speed limits of 45 mph or higher. For this purpose, 3,446 crashes on HSSIs involving older drivers were collected from Louisiana State between 2017 and 2021. The research team explored Random Parameter Ordered Probit with Heterogeneity in Means (RPOP-HM) for analysis purposes. The choice of random parameter modeling helped to address the inherent ‘ordinal nature of crash severity’in addition to ‘unobserved heterogeneity’in the crash data. The research identified some of the critical factors increasing the likelihood of fatal-severe or injury crashes involving older drivers at HSSIs including the manner of collision (right turn, right-angle), presence of passengers in the vehicles, difficulties in driving roadways with multiple lanes (3-4) and higher ADT and driving during the weekend. The findings of this study can guide transportation agencies in implementing targeted countermeasures, such as advanced warning systems, protected turn phases …",
+            "img": "new_images/ojlX30-wUrgC.png"
         },
         {
             "title": "Who Should Be Responsible for Setting Standards for How Automated Vehicles are Used? Insights from the Nationwide Survey",
@@ -4966,7 +4974,8 @@
             "year": "2025",
             "authors": "Shriyank Somvanshi, Gian Antariksa, Subasish Das",
             "publication_date": "2025/1",
-            "journal": "Available at SSRN 4847615"
+            "journal": "Available at SSRN 4847615",
+            "img": "new_images/lK9BDNCuzFgC.png"
         },
         {
             "title": "Investigating Pedestrian-Vehicle Crashes on Interstate Highways: Applying Random Parameter Logit Model",
@@ -4975,7 +4984,8 @@
             "year": "2025",
             "authors": "Ahmed Hossain, Xiaoduan Sun, Subasish Das, Monire Jafari, M Ashifur Rahman",
             "publication_date": "2025/1",
-            "journal": "Available at SSRN 4649205"
+            "journal": "Available at SSRN 4649205",
+            "img": "new_images/3lUAU8Oskd0C.png"
         },
         {
             "title": "SUV-pedestrian crash severity modelling considering unobserved heterogeneity in means and variances",
