@@ -2296,7 +2296,8 @@
             "pages": "593-614",
             "publisher": "Taylor & Francis",
             "description": "Due to the absence of protective structural surrounding and advanced restraints like the motorists, motorcyclists are considered vulnerable roadway users like pedestrians and bicyclists. Per vehicle mile traveled in 2016, motorcyclist fatalities occurred 28 times more frequently than passenger car occupant fatalities. The identification of the patterns and associations between key contributing factors can help in determining strategies for motorcycle-related crash reduction. In addition to current endeavors, there is a need for newer directions in study design with newer data sources and methods. Determining the groups of core factors helps address motorcycle crashes more effectively. This study used seven years (2010–2016) of motorcycle crash data in Louisiana to determine the key relationships between the influencing factors by using Taxicab Correspondence Analysis (TCA). The analysis showed that TCA …",
-            "pdf_link": "2020 (A) Das TA Identifying key patterns in motorcycle crashes findings from taxicab correspondence analysis.pdf"
+            "pdf_link": "2020 (A) Das TA Identifying key patterns in motorcycle crashes findings from taxicab correspondence analysis.pdf",
+            "img": "new_images/bz8QjSJIRt4C.png"
         },
         {
             "title": "Louisiana’s Alcohol-Impaired Driving Problem: An Analysis of Crash and Cultural Factors",
@@ -2309,7 +2310,8 @@
             "issue": "FHWA/LA. 17/655",
             "publisher": "Louisiana Transportation Research Center",
             "description": "Though national trends regarding culture and drinking are well documented, behaviors specific to Louisiana’s diverse cultural makeup are not. This analysis addresses this need. A review of the research literature identified cultural groups and how those different groups approach age of first consumption, consistent alcohol usage, and binge drinking. The analysis of previous research identified key risk factors associated with alcohol-involved crashes. This analysis was performed at two spatial levels: parish and census block group. Descriptive statistics were computed at the parish level, followed by a comprehensive systemic analysis at the block group level. High-risk locations were identified at a granular level, including the top 50 block groups. A survey of the general population demonstrated that a large proportion of respondents perceived drinking and driving as an unacceptable behavior while also indicating that they themselves drink and drive, including drinking while driving. Respondents supported countermeasures such as sobriety checkpoints, especially during festivals, fairs, and parades; increased access to free, safe rides; and treatment for alcoholism and alcohol abuse. Gaps in the data for Louisiana were identified. These included the perspective of offenders charged with driving under the influence (DUI) or driving while intoxicated (DWI). These gaps were addressed through an online survey of DUI/DWI offenders and structured interviews with key stakeholders. The offender survey assessed beliefs and opinions of those charged with DUI/DWI in terms of the underlying reasons people drink and drive, and potential methods for …",
-            "pdf_link": "2022 (R) Louisiana Alcohol.pdf"
+            "pdf_link": "2022 (R) Louisiana Alcohol.pdf",
+            "img": "new_images/ghEM2AJqZyQC.png"
         },
         {
             "title": "Examine Trade-Offs Between Center Separation and Shoulder Width Allotment for a Given Roadway Width",
@@ -2322,7 +2324,8 @@
             "issue": "FHWA/TX-21/0-7035-R1",
             "publisher": "Texas A&M Transportation Institute",
             "description": "In Texas, four-lane undivided roadways constitute a significant amount of mileage in rural areas. These highways have poor safety performance compared to other cross sections. However, there is not always sufficient space within the available right of way to accommodate a traditional four-lane divided cross section. Thus, a framework can assist road design engineers in making decisions on cross sections for new and resurfaced rural roadway segments to optimize operational and safety performance. In this research project, researchers evaluated the safety and operational benefits of converting four-lane undivided highways into other cross-section alternatives without changing the total roadway width. First, researchers selected a sample of rural highway segments with various cross sections, including four-lane undivided, four lane with 4-ft median buffer, four lane with two-way left-turn lane (TWLTL), Super 2, and Super 2 with TWLTL. They analyzed crash data on each cross section to determine the relationship between crash frequency, exposure, access-point density, horizontal curvature, cross-sectional widths, and operating speed variables. Second, researchers collected operating speed data in the field and developed VISSIM simulation models to evaluate the operational impacts of different cross sections considered in the project. Based on safety and operational effects, researchers developed a framework that allows the analyst to select a cross section depending on traffic volume, heavy vehicle mix, cross-sectional width, and access-point density.",
-            "pdf_link": "2021 (R) Geedipally 7035.pdf"
+            "pdf_link": "2021 (R) Geedipally 7035.pdf",
+            "img": "new_images/27LrP4qxOz0C.png"
         },
         {
             "title": "Patterns of near-crash events in a naturalistic driving dataset: applying rules mining",
@@ -2337,7 +2340,8 @@
             "pages": "106346",
             "publisher": "Pergamon",
             "description": "This study aims to explore the associations between near-crash events and road geometry and trip features by investigating a naturalistic driving dataset and a corresponding roadway inventory dataset using an association rule mining method – the Apriori algorithm. To provide more insights into near-crash behavior, this study classified near-crash events into two severity levels: trivial near-crash events (-7.5 g ≤ deceleration rate ≤ -4.5 g) and non-trivial near-crash events (≤-7.5 g). From the perspective of descriptive statistics, the frequency of the itemsets, a set of categories of various variables, generated by the Apriori algorithm suggests that near-crash events are highly associated with several factors, including roadways without access control, driving during non-peak hours, roadways without a shoulder or a median, roadways with the minor arterial functional class, and roadways with a speed limit between 30 …",
-            "pdf_link": "2021 (A) Kong AAAP Near-crash using Rules Mining.pdf"
+            "pdf_link": "2021 (A) Kong AAAP Near-crash using Rules Mining.pdf",
+            "img": "new_images/kWvqk_afx_IC.png"
         },
         {
             "title": "Understanding fatal crash reporting patterns in Bangladeshi online media using text mining",
@@ -2369,7 +2373,8 @@
             "pages": "347-356",
             "publisher": "Elsevier",
             "description": "The Fixing America's Surface Transportation Act (FAST Act) highlights a data-driven method to improve traffic safety on all public paved roads in the U.S. The first edition of the Highway Safety Manual (HSM) is a widely used tool that provides crash predictive models in the form of safety performance functions (SPFs). There are no specific SPFs for low-volume roadways in the HSM. It is important to know that low-volume roadways are the major roadway types in terms of total mileage. This study used 2015–2019 crash data from Texas, incorporating with other relevant geometric and traffic variables, to develop SPFs for a specific low-volume roadway type (rural minor collector two-lane roadways). This study proposed a rules-based SPF developed approach that makes the prediction accuracies higher compared to the full model. The R2 values range from 0.18 to 0.22 for all data (without splitting) for different injury …",
-            "pdf_link": "2021 (A) Das IATSS Rules Based Two-Lane.pdf"
+            "pdf_link": "2021 (A) Das IATSS Rules Based Two-Lane.pdf",
+            "img": "new_images/WHdLCjDvYFkC.png"
         },
         {
             "title": "Modeling two-way stop-controlled intersection crashes with zero-inflated models on Louisiana rural two-lane highways",
@@ -2385,7 +2390,8 @@
             "pages": "303-309",
             "publisher": "Elsevier",
             "description": "Intersection safety continues to be a crucial issue throughout the United States. In 2016, 27% of the 37,461 traffic fatalities on U.S. roadways occurred at or near intersections. Nearly 70% of intersection-related fatalities occurred at unsignalized intersections. At such intersections, vehicles stopping or slowing to turn create speed differentials between vehicles traveling in the same direction. This is particularly problematic on two-lane highways. Research was performed to analyze safety performance for intersections on rural, two-lane roadways, with stop control on the minor roadway. Roadway, traffic, and crash data were collected from 4148 stop-controlled intersections of all 64 Parishes (counties) statewide in Louisiana, for the period of 2013 to 2017. Four count approaches, Poisson, Negative Binomial (NB), Zero-inflated Poisson (ZIP) and Zero-inflated Negative Binomial (ZINB) were used to model the number of …",
-            "pdf_link": "2021 (A) Sun IATSS Modeling two-way stop controlled intersection.pdf"
+            "pdf_link": "2021 (A) Sun IATSS Modeling two-way stop controlled intersection.pdf",
+            "img": "new_images/43bX7VzcjpAC.png"
         },
         {
             "title": "Applying interpretable machine learning to classify tree and utility pole related crash injury types",
@@ -2401,7 +2407,8 @@
             "pages": "310-316",
             "publisher": "Elsevier",
             "description": "In spite of enormous improvements in vehicle safety, roadway design, and operations, there is still an excessive amount of traffic crashes resulting in injuries and major productivity losses. Despite the many studies on factors of crash frequency and injury severity, there is still further research to be conducted. Tree and utility pole/other pole related (TUOP) crashes present approximately 12 to 15% of all roadway departure (RwD) fatal crashes in the U.S. The count of TUOP crashes comprise nearly 22% of all fatal crashes in Louisiana. From 2010 to 2016, there were 55,857 TUOP crashes reported in Louisiana. Individually examining each of these crash reports is not a realistic option to investigate crash factors. Therefore, this study employed text mining and interpretable machine learning (IML) techniques to analyze all TUOP crashes (with available crash narratives) that occurred in Louisiana from 2010 to 2016. This …",
-            "pdf_link": "2021 (A) Das IATSS Utility Poles.pdf"
+            "pdf_link": "2021 (A) Das IATSS Utility Poles.pdf",
+            "img": "new_images/zCSUwVk65WsC.png"
         },
         {
             "title": "Fatal pedestrian crashes at intersections: Trend mining using association rules",
@@ -2432,7 +2439,8 @@
             "pages": "449-462",
             "publisher": "SAGE Publications",
             "description": "The Motorcycle Crash Causation Study (MCCS) is a matched case-control study that contains a very wide list of crash contributing factors associated with motorcycle crash occurrences. It contains information such as motorcycle information, rider information, and associated trip information. This study also provides crash narrative information that presents an in-depth narrative discussion of the crash causation. Because of the plethora of information, it is critical to investigate MCCS-related data. Some studies examined the structured information in MCCS datasets. There is no in-depth study that has examined the unstructured textual contents in the MCCS data. This study aims to mitigate this research gap by applying different natural language processing tools (e.g., text mining, topic modeling). Fatal and non-fatal crash narratives are clustered separately to gain insights pertaining to the injury level. The findings of this …",
-            "pdf_link": "2021 (A) Das TRR MCCS.pdf"
+            "pdf_link": "2021 (A) Das TRR MCCS.pdf",
+            "img": "new_images/7H_MAutzIkAC.png"
         },
         {
             "title": "Rule-based safety prediction models for rural two-lane run-off-road crashes",
@@ -2448,7 +2456,8 @@
             "pages": "235-244",
             "publisher": "Elsevier",
             "description": "During 2015–2017, the yearly average of fatalities caused by roadway departure (RwD) crashes was 19,233 in the U.S. Roadway departure crashes, or crashes in which a vehicle crosses an edge line, centerline, or otherwise leaves the traveled way, account for 52 percent of all traffic fatalities in the U.S. during this time. A majority of RwD crashes are run-off-road (ROR) crashes; these are crashes that result in a vehicle crossing the edge line on either side of the roadway. In this study, the research team analyzed seven years (2010–2016) of rural two-lane ROR crash data from Louisiana to better comprehend ROR crashes in refining safety predictions for rural two-lane highways. Statistical model (negative binomial model) and three separate machine learning models (random forest, support vector machine, and Cubist) were applied to determine the best fit models. Overall, Cubist is characterized by a better …",
-            "pdf_link": "2020 (A) Das IJTST Rule  Based SPFs.pdf"
+            "pdf_link": "2020 (A) Das IJTST Rule  Based SPFs.pdf",
+            "img": "new_images/sNmaIFBj_lkC.png"
         },
         {
             "title": "Improving and Communicating Speed Management Practices: Project Summary Report",
@@ -2460,7 +2469,8 @@
             "publication_date": "2021/8/31",
             "issue": "0-7049",
             "publisher": "Texas A&M Transportation Institute",
-            "description": "Posted speed limits (PSLs) are a highly complex issue involving engineering, human factors, and political and societal concerns. On a national level, recent research and calls to change how speed limit are set, especially for city streets, have generated extensive discussion of future speed-limit-setting procedures. Within this Texas Department of Transportation (TxDOT) project, the research team conducted dialogs with TxDOT districts to learn about the practices and procedures being used, developed a number of products designed to increase the understanding of operating speed and of PSLs, and performed new research into operating speed relationships with roadway characteristics."
+            "description": "Posted speed limits (PSLs) are a highly complex issue involving engineering, human factors, and political and societal concerns. On a national level, recent research and calls to change how speed limit are set, especially for city streets, have generated extensive discussion of future speed-limit-setting procedures. Within this Texas Department of Transportation (TxDOT) project, the research team conducted dialogs with TxDOT districts to learn about the practices and procedures being used, developed a number of products designed to increase the understanding of operating speed and of PSLs, and performed new research into operating speed relationships with roadway characteristics.",
+            "img": "new_images/0ngZmJvimKcC.png"
         },
         {
             "title": "Uses of Social media in Public Transportation",
@@ -2471,7 +2481,8 @@
             "authors": "Subasish Das, Nusrat Fahmida Trisha, Ipek N Sener, Michael Walk",
             "publication_date": "2021/8",
             "description": "During the past 20 years, social media has provided transit agencies with unparalleled opportunities to connect with their customers. The current synthesis topic will update TCRP Synthesis 99: Uses of Social Media in Public Transportation and will again explore the use of social media among transit agencies. The study will document innovative and effective practices in the United States and Canada. The objective of the study was to analyze the way that transit agencies communicate with their audiences through the use of social media. It was also to synthesize the reasons why transit agencies use social media and to explore which social media platforms are used and how, the applications and metrics used by transit agencies, and the measurements of social media effectiveness. A literature review and completed survey responses of social media practices of 46 transit agencies were collected. An analysis on the state of the practice, emphasizing lessons learned, current practices, challenges, and gaps in information is provided. Seven case examples representing a variety of agencies were also developed.",
-            "pdf_link": "2022 (R) Das TCRP 196.pdf"
+            "pdf_link": "2022 (R) Das TCRP 196.pdf",
+            "img": "new_images/FiDNX6EVdGUC.png"
         },
         {
             "title": "Autonomous vehicle safety: Understanding perceptions of pedestrians and bicyclists",
@@ -2486,7 +2497,8 @@
             "pages": "41-54",
             "publisher": "Pergamon",
             "description": "Autonomous vehicle (AV) technologies have been rapidly advancing. One benefit of AVs is that the technology could eliminate many driver errors and also mitigate many pedestrian and bicyclist collisions. Real-world AVs have been tested in many cities. Five companies are running around 50 AVs in Pittsburgh, following the autonomous testing guidelines. BikePGH, a non-profit organization located in Pittsburgh, Pennsylvania conducted a follow-up survey in 2019 (the first survey was conducted in 2017) to understand non-motorists’ opinions of AVs. This study examined how pedestrians and bicyclists perceived AV safety based on their understanding and experiences. At first, this study performed a comparison group test to determine which questions vary by participants’ AV safety rating. The responses were later analyzed with a data mining method known as ‘association rules mining.’ A new performance …",
-            "pdf_link": "2021 (A) Das TR-F BikePGH.pdf"
+            "pdf_link": "2021 (A) Das TR-F BikePGH.pdf",
+            "img": "new_images/3NQIlFlcGxIC.png"
         },
         {
             "title": "Considering roadway context in setting posted speed limits",
@@ -2502,7 +2514,8 @@
             "pages": "590-602",
             "publisher": "SAGE Publications",
             "description": "The National Cooperative Highway Research Program (NCHRP) Project 17-76 investigated factors that influence operating speed and safety through a review of the literature and an analysis of the relationships for speed, safety, and roadway characteristics on urban/suburban streets. That knowledge, along with a review of existing speed limit setting practices, was used to develop a Speed Limit Setting Procedure (SLS-Procedure) as well as a user manual to explain the SLS-Procedure. In addition, the SLS-Procedure was automated via a spreadsheet-based Speed Limit Setting Tool (SLS-Tool). These products will permit engineers to make informed decisions about the setting of speed limits. The SLS-Procedure is fact based and transparent, relying on a set of decision rules that consider both driver speed choice and safety associated with the roadway. The SLS-Procedure was designed to be applicable across …",
-            "pdf_link": "2021 (A) Fitzpatrick TRR 17-76 Tool.pdf"
+            "pdf_link": "2021 (A) Fitzpatrick TRR 17-76 Tool.pdf",
+            "img": "new_images/PYBJJbyH-FwC.png"
         },
         {
             "title": "Autonomous Vehicles and Pedestrians: A Case Study of Human Computer Interaction",
@@ -2516,7 +2529,8 @@
             "pages": "226-239",
             "publisher": "Springer International Publishing",
             "description": "Understanding public attitudes, sentiments, and perceptions is a significant first step to the widespread acceptance of autonomous vehicles (AVs). In recent years, many studies been conducted in recent years examining the general perception of AVs. The implementation of AVs has potential challenges involving pedestrians and bicyclists that need special attention. The current study analyzes survey data obtained from BikePGH, a non-profit organization in Pittsburgh, Pennsylvania . This study applied multiple correspondence analysis (MCA) to explore response patterns among the participants. The findings of the survey reveal that certain groups of people are much more receptive to AV technology than others who are vehemently opposed to the introduction of AVs to the roadways. The findings indicate that participants who have real world experience with human-AV interactions have more positive expectations …",
-            "pdf_link": "2021 (A) Das HCI.pdf"
+            "pdf_link": "2021 (A) Das HCI.pdf",
+            "img": "new_images/q-HalDI95KYC.png"
         },
         {
             "title": "National Cooperative Highway Research Program (NCHRP) 20-07 (384): Core Competencies for Key Safety Analysis",
@@ -2527,7 +2541,8 @@
             "authors": "Karen Dixon, Subasish Das, Ingrid Potts",
             "publication_date": "2021/7",
             "description": "The term “core competencies” refers to ‘critical capabilities or resources’ needed to be successful in a particular area. As applied to transportation safety,“core competencies” include a knowledge base, a basic set of skills, and an analytical capability to make key transportation safety decisions. Gross and Jovanis (5) conducted a survey of universities and related institutes in the United States to assess the existing college-level courses in transportation safety and associated topics. This study focused on safety-related content in the transportation courses of civil engineering departments and injury prevention courses of public health programs. The findings of the Gross and Jovanis study showed that there is an evolving need for core competencies to be addressed in highway safety courses that are offered at the university level.\nThe core competencies do not represent all of the knowledge and skills necessary for a safety professional to be successful. Instead, they represent the core components that one must know in the overall field of transportation safety. Other relevant knowledge and skills needed include an understanding of statistics and evaluation processes, public affairs, engineering judgment, effective communications, and social marketing. Upon examination of a typical course syllabus, core competencies are similar to the identified key learning modules as presented by other disciplines in similar fields. Different sectors of transportation safety such as engineering, road user behavior, public policy, and injury prevention require this core understanding of key knowledge and skillsets. Gross and Jovanis (5) identified five core competencies …",
-            "pdf_link": "2021 (R) NCHRP20-07Task384FinalReport.pdf"
+            "pdf_link": "2021 (R) NCHRP20-07Task384FinalReport.pdf",
+            "img": "new_images/VN7nJs4JPk0C.png"
         },
         {
             "title": "NCHRP Report 966: Posted Speed Limit Setting Procedure and Too- User Guide",
@@ -2539,7 +2554,8 @@
             "publication_date": "2021/7",
             "source": "NCHRP Research Report",
             "issue": "NCHRP Project 17-76",
-            "description": "This report provides a procedure for setting speed limits and a practitioner-ready user manual explaining the speed limit setting procedure (SLS-Procedure). Additionally, it provides an automated version of the SLS-Procedure via a spreadsheet-based Speed Limit Setting Tool (SLS-Tool). The guidebook will be of interest to engineers responsible for making informed decisions about the setting of speed limits."
+            "description": "This report provides a procedure for setting speed limits and a practitioner-ready user manual explaining the speed limit setting procedure (SLS-Procedure). Additionally, it provides an automated version of the SLS-Procedure via a spreadsheet-based Speed Limit Setting Tool (SLS-Tool). The guidebook will be of interest to engineers responsible for making informed decisions about the setting of speed limits.",
+            "img": "new_images/rHJHxKgnXwkC.png"
         },
         {
             "title": "Development of a Posted Speed Limit Setting Procedure and Tool",
@@ -2551,7 +2567,8 @@
             "publication_date": "2021/7",
             "issue": "NCHRP Project 17-76",
             "description": "National Cooperative Highway Research Program (NCHRP) Project 17-76 was tasked with identifying factors that influence a driver’s operating speed and then developing a Speed Limit Setting Procedure (SLS-Procedure) and automating that procedure with a spreadsheet-based Speed Limit Setting Tool (SLS-Tool). The SLS-Procedure and SLS-Tool are used to calculate the suggested speed limit for a segment. The goal of the SLS-Procedure and SLS-Tool is to produce an unbiased and objective suggested speed limit value. Traffic engineers can use the SLS-Procedure and the suggested speed limit generated by the SLS-Tool to communicate with the public or government officials to explain the methodology behind setting speed limits. Chapter 1 of this report provides background information, Chapter 2 discusses the research approach, Chapter 3 presents the findings, and Chapter 4 gives conclusions …",
-            "pdf_link": "2021 (R) Fitzpatrick NCHRP Weboly 291.pdf"
+            "pdf_link": "2021 (R) Fitzpatrick NCHRP Weboly 291.pdf",
+            "img": "new_images/SjuI4pbJlxcC.png"
         },
         {
             "title": "Mining patterns of near-crash events with and without secondary tasks",
@@ -2566,7 +2583,8 @@
             "pages": "106162",
             "publisher": "Pergamon",
             "description": "The engagement of secondary tasks, like using a phone or talking to passengers while driving, could introduce considerable risks to driving safety. This study utilizes a near-crash dataset extracted from a naturalistic driving study to explore the patterns of near-crash events with or without the involvement of secondary tasks as a surrogate approach to understand the impact of these behaviors on traffic safety. The dataset contains information about driver behaviors, such as secondary tasks, vehicle maneuvers, other conflict vehicles’ maneuvers before and during near-crash events, and the driving environment. The patterns for near-crashes with or without the involvement of secondary tasks are mined by adopting the apriori association rule algorithm. Finally, the mined rules for the near-crash events with or without the involvement of the secondary tasks are analyzed and compared. The results demonstrate that near …",
-            "pdf_link": "2021 (A) Kong AAAP Near-Crash secondary task.pdf"
+            "pdf_link": "2021 (A) Kong AAAP Near-Crash secondary task.pdf",
+            "img": "new_images/LPtt_HFRSbwC.png"
         },
         {
             "title": "Posted Speed Limit Setting Procedure and Tool: User Guide",
@@ -2577,7 +2595,8 @@
             "authors": "National Academies of Sciences, Engineering, and Medicine",
             "publication_date": "2021/6/4",
             "description": "Posted Speed Limit Setting Procedure and Tool: User Guide | The National Academies Press Skip to main content Navigate to Help Ordering Information New Releases Browse by Division Browse by Topic NAP Home Browse Publications by Division Division of Behavioral and Social Sciences and Education Division on Earth and Life Studies Division on Engineering and Physical Sciences Gulf Research Program Health and Medicine Division Policy and Global Affairs Division Transportation Research Board National Academy of Sciences National Academy of Engineering National Academy of Medicine Publications by Topic Agriculture Behavioral and Social Sciences Biography and Autobiography Biology and Life Sciences Computers and Information Technology Conflict and Security Issues Earth Sciences Education Energy and Energy Conservation Engineering and Technology Environment and Environmental …",
-            "pdf_link": "2021 (R) Fitzpatrick NCHRP 966.pdf"
+            "pdf_link": "2021 (R) Fitzpatrick NCHRP 966.pdf",
+            "img": "new_images/ijdKiLOsEJMC.png"
         },
         {
             "title": "Applying Bayesian data mining to measure the effect of vehicular defects on crash severity",
@@ -2593,7 +2612,8 @@
             "pages": "605-621",
             "publisher": "Taylor & Francis",
             "description": "The National Motor Vehicle Crash Causation Survey (NMVCCS), conducted from 2005 to 2007, showed that an estimated 44,000 crashes occurred due to vehicular defects— 2% of the NMVCCS crashes. Vehicle defects have an adverse effect upon overall roadway safety as they can increase the likelihood of traffic crashes, thus increasing the frequency of crash-related injuries and fatalities. Even though Louisiana requires a biennial vehicular safety inspection, recent traffic crash statistics have shown a higher than average percentage of vehicle defect–related crash fatalities in Louisiana (3% of all traffic fatalities). This fact called for an in-depth analysis of the vehicle defect–related crashes in Louisiana. The current study used 7 years (2010–2016) of traffic crash data from Louisiana to investigate the association between crash severity and vehicle-defect types by applying a Bayesian data mining approach. The …",
-            "pdf_link": "2019 (A) Das Applying Bayesian data mining to measure the.pdf"
+            "pdf_link": "2019 (A) Das Applying Bayesian data mining to measure the.pdf",
+            "img": "new_images/1qzjygNMrQYC.png"
         },
         {
             "title": "Temporal instability assessment of injury severities of motor vehicle drivers at give-way controlled unsignalized intersections: A random parameters approach with heterogeneity …",
@@ -2608,7 +2628,8 @@
             "pages": "106151",
             "publisher": "Pergamon",
             "description": "Unsignalized intersections are highly susceptible to traffic crashes compared to signalized ones. By taking into account temporal stability and unobserved heterogeneity, this study investigates the determinants of the injury severity of drivers involved in crashes at unsignalized intersections controlled by give-way (yield) signs. Mixed logit models with three approaches were employed, namely random parameters, random parameters with heterogeneity in means, and random parameters with heterogeneity in means and variances. The investigation covered four years (2015–2018) of motor vehicle crashes in South Australia, and the injury severity was categorized into no injury, minor injury, and severe injury. Log-likelihood ratio tests revealed that there is a significant temporal instability in the four years of crashes. Thus, each year was considered separately to avoid any potential erroneous conclusions and …",
-            "pdf_link": "2021 (A) Zubaidi AAP Unsignalized Intersection.pdf"
+            "pdf_link": "2021 (A) Zubaidi AAP Unsignalized Intersection.pdf",
+            "img": "new_images/1yWc8FF-_SYC.png"
         },
         {
             "title": "Application of different negative binomial parameterizations to develop safety performance functions for non-federal aid system roads",
@@ -2623,7 +2644,8 @@
             "pages": "106103",
             "publisher": "Pergamon",
             "description": "Safety performance functions (SPFs) are the main building blocks in understanding the relationships between crash risk factors and crash frequencies. Many research efforts have focused on high-volume roadways that typically experience more crashes. A few studies have documented SPFs for non-federal aid system (NFAS) roads including rural minor collectors, rural local roads, and urban local roads. NFAS roads are characterized by unique features such as lower speeds, and shorter segment lengths, and they usually experience fewer crashes given the low exposure of these roads. As a result, there is a clear need to investigate the associated safety issues of NFAS roadways and generate distinct SPFs for them. The main objective of this study is to bridge the gap in the literature and develop SPFs for NFAS roads. This study examined the application of traditional negative binomial and zero-favored negative …",
-            "pdf_link": "2021 (A) Khodadadi NFAS.pdf"
+            "pdf_link": "2021 (A) Khodadadi NFAS.pdf",
+            "img": "new_images/yxmsSjX2EkcC.png"
         },
         {
             "title": "Mining crowdsourced data on bicycle safety critical events",
@@ -2638,7 +2660,8 @@
             "pages": "100360",
             "publisher": "Elsevier",
             "description": "Cycling has become a popular transportation mode for short term trips. Due to the high exposure bicycle trips, the number of collisions and near miss events has been increasing significantly. This study explores the pattern of the bicycle-related collision or near miss events by using a unique crowdsourced dataset collected from BikeMaps.org. The dataset not only contains near miss events, which are not included in the conventional state-maintained crash databases, and it also includes the psychological impact of the event on the cyclist. The taxicab correspondence analysis (TCA) results reveal patterns for bike-related collision or near miss events and associated impact on the cyclists involved. Several factors such as inclement weather, windy condition, poor lighting conditions, wet ground, loose sand, or dirt pavement are associated with the increasing probability of the collision or near-miss events. The study …",
-            "pdf_link": "2021 (A) Das TRIP BikeMaps.pdf"
+            "pdf_link": "2021 (A) Das TRIP BikeMaps.pdf",
+            "img": "new_images/L1USKYWJimsC.png"
         },
         {
             "title": "Exploring the influential factors of roadway departure crashes on rural two-lane highways with logit model and association rules mining",
@@ -2654,7 +2677,8 @@
             "pages": "167-183",
             "publisher": "Elsevier",
             "description": "Roadway departure (RwD) crashes are a major contributor of rural two-lane (R2L) highway crashes and fatalities. For targeted reduction of crashes and fatalities due to roadway departure, a thorough understanding of factors associated with RwD crashes is necessary. This study quantitatively assessed the available pre-crash factors that might influence the RwD crashes by developing a logit model comparing roadway, crash environment, and the vehicle and driver-related characteristics of 122,978 crashes that occurred in Louisiana over thirteen years. With a high prediction accuracy (81.9% area under the receiver operating characteristics curve), the model presented significant individual associations across crash characteristics with RwD crashes on R2L highways, for example – animals on roadways, snow/sleet/hail, 50–55 mph speed limit, AADT of 1,001 to 5,000 vehicles per day, drug intoxication, motorcycles …",
-            "pdf_link": "2020 (A) Rahman Exploring the influential factors of roadway.pdf"
+            "pdf_link": "2020 (A) Rahman Exploring the influential factors of roadway.pdf",
+            "img": "new_images/QD3KBmkZPeQC.png"
         },
         {
             "title": "Characterizing public emotions and sentiments in COVID-19 environment: A case study of India",
@@ -2670,7 +2694,8 @@
             "pages": "154-167",
             "publisher": "Routledge",
             "description": "Coronavirus 2019, or COVID-19, is a contagious disease triggered by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). With origins in Wuhan, China, this disease has since spread globally, resulting in the ongoing 2019–2020 coronavirus pandemic. As of May 3, 2020, the Ministry of Health and Family Welfare confirmed a total of 39,980 positive COVID-19 cases and 1,301 deaths in India (more than 3.42 million positive COVID-19 cases resulting in more than 243,000 deaths worldwide). To flatten the curve, India has been locking down its country from March 24 to May 17, 2020. This study collected “COVID-19 in India” related tweets (totaling 410,643 tweets in English) from March 22 to April 21, 2020 to gauge the unknowns and contexts associated with public sentiments during the lockdown. This work contributes to the growing body of studies on COVID-19 social media mining by extracting …",
-            "pdf_link": "2020 (A) Das JHBSE Characterizing public emotions and sentiments in COVID 19.pdf"
+            "pdf_link": "2020 (A) Das JHBSE Characterizing public emotions and sentiments in COVID 19.pdf",
+            "img": "new_images/t-hv7AR41mYC.png"
         },
         {
             "title": "Hot spot analysis of the crash locations at the roundabouts through the application of GIS",
@@ -2685,7 +2710,8 @@
             "issue": "1",
             "pages": "012032",
             "publisher": "IOP Publishing",
-            "description": "Intersection safety is a critical issue as it accounts high percent of the total fatal and injury crashes combined. One of the safe alternatives is to convert the typical intersections into roundabouts to enhance the capacity and reduce crashes. Despite the advantages in the roundabout geometric design, there is a clear gap in understanding the relationship among crash types, injury severity, and roundabout configurations. As such, this research used five years (2011 to 2015) of traffic crash data collected from Oregon's Department of Transportation (ODOT). In this study, the Geographic information system tool (GIS) and the incident analysis tools have been used to identify hazardous location occurrence areas, hot spots, and factors that lead to roundabout accidents and decide how, when, and where accident countermeasures can be performed. The results indicated many cities with high crashes are not considered a …"
+            "description": "Intersection safety is a critical issue as it accounts high percent of the total fatal and injury crashes combined. One of the safe alternatives is to convert the typical intersections into roundabouts to enhance the capacity and reduce crashes. Despite the advantages in the roundabout geometric design, there is a clear gap in understanding the relationship among crash types, injury severity, and roundabout configurations. As such, this research used five years (2011 to 2015) of traffic crash data collected from Oregon's Department of Transportation (ODOT). In this study, the Geographic information system tool (GIS) and the incident analysis tools have been used to identify hazardous location occurrence areas, hot spots, and factors that lead to roundabout accidents and decide how, when, and where accident countermeasures can be performed. The results indicated many cities with high crashes are not considered a …",
+            "img": "new_images/6bLC7aUMtPcC.png"
         },
         {
             "title": "Lessons learned from pedestrian-driver communication and yielding patterns",
@@ -2700,7 +2726,8 @@
             "pages": "35-48",
             "publisher": "Pergamon",
             "description": "Understanding the hidden patterns of tacit communication between drivers and pedestrians is crucial for improving pedestrian safety. However, this type of communication is a result of the psychological processes of both pedestrians and drivers, which are very difficult to understand thoroughly. This study utilizes a naturalistic field study dataset and explores the hidden patterns from successful and failed communication events using a pattern recognition method known as Taxicab Correspondence Analysis (TCA). The successful communication scenarios indicate the combinations of variable attributes such as eye contact, facial expression, the assertion of crossing, and effective traffic control devices are strongly associated with successful scenarios. The patterns for failed scenarios are most likely to be on the roadway with a relatively higher speed limit (e.g., 35 mph) and a relatively lower speed limit (e.g., 15 mph …",
-            "pdf_link": "2021 (A) Kong TR-F Pedestrian-Driver Communication.pdf"
+            "pdf_link": "2021 (A) Kong TR-F Pedestrian-Driver Communication.pdf",
+            "img": "new_images/prdVHNxh-e8C.png"
         },
         {
             "title": "Fatal Crashes at Highway Rail Grade Crossings: A US based Study",
@@ -2713,7 +2740,8 @@
             "journal": "International Journal of Transportation Science and Technology",
             "publisher": "Elsevier",
             "description": "Crashes at highway rail grade crossings (HRGCs) are often involved with fatalities due to the momentum of a train. This study collected nine years (2010–2018) of fatal HRGC crashes from the Fatality Analysis Reporting System (FARS) to perform the analysis. The Taxicab Correspondence Analysis (TCA) was applied to this dataset. This method identified several patterns that trigger HRGC-related fatal crashes. The findings indicate that fatal crashes involving multiple fatalities are often highly associated with alcohol-influenced drivers, poor lighting conditions, and inclement weather. The fatal crash that occurs during the daylight with the uninfluenced driver is less likely to involve more than one fatality. The results also recognized the combinations of vehicle type and speed are associated with fatal crashes at rail grade crossings. The relatively low-speed limit crossings and larger utility vehicles are more likely to be …",
-            "pdf_link": "2021 (A) Das IJTST RGC Fatal.pdf"
+            "pdf_link": "2021 (A) Das IJTST RGC Fatal.pdf",
+            "img": "new_images/-mN3Mh-tlDkC.png"
         },
         {
             "title": "Sharing the road with autonomous vehicles: A qualitative analysis of the perceptions of pedestrians and bicyclists",
@@ -2728,7 +2756,8 @@
             "pages": "433-445",
             "publisher": "Pergamon",
             "description": "Public perception assessment is important for gaining a better understanding of the acceptance of autonomous vehicles (AVs) and identifying potential ways to resolve public concerns. This study investigated how pedestrians and bicyclists perceived AVs based on their knowledge and road sharing experiences, applying a combined inductive and deductive data analysis approach. Survey responses of pedestrians and bicyclists in Pittsburgh, Pennsylvania, USA collected by Bike Pittsburgh (BikePGH) in 2019, were analyzed in this research. AVs following traffic rules appropriately and AVs driving safer than the human drivers were the most notable positive perceptions towards AVs. Pedestrians and bicyclists showed comparatively fewer negative perceptions towards AVs than positive perceptions. Negative perceptions mostly included a lack of perceived safety and comfort around AVs and trust in the AV technology …",
-            "pdf_link": "2021 (A) Rahman TR-F BikePGH.pdf"
+            "pdf_link": "2021 (A) Rahman TR-F BikePGH.pdf",
+            "img": "new_images/CB2v5VPnA5kC.png"
         },
         {
             "title": "Inclusion of speed and weather measures in safety performance functions for rural roadways",
@@ -2744,7 +2773,8 @@
             "pages": "60-69",
             "publisher": "Elsevier",
             "description": "The research on relationships among vehicle operating speed, roadway design elements, weather, and traffic volume on crash outcomes will greatly benefit the road safety profession in general. If these relationships are well understood and characterized, existing techniques and countermeasures for reducing crash frequencies and crash severities could potentially improve, and the opportunity for new methodologies addressing and anticipating crash occurrence would naturally ensue. This study examines the prevailing operating speeds on a large scale and determines how traffic speeds and different speed measures interact with roadway characteristics and weather condition to influence the likelihood of crashes. This study used three datasets from Washington and Ohio: 1) Highway Safety Information System (HSIS), 2) the National Performance Management Research Dataset (NPMRDS), and 3) National …",
-            "pdf_link": "2020 (A) Das IATSS Speed Weather Rural.pdf"
+            "pdf_link": "2020 (A) Das IATSS Speed Weather Rural.pdf",
+            "img": "new_images/rmuvC79q63oC.png"
         },
         {
             "title": "Characterizing phone usage while driving: Safety impact from road and operational perspectives using factor analysis",
@@ -2759,7 +2789,8 @@
             "pages": "106012",
             "publisher": "Pergamon",
             "description": "Phone use while driving (PUWD) is one of the most crucial factors of distraction related traffic crashes. This study utilized an unsupervised learning method, known as factor analysis, on a unique distracted driving dataset to understand PUWD behavior from the roadway geometry and operational perspectives. The results indicate that the presence of a shoulder, median, and access control on the relatively higher functional class roadways could encourage more PUWD events. The roadways with relatively lower speed limits could have high PUWD event occurrences if the variation in operating speed is high. The results also confirm the correlations between the frequency of PUWD events and the frequency of distracted crashes. This relationship is strong on urban roadways. For rural roadways, this correlation is only strong on the roadways with a large amount of PUWD events. The findings could help transportation …",
-            "pdf_link": "2021 (A) Kong AAAP Phone Usage while Driving.pdf"
+            "pdf_link": "2021 (A) Kong AAAP Phone Usage while Driving.pdf",
+            "img": "new_images/kw52XkFRtyQC.png"
         },
         {
             "title": "Motor vehicle driver injury severity analysis utilizing a random parameter binary probit model considering different types of driving licenses in 4-legs roundabouts in South …",
@@ -2772,7 +2803,8 @@
             "journal": "Safety Science",
             "publisher": "Elsevier",
             "description": "A roundabout may not provide an acceptable level of control and can be confusing to inexperienced drivers. Therefore, the purpose of this study is to identify the contributing factors that lead to specific driver injury severity by utilizing a random parameter binary probit model sustained by different experiences of motor drivers at 4-legs roundabouts in South Australia. Four models were estimated based on seven years of crash data (2012–2018), considering different types of motorist-driving license: learner, provisional, full, and for all datasets, including unknown licensures. The model estimates variables have been categorized into a driver, crash, temporal, spatial, vehicle, roadway characteristics, and vehicle movements. The results showed there are differences between resulting crash-injury severities when driver experience has been observed. Besides, several parameters were found to be random and normally …",
-            "pdf_link": "2021 (A) Zubaidi SS Motor Vehicle Driver Injury Severity.pdf"
+            "pdf_link": "2021 (A) Zubaidi SS Motor Vehicle Driver Injury Severity.pdf",
+            "img": "new_images/48xauSegjOkC.png"
         },
         {
             "title": "Exploration of the relationship among roadway characteristics, operating speed, and crashes for city streets using path analysis",
@@ -2787,7 +2819,8 @@
             "pages": "105896",
             "publisher": "Pergamon",
             "description": "Estimating the speed-crash relationship has long been a focus area of interest in roadway safety analysis. Because of many confounding factors that may influence both speeds and crashes, the relationship cannot be appropriately established without considering the corresponding roadway contexts and accounting for their effects on speeds and crashes. This paper investigates the speed-crash relationship for city streets by jointly modeling speed, roadway characteristics, and crashes using a path analysis approach that has been recently introduced into safety analysis while incorporating a wide range of roadway and traffic related variables and additional speed measures. The results from the coherent path analysis identified multiple speed measures of interest that have a statistically significant association with crashes as well as having intuitive and useful interpretation. The results also supported a positive …",
-            "pdf_link": "2020 (A) Park AAAP Exploation Speed-Crash association using Path Analysis.pdf"
+            "pdf_link": "2020 (A) Park AAAP Exploation Speed-Crash association using Path Analysis.pdf",
+            "img": "new_images/buQ7SEKw-1sC.png"
         },
         {
             "title": "Hit and run crash analysis using association rules mining",
@@ -2803,7 +2836,8 @@
             "pages": "123-142",
             "publisher": "Taylor & Francis",
             "description": "Hit-and-run crashes have drawn growing attention because of the severe consequence of the delaying emergency assistance to victims. However, the number of related studies is still limited due to the lack of relevant adequate data. The objectives of this research are to, (1) identify the crash and geometric features, which contribute to hit-and-run crashes, (2) discover how those measures change in the case of the segment and intersection-related crashes. The study applied market basket analysis to mine associations between the crash and geometric features of hit-and-run crashes. Based on the generated rules, the results show single-vehicle crashes are the first common factor of hit-and-run crashes and dark lighting is the second factor. The combination of these two factors was found to clearly associate with more severe crashes. The study also found hit-and-run crashes mostly occurred in urban areas. The …",
-            "pdf_link": "2019 (A) Das JTSS Hit and run crash analysis using association rules.pdf"
+            "pdf_link": "2019 (A) Das JTSS Hit and run crash analysis using association rules.pdf",
+            "img": "new_images/q3oQSFYPqjQC.png"
         },
         {
             "title": "Traffic volume prediction on low-volume roadways: a Cubist approach",
@@ -2819,7 +2853,8 @@
             "pages": "93-110",
             "publisher": "Routledge",
             "description": "A significant aspect of the U.S. Department of Transportation’s Highway Safety Improvement Program (HSIP) rulemaking is the prerequisite that states must gather and utilize Model Inventory of Roadway Elements (MIRE) for all public paved roads, including low-volume roadways (LVR). States are particularly not equipped with the ability to collect traffic volumes of LVRs due to issues such as budgetary constraints. One alternative is to estimate traffic volumes of LVRs using regression or machine learning (ML) models. The present study accomplishes this by developing a ML framework to estimate traffic volumes on LVRs. By using available traffic counts on low-volume roads in Minnesota, this study applies and validates three different ML models (random forest, support vector regression, and Cubist) to estimate traffic volumes. The models include various traffic and non-traffic (e.g. demographic and socio-economic …",
-            "pdf_link": "2020 (A) Das TPT AADT Cubist.pdf"
+            "pdf_link": "2020 (A) Das TPT AADT Cubist.pdf",
+            "img": "new_images/NyGDZy8z5eUC.png"
         },
         {
             "title": "A penalized-likelihood approach to characterizing bridge-related crashes in New Jersey",
@@ -2851,7 +2886,8 @@
             "pages": "21-29",
             "publisher": "Taylor & Francis",
             "description": "Background\nThe landscape of marijuana regulation is rapidly changing. Several countries have already legalized marijuana in some form, and marijuana for recreational purposes will soon become legal for a quarter of the U.S. population. The potential increase in traffic fatalities due to impaired drivers remains a prominent debate among policymakers and in the media. One recent report stated that the fraction of fatal crashes in which at least one driver tested positive for marijuana has increased nationwide by an average of 10 percent from 2013 to 2016. In Louisiana, crashes involving marijuana have increased by 195% from 2010 to 2016.\nMethods\nThis study collected seven years of marijuana impaired crash data from Louisiana to identify the key association factors and their patterns. The research team identified the hidden association patterns of key attributes from the complex crash dataset using the cluster …",
-            "pdf_link": "2020 (A) Das JSU Understanding patterns in Marijuana impaired traffic crashes.pdf"
+            "pdf_link": "2020 (A) Das JSU Understanding patterns in Marijuana impaired traffic crashes.pdf",
+            "img": "new_images/e_rmSamDkqQC.png"
         },
         {
             "title": "Automobile Safety Inspection",
@@ -2864,7 +2900,8 @@
             "journal": "International Encyclopedia of Transportation; Vickerman, R., Ed.; Elsevier: Oxford, UK",
             "pages": "85-89",
             "description": "According to 2011–16 Fatality Analysis Reporting System (FARS), approximately 2.6% of fatal crashes in the United States involved vehicle-related faults as a primary contributing factor. Previous studies indicate that a majority of technological defects are identified during inspection of wearable parts such as lights, tires, and brakes. However, the proportion of vehicle failures that can be contributed to crash occurrences was revealed to not have changed fundamentally since the 1970s. In the United States, the National Highway Traffic Safety Administration (NHTSA) suggests that each state implement a program to inspect all registered vehicles (annually or biennially) to guarantee that unsafe vehicles are taken off the roads. Nonetheless, it is critical to acknowledge that studies lack any correlation between crash rates and inspection programs related to vehicle component failure. When legislation restricted the NHTSA’s authority to reserve highway funding in 1976, the number of states with vehicle inspection programs has decreased. As of July 2015, only 16 states continue to implement the recommended regular safety inspection program. Safety inspection regulations in Canada vary from province to province. The Ministry of Justice in Canada provides a detailed regulation in the document “Motor Vehicle Safety Act”(The Ministry of Justice, Canada, 2019). According to the directive 2014/45/EU of the European Parliament and of the Council on “periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC”(issued on April 3, 2014),“all member states need to carry out periodic safety inspections for most …",
-            "pdf_link": "2021 (BC) Das Inspection IET.pdf"
+            "pdf_link": "2021 (BC) Das Inspection IET.pdf",
+            "img": "new_images/DBa1UEJaJKAC.png"
         },
         {
             "title": "Use of Disruptive Technologies to Support Safety Analysis and Meet New Federal Requirements",
@@ -2876,7 +2913,8 @@
             "publication_date": "2021",
             "publisher": "SAFE-D: Safety Through Disruption National University Transportation Center",
             "description": "States are required to have access to annual average daily traffic (AADT) for all public paved roads, including non-federal aid system (NFAS) roadways. The expectation is to use AADT estimates in data-driven safety analysis. Because collecting data on NFAS roads is financially difficult, agencies are interested in exploring affordable ways to estimate AADT. The goal of this project was to determine the accuracy of AADT estimates developed from alternative data sources and quantify the impact of AADT on safety analysis. The researchers compared 2017 AADT data provided by the Texas and Virginia Departments of Transportation against probebased AADT estimates supplied by StreetLight Data Inc. Further, the research team developed safety performance functions (SPFs) for Texas and Virginia and performed a sensitivity analysis to determine the effects of AADT on the results obtained from the empirical Bayes method that uses SPFs. The results showed that the errors stemming from the probe AADT estimates were lower than those reported in a similar study that used 2015 AADT estimates. The sensitivity analysis revealed that the impact of AADT on safety analysis mainly depends on the size of the network, the AADT coefficients, and the overdispersion parameter of the SPFs.",
-            "pdf_link": "2021 (R) Tsapakis SafeD Use of Disruptive Technologies.pdf"
+            "pdf_link": "2021 (R) Tsapakis SafeD Use of Disruptive Technologies.pdf",
+            "img": "new_images/Br1UauaknNIC.png"
         },
         {
             "title": "Data Dive into Transportation Research Record Articles",
@@ -2888,7 +2926,8 @@
             "publication_date": "2021/1",
             "journal": "TR NEWS",
             "description": "26‹ TR NEWS January–February 2021 articles published between 1977 and 2018. Publication years of the articles were extracted from TRID metadata. As shown in Figure 1, the pace of published articles has increased over the years. The publication rate trends from 1977 to 2018 can be divided into four stages. The first stage was from 1977 to 1990. Because of its multidisciplinary nature, TRR published around 530 journal articles per year from its earliest years until 1990. The second stage was from 1991 to 2000. During this period, the number of articles published grew steadily and consistently, increasing to an average of 663 articles per year. The third stage (2001–2010) shows an average of 769 journal articles per year, and the fourth stage (2011–2018) shows an average of 903 journal articles per year.",
-            "pdf_link": "2021 (A) Das TRNews TRR.pdf"
+            "pdf_link": "2021 (A) Das TRNews TRR.pdf",
+            "img": "new_images/XUvXOeBm_78C.png"
         },
         {
             "title": "Last Forty Years of ITE Journal Articles: A Scientometric Overview",
@@ -2899,7 +2938,8 @@
             "authors": "Subasish Das, Hamsa Zubaidi",
             "publication_date": "2021",
             "description": "ITE Journal (ISSN 0162-8178), published by the Institute of Transportation Engineers (ITE), publishes twelve issues per year. Since its first publication in 1930, ITE Journal has been a prominent periodical in transportation industry. According to ITE Journal,“this journal is written by and for transportation engineers, transportation planners, and others responsible for the safe and efficient movement of people and goods on our surface transportation system.” Understanding research trends in popular science journal is important. Scientometric and bibliographic methods on a specific journal provide intuitive knowledge regarding the publication trends and scopes in the form of quantitative measures of the topics and keywords. In the recent years, several top transportation journals such as Accident Analysis and Prevention, Safety Science, and Journal of Transport",
-            "pdf_link": "2021 (A) Das Last Forty Years of ITE Journal Articles.pdf"
+            "pdf_link": "2021 (A) Das Last Forty Years of ITE Journal Articles.pdf",
+            "img": "new_images/7wO8s98CvbsC.png"
         },
         {
             "title": "A Multiple Correspondence Approach to Identify Contributing Factors Related to Work Zone Crashes",
@@ -3005,7 +3045,8 @@
             "pages": "0361198120987230",
             "publisher": "SAGE Publications",
             "description": "Because of recent technological advancements, a growing number of unmanned aircraft systems (UASs) are anticipated to occupy the U.S. National Airspace System (NAS) and operate side-by-side with human pilot controlled civil aircraft. UAS technology has transitioned to broader applications, including commercial, scientific, and expanded military use. There have been significant challenges concerning the safe and suitable integration of UASs with existing systems. The interaction between humans and increasingly automated systems is of concern to researchers. Additionally, the number of UAS sightings has increased significantly during the last few years. In this study, the research team compiled 7,400 reports of UAS sightings (2015–2018). The Latent Dirichlet Allocation (LDA) method was then applied to develop topics relevant to UAS sighting incidents. This study also developed an online interactive tool …",
-            "pdf_link": "2021 (A) Das TRR Unmanned.pdf"
+            "pdf_link": "2021 (A) Das TRR Unmanned.pdf",
+            "img": "new_images/jgBuDB5drN8C.png"
         },
         {
             "title": "Automated vehicle collisions in California: Applying Bayesian latent class model",
@@ -3021,7 +3062,8 @@
             "pages": "300-308",
             "publisher": "Elsevier",
             "description": "The emerging technology of automated vehicles (AV) has been rapidly advancing and is accompanied by various positive and negative potentials. The new technology is expected to affect costs mainly by reducing the number of collisions and travel time, as well as improving fuel efficiency and parking benefits. On the other hand, safety outcomes from AV deployment is a critical issue. Ensuring the safety of AVs requires a multi-disciplinary approach that monitors every aspect of these vehicles. The California Department of Motor Vehicles has mandated that AV collision reports be made public in recent years. This study collected the scanned collision reports filed by different manufacturers that are assessing AVs in California (September 2014 to May 2019). The collected data offers critical information on AV collision frequencies and associated contributing factors. This study provides an in-depth exploratory analysis …",
-            "pdf_link": "2020 (A) Das IATSS Autonomous Vehicle Crash CA.pdf"
+            "pdf_link": "2020 (A) Das IATSS Autonomous Vehicle Crash CA.pdf",
+            "img": "new_images/s85pQhAUCrAC.png"
         },
         {
             "title": "Traffic Safety Improvements at Low Water Crossings [Project Summary]",
@@ -3044,7 +3086,8 @@
             "authors": "Subasish Das",
             "publication_date": "2020/11/2",
             "journal": "arXiv preprint arXiv:2011.02277",
-            "description": "Children are one of the most vulnerable groups in traffic crashes. Child safety seats (CSSs) can decrease the severity of crash outcomes for children. The usage of CSSs has significantly improved in the U.S. over the last 40 years, but it is anticipated that the usage of CSSs in popular ridesharing services (RSSs), such as Uber and Lyft, is not widespread. This paper used a publicly available nationwide internet survey that was designed to gain an understanding of riders and drivers perception toward child passenger safety in regard to technological perception on RSSs. This study performed a rigorous exploratory data analysis to identify the key psychological insights of the survey participants. Additionally, a recently developed dimension-reduction method has been applied to understand the co-occurrence patterns of the responses to gain intuitive insights. It is found that urban-dwelling parents with higher education degrees eventually use RSSs often due to their familiarity of the technological advantages. On the other hand, non-urban and moderately educated parents and guardians are dismissive in using RSSs while having kids with them to ride due to less trust on the technology."
+            "description": "Children are one of the most vulnerable groups in traffic crashes. Child safety seats (CSSs) can decrease the severity of crash outcomes for children. The usage of CSSs has significantly improved in the U.S. over the last 40 years, but it is anticipated that the usage of CSSs in popular ridesharing services (RSSs), such as Uber and Lyft, is not widespread. This paper used a publicly available nationwide internet survey that was designed to gain an understanding of riders and drivers perception toward child passenger safety in regard to technological perception on RSSs. This study performed a rigorous exploratory data analysis to identify the key psychological insights of the survey participants. Additionally, a recently developed dimension-reduction method has been applied to understand the co-occurrence patterns of the responses to gain intuitive insights. It is found that urban-dwelling parents with higher education degrees eventually use RSSs often due to their familiarity of the technological advantages. On the other hand, non-urban and moderately educated parents and guardians are dismissive in using RSSs while having kids with them to ride due to less trust on the technology.",
+            "img": "new_images/LgRImbQfgY4C.png"
         },
         {
             "title": "NCHRP 14-40: Comparison of Cost, Safety, and Environmental Benefits of Routine Mowing and Managed Succession of Roadside Vegetation",
@@ -3055,7 +3098,8 @@
             "authors": "Beverly Storey, Subasish Das, Jett McFalls, Raul Avelar Moran, Bahar Dadashova",
             "publication_date": "2020/11",
             "description": "The NCHRP 14-40 project provides guidance for roadside vegetation management to identify the cost, safety, and environmental impacts of routine mowing compared with managed succession of vegetation for areas outside the safety clear zone. Departments of Transportation (DOTs) are re-evaluating their roadside management practices regarding costs and environmental concerns versus benefits. The ecosystem services provided by minimizing roadside vegetation maintenance practices can include ecosystem diversity, stormwater quantity and quality management, carbon sequestration, conservation and/or restoration of pollinator and/or wildlife habitat, and aesthetics. A key safety benefit comes from reducing maintenance personnel exposure to traffic hazards, equipment, and chemical treatments. This provides both short-term and long-term cost savings and benefits. Overall, managing the roadside as a valued transportation asset consists of taking advantage of the natural ecosystem services that modified mowing regimes and/or managed succession can provide to see the return in cost/benefit.",
-            "pdf_link": "2020 (R) Storey Comparison of Cost, Safety, and Environmental Benefits.pdf"
+            "pdf_link": "2020 (R) Storey Comparison of Cost, Safety, and Environmental Benefits.pdf",
+            "img": "new_images/eGYfIraVYiQC.png"
         },
         {
             "title": "Estimation of average annual daily bicycle counts using crowdsourced strava data",
@@ -3071,7 +3115,8 @@
             "pages": "390-402",
             "publisher": "SAGE Publications",
             "description": "Traffic volumes are fundamental for evaluating transportation systems, regardless of travel mode. A lack of counts for non-motorized modes poses a challenge for practitioners developing and managing multimodal transportation facilities, whether they want to evaluate transportation safety or the potential need for infrastructure changes, or to answer other questions about how and where people bicycle and walk. In recent years, researchers and practitioners alike have been using crowdsourced data to supplement the non-motorized counts. As such, several methods and tools have been developed. The objective of this paper is to take advantage of new data sources that provide a limited and biased sample of trips and combine them with traditional counts to develop a practical tool for estimating annual average daily bicycle (AADB) counts. This study developed a direct-demand model for estimating AADB in Texas …",
-            "pdf_link": "2020 (A) Dadashova TRR Crowdsource Strava.pdf"
+            "pdf_link": "2020 (A) Dadashova TRR Crowdsource Strava.pdf",
+            "img": "new_images/mlAyqtXpCwEC.png"
         },
         {
             "title": "Technological perception on autonomous vehicles: perspectives of the non-motorists",
@@ -3087,7 +3132,8 @@
             "pages": "1335-1352",
             "publisher": "Routledge",
             "description": "This study investigated a less explored autonomous vehicle (AV) related topic (non-motorists and AVs) through the following two research questions: (1) Does the perception towards AVs differ in non-motorists based on stakeholder nature? and (2) Does prior interaction with AVs alter perception on AVs? The present study examined survey data collected by BikePGH in Pittsburgh, Pennsylvania. This study used multiple correspondence analysis (MCA) to identify the response patterns of participants and sort the responses into several clusters. The results show that perception measures vary among participants based on the nature of the stakeholder. The reception of AVs among the participants was mixed. The results also show that participants with real AV interactions have higher expectations and interest in AVs than the participants with no experience. Additionally, the findings show that participants who see no …",
-            "pdf_link": "2020 (A) Das Technological perception on autonomous vehicles.pdf"
+            "pdf_link": "2020 (A) Das Technological perception on autonomous vehicles.pdf",
+            "img": "new_images/ClCfbGk0d_YC.png"
         },
         {
             "title": "Patterns of rainy weather crashes: Applying rules mining",
@@ -3103,7 +3149,8 @@
             "pages": "1083-1105",
             "publisher": "Taylor & Francis",
             "description": "Driving in rainy weather is considered as one of most hazardous conditions for driving. There is a need for appropriate countermeasures focusing on the reduction of these crashes, but measuring the key factors under such conditions is very challenging. With a humid subtropical climate, the annual precipitation in Louisiana is about 64 inches, twice above the national average. Approximately 11% of total crashes in Louisiana happen during rainy weather, and nearly 25% of total fatal crashes happen in rainy weather annually. This study applied association rules mining to discover crash patterns during rainy weather with Louisiana crash data (2004–2011). The findings showed that “single-vehicle run-off road crash” is predominant during rainy weather and is associated with grade-curve aligned roadways, curved roadways, and roadways with no streetlights at night. In rainy condition, no injury and sideswipe …",
-            "pdf_link": "2019 (A) Das JTSS Patterns of rainy weather crashes Applying rules.pdf"
+            "pdf_link": "2019 (A) Das JTSS Patterns of rainy weather crashes Applying rules.pdf",
+            "img": "new_images/vRqMK49ujn8C.png"
         },
         {
             "title": "Extremely serious crashes on urban roadway networks: Patterns and trends",
@@ -3119,7 +3166,8 @@
             "pages": "248-252",
             "publisher": "Elsevier",
             "description": "Extremely serious traffic crashes, defined as having a death toll of two and greater than two, have become a serious safety concern on urban roadways in Louisiana. This study examined the different contributing factors of these crashes to determine significant trends and patterns. We collected traffic crash data from Louisiana during the period of 2013 to 2017 and found that a total of 72 extremely serious crashes (around 2% of all traffic fatalities) occurred on Louisiana urban roadway networks. As crash data contain an enormous list of contributing factors, there was an issue of ‘more features than data points’ in solving the research problem. Most of these variables are categorial in nature. We selected a dimension reduction tool called Taxicab Correspondence Analysis (TCA) to investigate the complex interaction between multiple factors under a two-dimensional map. Findings of the study reveal several key …",
-            "pdf_link": "2020 (A) Das IATSS Extremely Serious Crashes.pdf"
+            "pdf_link": "2020 (A) Das IATSS Extremely Serious Crashes.pdf",
+            "img": "new_images/MLfJN-KU85MC.png"
         },
         {
             "title": "Understanding speeding behavior from naturalistic driving data: Applying classification based association rule mining",
@@ -3145,7 +3193,8 @@
             "authors": "Steven Gayle, Subasish Das, Srinivas Geedipally, Noreen C McDonald, Tabitha S Combs",
             "publication_date": "2020/9",
             "description": "Table of Contents Table of Contents Full Text sh ut te rs to ck / A rt M ar iwww . ite . org S eptember 2 0 2 0 5 September 2020 volume 90 • number 9 1627 Eye St reet , NW, Su i te 600 , Wash in gton , DC 20006 US A • Te le phone : +1 2 0 2 -7 8 5 -0 0 6 0 • Fa x : +1 2 0 2 -7 8 5 -0 6 0 9 • ww w. i te .o rg contents | Small Community and Rural Transportation 32 Transportation’s Role in Rural Communities: Valuing the Past, Planning For The Future By Steven Gayle, PTP (F) 38 Rural Speed Safety Project for USDOT Safety Data Initiative: Findings and Outcomes By Subasish Das, Ph.D. (M) and Srinivas Geedipally, PE, Ph.D. (M) 46 Reinventing TIA: Contemporary Approaches to Addressing the Traffic Impacts of Urban Development By Noreen C. McDonald and Tabitha S. Combs departments 4 President’s Message 6 Director’s Message 12 Member to Member: Steven Latoski, PE, PTOE (M) 24 Public Agency Council 26 90 …",
-            "pdf_link": "2020 (FB) Das ITE Journal Rural Speed Safety.pdf"
+            "pdf_link": "2020 (FB) Das ITE Journal Rural Speed Safety.pdf",
+            "img": "new_images/gVv57TyPmFsC.png"
         },
         {
             "title": "Rural Speed Safety Project for USDOT Safety Data Initiative: Findings and Outcomes",
@@ -3156,7 +3205,8 @@
             "authors": "Subasish Das, PE Srinivas Geedipally",
             "publication_date": "2020/9/1",
             "description": "Although speed is considered as a major contributing factor of roadway crashes, research findings are inconsistent. Abdel-Aty and Radwan studied speed by capturing the magnitude of speeding relative to the posted speed limit. 1 This speeding indicator variable was shown to affect the crash involvement of male and young drivers. The preliminary analysis of a study conducted by Taylor et al. based in the United Kingdom revealed that the average speed was negatively related to crash frequency. 2 Pei et al. showed that crash risk is negatively associated with mean speed when controlling for distance exposure, which goes with the argument that roadway segments designed for higher speeds should deliver better road safety performance. 3 However, for time exposure, this association was positive. Imprialou et al. showed that speed-crash relation is positive for condition-based approach. 4 However, the outcome of the link-based model is the opposite. Several other studies examined the similar research questions. 5-10 However, the overall findings are not similar in nature. Few recent studies investigated the association between weather and crash outcomes. 11, 12 The literature review reveals that additional research is needed to investigate the association between crash, operating speed, weather, roadway, and traffic measures.",
-            "pdf_link": "2020 (A) Das ITE Journal Rural Speed Safety.pdf"
+            "pdf_link": "2020 (A) Das ITE Journal Rural Speed Safety.pdf",
+            "img": "new_images/_5tno0g5mFcC.png"
         },
         {
             "title": "Determining skid resistance needs on horizontal curves for different levels of precipitation",
@@ -3172,7 +3222,8 @@
             "pages": "358-370",
             "publisher": "SAGE Publications",
             "description": "Horizontal curves are a major cause of crashes that lead to fatal and serious injuries. Much research has been conducted on the safety implications of geometric and traffic characteristics of curves. Variables describing curve geometry and speed have been incorporated into safety prediction methodologies. However, relatively less research has been conducted on the effects of pavement friction and weather data on safety. The objective of this study is to develop a methodology for determining the pavement friction needs for different levels of precipitation. To accomplish the study objective, rural two-lane, four-lane undivided, and four-lane divided horizontal curve data from Texas were used. Safety prediction models were developed that included traffic and geometric characteristics, skid number, and annual precipitation rate. These models were then used to develop the guidelines for assessing the safety …",
-            "pdf_link": "2020 (A) Geedipally TRR Determining Skid Resistance Needs on Curves.pdf"
+            "pdf_link": "2020 (A) Geedipally TRR Determining Skid Resistance Needs on Curves.pdf",
+            "img": "new_images/Ri6SYOTghG4C.png"
         },
         {
             "title": "Designing Transit Agency Job Descriptions for Optimal Roles: An Analytical Text-Mining Approach",
@@ -3185,7 +3236,8 @@
             "book": "International Conference on Transportation and Development 2020",
             "pages": "356-368",
             "publisher": "American Society of Civil Engineers",
-            "description": "In an effort to help the transit industry prepare better job descriptions for staff positions, this study looks at various job descriptions posted by the human resources department of a transit agency. The goal of the study was to establish a baseline for developing the job descriptions for each staff position. The implemented method identified the major keywords and concepts within the job descriptions. By detecting the keywords and keyword frequency within the job descriptions, the split of responsibilities between each position is visualized. The study then performed a causality analysis to identify the patterns between ranking within the organization and the corresponding keywords. This nested analysis has been rarely utilized in the literature, and the hierarchical organization is the best-matched algorithm for applying these methods to create meaningful patterns. The methodology is applied to a case study, a …"
+            "description": "In an effort to help the transit industry prepare better job descriptions for staff positions, this study looks at various job descriptions posted by the human resources department of a transit agency. The goal of the study was to establish a baseline for developing the job descriptions for each staff position. The implemented method identified the major keywords and concepts within the job descriptions. By detecting the keywords and keyword frequency within the job descriptions, the split of responsibilities between each position is visualized. The study then performed a causality analysis to identify the patterns between ranking within the organization and the corresponding keywords. This nested analysis has been rarely utilized in the literature, and the hierarchical organization is the best-matched algorithm for applying these methods to create meaningful patterns. The methodology is applied to a case study, a …",
+            "img": "new_images/umqufdRvDiIC.png"
         },
         {
             "title": "Pedestrians under influence (PUI) crashes: Patterns from correspondence regression analysis",
@@ -3198,7 +3250,8 @@
             "journal": "Journal of Safety Research",
             "publisher": "Pergamon",
             "description": "Introduction: Alcohol-related impairment is a key contributing factor in traffic crashes. However, only a few studies have focused on pedestrian impairment as a crash characteristic. In Louisiana, pedestrian fatalities have been increasing. From 2010 to 2016, the number of pedestrian fatalities increased by 62%. A total of 128 pedestrians were killed in traffic crashes in 2016, and 34.4% of those fatalities involved pedestrians under the influence (PUI) of drugs or alcohol. Furthermore, alcohol-PUI fatalities have increased by 120% from 2010 to 2016. There is a vital need to examine the key contributing attributes that are associated with a high number of PUI crashes. Method: In this study, the research team analyzed Louisiana’s traffic crash data from 2010 to 2016 by applying correspondence regression analysis to identify the key contributing attributes and association patterns based on PUI involved injury levels …",
-            "pdf_link": "2020 (A) Das JOSR Pedestrian Under Influence.pdf"
+            "pdf_link": "2020 (A) Das JOSR Pedestrian Under Influence.pdf",
+            "img": "new_images/9pM33mqn1YgC.png"
         },
         {
             "title": "Vehicle Category Classification Based on GPS Trajectory Data",
@@ -3208,7 +3261,8 @@
             "source_url": "https://oaktrust.library.tamu.edu/handle/1969.1/192373",
             "authors": "Ruihong Wang",
             "publication_date": "2020/7/15",
-            "description": "Understanding the category of a vehicle is an essential study for transportation safety and operation. With the explosive number of GPS devices, there are massive vehicle GPS trajectory data sets whose sizes are beyond the traditional trajectory analysis method's capability. This study utilizes Apache Spark™ to build up a framework whose output data can be compatible with machine learning algorithms for vehicle category classification. Five types of features were extracted from the GPS trajectory data, namely driving habits statistics, trajectory sample quality statistics, geographical information statistics, origin and destination cluster statistics, and temporal statistics. The spatial clustering algorithm and spatial join are incorporated in the workflow, significantly broadening the number of features for the training data set. The results show that the five types of statistics extracted from the trajectory are adequate for distinguishing different vehicle categories by machine learning algorithms. The same accuracy rank sequence for the vehicle classes was observed across different types of features and algorithms, and the decision tree ensemble algorithms have better performance over the logistic regression and support vector machine algorithms."
+            "description": "Understanding the category of a vehicle is an essential study for transportation safety and operation. With the explosive number of GPS devices, there are massive vehicle GPS trajectory data sets whose sizes are beyond the traditional trajectory analysis method's capability. This study utilizes Apache Spark™ to build up a framework whose output data can be compatible with machine learning algorithms for vehicle category classification. Five types of features were extracted from the GPS trajectory data, namely driving habits statistics, trajectory sample quality statistics, geographical information statistics, origin and destination cluster statistics, and temporal statistics. The spatial clustering algorithm and spatial join are incorporated in the workflow, significantly broadening the number of features for the training data set. The results show that the five types of statistics extracted from the trajectory are adequate for distinguishing different vehicle categories by machine learning algorithms. The same accuracy rank sequence for the vehicle classes was observed across different types of features and algorithms, and the decision tree ensemble algorithms have better performance over the logistic regression and support vector machine algorithms.",
+            "img": "new_images/jU7OWUQzBzMC.png"
         },
         {
             "title": "Uncovering Deep Structure of Determinants in Large Truck Fatal Crashes",
@@ -3220,7 +3274,8 @@
             "publication_date": "2020/7/6",
             "journal": "Transportation Research Record",
             "description": "The number of fatalities and severe injuries in large truck-related crashes has significantly increased since 2009. According to the safety experts, the recent increase in large truck-related crashes can be explained by the significant growth in freight tonnage all over the U.S. over the past few years. This notable freight-haul growth has allowed continuous day–night movement of freight on roads and highways, exposing the trucks to a greater number of potential crashes or near-crash scenarios. There are many ongoing research efforts that aim to identify the different factors that influence large truck crashes; however, further research with innovative approaches is still needed to better understand the relationship between crash-related factors. In this study, the project team applied taxicab correspondence analysis (TCA), a data-mining method known for dimension reduction, to large truck fatal crash data to investigate …",
-            "pdf_link": "2020 (A) Das TRR Understanding Deep Structure of Determinants of Truck.pdf"
+            "pdf_link": "2020 (A) Das TRR Understanding Deep Structure of Determinants of Truck.pdf",
+            "img": "new_images/_axFR9aDTf0C.png"
         },
         {
             "title": "Reconfiguring Urban Undivided Four-Lane Highways to Five-Lane: A Nonideal but Very Effective Solution for Crash Reduction",
@@ -3236,7 +3291,8 @@
             "pages": "04020116",
             "publisher": "American Society of Civil Engineers",
             "description": "Although a reconfiguration to three-lane with a left turn lane remains the most prevalent cost-effective countermeasure, some four-lane undivided highway segments in Louisiana have been reconfigured to five-lane segments with a left-turn lane by utilizing the existing pavement width basically at the cost of restriping. The current study analyzes nine locations where undivided four-lane roadways were converted to five-lane roadways in Louisiana urban areas with up to 7 years of before-and-after crash data. To avoid any potential regression-to-the-mean bias, the empirical Bayes (EB) method was used with the safety performance function (SPF) developed by the Louisiana Department of Transportation and Development (LaDOTD). Despite the contemplation in design guidelines and previous studies that a five-lane roadway is more crash-susceptible than a four-lane roadway, the safety effectiveness of conversion to …",
-            "pdf_link": "2020 (A) Rahman ASCE JTEA 4u5T.pdf"
+            "pdf_link": "2020 (A) Rahman ASCE JTEA 4u5T.pdf",
+            "img": "new_images/4fGpz3EwCPoC.png"
         },
         {
             "title": "Vehicle involvements in hydroplaning crashes: Applying interpretable machine learning",
@@ -3251,7 +3307,8 @@
             "pages": "100176",
             "publisher": "Elsevier",
             "description": "Although hydroplaning is a major contributor to roadway crashes, it is not typically reported in conventional crash databases. Hence, a framework to classify various crash attributes from police reports and to identify hydroplaning crashes is strongly needed. This study applied natural language processing (NLP) tools to seven years (2010–2016) of crash data from the Louisiana traffic crash database to identify hydroplaning related crashes. This research focused on the development of a framework to apply interpretable machine learning models to unstructured textual content in order to classify the number of vehicle involvements in a crash. This approach evaluated the effectiveness of keywords in determining the classification. This study used three machine learning algorithms. Of these algorithms, the eXtreme Gradient Boosting (XGBoost) model was found to be the most effective classifier. This research provided a …",
-            "pdf_link": "2020 (A) Das TRID Hydroplanning.pdf"
+            "pdf_link": "2020 (A) Das TRID Hydroplanning.pdf",
+            "img": "new_images/kh2fBNsKQNwC.png"
         },
         {
             "title": "Case Study of Trend Mining in Transportation Research Record Articles",
@@ -3264,7 +3321,8 @@
             "journal": "Transportation Research Record",
             "pages": "12-16",
             "description": "This study employs two topic models to perform trend mining on an abundance of textual data to determine trends in research topics from immense collections of unstructured documents over the years. This study collected data from the titles and abstracts of the papers published in Transportation Research Record: Journal of the Transportation Research Board, since 1974. The content of these papers was ideal for examining research trends in various fields of research because it contains large textual data. In previous studies, exploratory analysis tools such as text mining were used to provide descriptive information about the data. However, this method does not provide researchers with quantifications of the topics and their correlations. Furthermore, the contents examined in this study are largely unstructured, and therefore they require faster machine learning algorithms to decipher them. For these reasons, the …",
-            "pdf_link": "2020 (A) Das TRR Trend Mining.pdf"
+            "pdf_link": "2020 (A) Das TRR Trend Mining.pdf",
+            "img": "new_images/b1wdh0AR-JQC.png"
         },
         {
             "title": "Severity analysis of tree and utility pole crashes: Applying fast and frugal heuristics",
@@ -3280,7 +3338,8 @@
             "pages": "85-93",
             "publisher": "Elsevier",
             "description": "A roadway departure (RwD) crash is defined as a crash that occurs after a vehicle crosses an edge line or a center line, or otherwise leaves the designated travel path. RwD crashes account for approximately 50% of all traffic fatalities in the U.S. Additionally, crashes related to roadside fixed objects such as trees, utility poles, or other poles (TUOP) make up 12–15% of all fatal RwD crashes in the U.S. Data spanning over seven years (2010–2016) shows that TUOP crashes account for approximately 22% of all fatal crashes in Louisiana, which is significantly higher than the national statistic. This study aims to determine the effect of crash, geometric, environmental, and vehicle characteristics on TUOP crashes by applying the fast and frugal tree (FFT) heuristics algorithm to Louisiana crash data. FFT identifies five major cues or variable threshold attributes that contribute significantly to predicting TUOP crashes. These …",
-            "pdf_link": "2019 (A) Das IATSS Severity analysis of tree and utility pole crashes Applying fast and frugal.pdf"
+            "pdf_link": "2019 (A) Das IATSS Severity analysis of tree and utility pole crashes Applying fast and frugal.pdf",
+            "img": "new_images/J-pR_7NvFogC.png"
         },
         {
             "title": "Application of machine learning tools in classifying pedestrian crash types: A case study",
@@ -3296,7 +3355,8 @@
             "pages": "106-119",
             "publisher": "Oxford University Press",
             "description": "Crash occurrence is a complex phenomenon, and crashes associated with pedestrians and bicyclists are even more complex. Furthermore, pedestrian- and bicyclist-involved crashes are typically not reported in detail in state or national crash databases. To address this issue, developers created the Pedestrian and Bicycle Crash Analysis Tool (PBCAT). However, it is labour-intensive to manually identify the types of pedestrian and bicycle crash from crash-narrative reports and to classify different crash attributes from the textual content of police reports. Therefore, there is a need for a supporting tool that can assist practitioners in using PBCAT more efficiently and accurately. The objective of this study is to develop a framework for applying machine-learning models to classify crash types from unstructured textual content. In this study, the research team collected pedestrian crash-typing data from two locations in …",
-            "pdf_link": "2020 (A) Das TSE Application of ML Tools to Classify Pedestrian Crash Types.pdf"
+            "pdf_link": "2020 (A) Das TSE Application of ML Tools to Classify Pedestrian Crash Types.pdf",
+            "img": "new_images/5qfkUJPXOUwC.png"
         },
         {
             "title": "Investigating the role of big data in transportation safety",
@@ -3312,7 +3372,8 @@
             "pages": "244-252",
             "publisher": "SAGE Publications",
             "description": "Big data may offer solutions for many challenges for transportation safety, providing more data faster, with higher spatial and temporal resolution. However, researchers and practitioners identify biases in big data that need to be explored and examined before performing data-driven decision-making. Leveraging semi-structured interviews of big data experts, this study includes a quantified analysis of topic frequency and an evaluation of the reliability of concepts through two independently trained coders. To identify the trends in the unstructured textual contents, the research team developed a text mining pipeline to identify trends, patterns, and biases. The study identifies key terms experts use when describing the role of big data in transportation safety, how the terms relate to the big data experts’ language through network plots, and clustering shows a need to focus on sources, quality, analysis, and implementation …",
-            "pdf_link": "2020 (A) Das TRR Investigating the Role of Big Data.pdf"
+            "pdf_link": "2020 (A) Das TRR Investigating the Role of Big Data.pdf",
+            "img": "new_images/SpbeaW3--B0C.png"
         },
         {
             "title": "Improvement of soil and plant health through adoption of an organic package of practice for rice cultivation in new alluvial soil of West Bengal",
@@ -3326,7 +3387,8 @@
             "volume": "39",
             "issue": "11",
             "pages": "99-108",
-            "description": "The objective of Organic farming is to achieve crop sustainability through restoration of soil dynamics, improvement of plant health through improvement of the soil - plant interactions, nourishment of the environmental resistance and reducing pest interferences. Lack of scientific guidelines and comprehensive organic package of practice (POP) has rendered the objective unachievable. The present study was initiated at Howrah Krishi Vigyan Kendra in 2015 and 2016 to evaluate the potential of Inhana Rational Farming (IRF) Technology, an organic POP, towards increasing crop productivity and restoration of soil quality under rice cultivation under different farming model viz. organic, integrated, non-pesticidal crop management as well as KVK.s recommendation with reduced fertilizer dosage. Treatments with organic plant management practices (IRF technology) showed 5% higher crop productivity (4774 kg/ha) in comparison to conventional farmers’ practice (4537 kg/ha) for Swarna sub-1 rice variety. Where as in case of scented rice varieties like Gobindobhog, the organic practice showed highest crop performance (3194 kg/ha) among all the treatments, and achieved 17% higher yield than that obtained under conventional farmers’ practice (2726 kg/ha). Also the non-pesticidal crop management, a new concept of synthetic pesticide free crop cultivation under IRF Technology showed higher crop performance (4991 kg/ha and 2978 kg/ha in Swarna sub-1 and Gobindobhog rice varieties respectively) than conventional farmers practice. Organic plant management under IRF aimed at activation of plant physiology was found to have a positive …"
+            "description": "The objective of Organic farming is to achieve crop sustainability through restoration of soil dynamics, improvement of plant health through improvement of the soil - plant interactions, nourishment of the environmental resistance and reducing pest interferences. Lack of scientific guidelines and comprehensive organic package of practice (POP) has rendered the objective unachievable. The present study was initiated at Howrah Krishi Vigyan Kendra in 2015 and 2016 to evaluate the potential of Inhana Rational Farming (IRF) Technology, an organic POP, towards increasing crop productivity and restoration of soil quality under rice cultivation under different farming model viz. organic, integrated, non-pesticidal crop management as well as KVK.s recommendation with reduced fertilizer dosage. Treatments with organic plant management practices (IRF technology) showed 5% higher crop productivity (4774 kg/ha) in comparison to conventional farmers’ practice (4537 kg/ha) for Swarna sub-1 rice variety. Where as in case of scented rice varieties like Gobindobhog, the organic practice showed highest crop performance (3194 kg/ha) among all the treatments, and achieved 17% higher yield than that obtained under conventional farmers’ practice (2726 kg/ha). Also the non-pesticidal crop management, a new concept of synthetic pesticide free crop cultivation under IRF Technology showed higher crop performance (4991 kg/ha and 2978 kg/ha in Swarna sub-1 and Gobindobhog rice varieties respectively) than conventional farmers practice. Organic plant management under IRF aimed at activation of plant physiology was found to have a positive …",
+            "img": "new_images/oTdOBqtIf_kC.png"
         },
         {
             "title": "RuralSpeedSafetyX: Interactive decision support tool to improve safety",
@@ -3341,7 +3403,8 @@
             "pages": "100493",
             "publisher": "Elsevier",
             "description": "The research on relationships among vehicle operating speed, roadway design elements, weather, and traffic volume on crash outcomes will greatly benefit the road safety profession in general. If these associationships are well understood and characterized, existing techniques and countermeasures for reducing crash frequencies and injuries could potentially improve, and the opportunity for new methodologies addressing and anticipating crash occurrence would naturally ensue. The software developed in this study examines the prevailing operating speeds on a large scale and determines how vehicle operating speeds and different speed measures interact with roadway characteristics and weather condition to influence the likelihood of crashes. The developed interactive decision support tool, named as RuralSpeedSafetyX, incorporates Washington and Ohio data containing the expected total crashes from …",
-            "pdf_link": "2020 (A) Das SoftwareX RuralSpeedSafetyX.pdf"
+            "pdf_link": "2020 (A) Das SoftwareX RuralSpeedSafetyX.pdf",
+            "img": "new_images/0N-VGjzr574C.png"
         },
         {
             "title": "Exploring Crowdsourced Monitoring Data for Safety",
@@ -3353,7 +3416,8 @@
             "publication_date": "2020/4",
             "issue": "TTI-Student-05",
             "description": "This project included four distinct but related exploratory studies of data sources that could improve roadway safety analysis. The first effort evaluated passively gathered crowdsourced bicyclist activity data from StreetLight Data and found promising correlations (R2 of 62% and 69% for monthly weekday and weekend daily averages) when the StreetLight data were compared to bicyclist counts from 32 locations in eight Texas cities, and even better correlation (R2 of 94%) when compared with countywide Strava data expanded to represent total bicycling activity. The second effort evaluated the pedestrian counting accuracy of the Miovision system and found 15% error for daytime and 24% error for nighttime conditions. The third effort used INRIX trip trace data to determine origin-destination patterns and developed 40 decision rules to define the origin-destination patterns. The fourth effort analyzed crowdsourced Waze data (i.e., traffic incidents) and found it to be a reliable alternative to observed and predicted crashes, with the ability to identify high-risk locations: 77% of high-risk locations identified from police-reported crashes were also identified as high-risk in Waze data. The researchers propose a method to treat the redundant Waze reports and to match the unique Waze incidents with police crash reports.",
-            "pdf_link": "2020 (R) Turner SafeD_Report Crowdsourcing Data.pdf"
+            "pdf_link": "2020 (R) Turner SafeD_Report Crowdsourcing Data.pdf",
+            "img": "new_images/edDO8Oi4QzsC.png"
         },
         {
             "title": "Evaluation of Roadside Treatments to Mitigate Roadway Departure Crashes: Technical Report",
@@ -3366,7 +3430,8 @@
             "issue": "FHWA/TX-20/0-6991-R1",
             "publisher": "Texas A&M Transportation Institute",
             "description": "This report presents findings from a research project that sought to provide a systemic framework to identify high-risk locations for roadway departure crashes and applicable countermeasures for implementation. The products of the research project are intended to assist Texas Department of Transportation (TxDOT) districts with selecting projects that address roadway departure crashes proactively (such as by improving guardrails and barriers, or by safety-treating roadside fixed objects) as opposed to reactively (by basing projects on crash history only). Additionally, this report provides updated work codes to assist TxDOT in better prioritizing projects, making a more optimal use of limited resources, and maximizing benefits derived from projects implemented as a result. For this effort, a select number of work codes were evaluated, and updates to their associated crash modification factors were developed based on available data on past Highway Safety Improvement Program projects in the state.",
-            "pdf_link": "2020 (R) Avelar TxDOT_Report Roadway Departure.pdf"
+            "pdf_link": "2020 (R) Avelar TxDOT_Report Roadway Departure.pdf",
+            "img": "new_images/-FonjvnnhkoC.png"
         },
         {
             "title": "Rural Speed Safety Project for USDOT Safety Data Initiative: Summary Report",
@@ -3378,7 +3443,8 @@
             "publication_date": "2020/3/1",
             "publisher": "Texas A&M Transportation Institute",
             "description": "The objective of this project was to examine prevailing operating speeds on a large scale to determine how speed and speed differentials interact with roadway characteristics to influence the likelihood of crashes. The project team conducted three major tasks: (a) developed conflated databases for Ohio and Washington by incorporating the Highway Safety Information System (HSIS) and the National Performance Management Research Data Set; (b) developed static and interactive data visualization tools to show the association between operating speed measures and safety outcomes; and (c) developed best-fit models at annual and daily levels to address the impact of operating speed on safety. The overall finding was that speed-related operational information is an area of opportunity to better understand safety outcomes. This pilot project established the framework of data conflation and an analytical pipeline that will help to address the effect of operation speed measures on safety. The replicability procedure developed in this study can be applied to other HSIS States. The project team developed a weblink that includes descriptive statistics and data visualization tools (both static and interactive). The links provide a more detailed view of the speed measures and descriptive statistics, as well as visualization of the association between speed measures and crashes at a granular level. The team members also developed an interactive decision support tool (https://ruralspeedsafety.shinyapps.io/rss_sdi/) to show annual risk scoring using Washington and Ohio data that contain expected total crashes from the developed models.",
-            "pdf_link": "2020 (R) Das USDOT Rural Speed Safety Project.pdf"
+            "pdf_link": "2020 (R) Das USDOT Rural Speed Safety Project.pdf",
+            "img": "new_images/uVUOdF_882EC.png"
         },
         {
             "title": "Rural Speed Safety Project",
@@ -3389,7 +3455,8 @@
             "authors": "Subasish Das, Srinivas Geedipally, Raul Avelar, Lingtao Wu, Kay Fitzpatrick, Mohamadreza Banihashemi, Dominique Lord",
             "publication_date": "2020/3",
             "report_number": "USDOT SDI Report",
-            "description": "The objective of this project was to examine prevailing operating speeds on a large scale to determine how speed and speed differentials interact with roadway characteristics to influence the likelihood of crashes. The project team conducted three major tasks:(a) developed conflated databases for Ohio and Washington by incorporating the Highway Safety Information System (HSIS) and the National Performance Management Research Data Set;(b) developed static and interactive data visualization tools to show the association between operating speed measures and safety outcomes; and (c) developed best-fit models at annual and daily levels to address the impact of operating speed on safety. The overall finding was that speed-related operational information is an area of opportunity to better understand safety outcomes. This pilot project established the framework of data conflation and an analytical pipeline that will help to address the effect of operation speed measures on safety. The replicability procedure developed in this study can be applied to other HSIS States. The project team developed a weblink that includes descriptive statistics and data visualization tools (both static and interactive). The links provide a more detailed view of the speed measures and descriptive statistics, as well as visualization of the association between speed measures and crashes at a granular level. The team members also developed an interactive decision support tool (https://ruralspeedsafety. shinyapps. io/rss_sdi/) to show annual risk scoring using Washington and Ohio data that contain expected total crashes from the developed models."
+            "description": "The objective of this project was to examine prevailing operating speeds on a large scale to determine how speed and speed differentials interact with roadway characteristics to influence the likelihood of crashes. The project team conducted three major tasks:(a) developed conflated databases for Ohio and Washington by incorporating the Highway Safety Information System (HSIS) and the National Performance Management Research Data Set;(b) developed static and interactive data visualization tools to show the association between operating speed measures and safety outcomes; and (c) developed best-fit models at annual and daily levels to address the impact of operating speed on safety. The overall finding was that speed-related operational information is an area of opportunity to better understand safety outcomes. This pilot project established the framework of data conflation and an analytical pipeline that will help to address the effect of operation speed measures on safety. The replicability procedure developed in this study can be applied to other HSIS States. The project team developed a weblink that includes descriptive statistics and data visualization tools (both static and interactive). The links provide a more detailed view of the speed measures and descriptive statistics, as well as visualization of the association between speed measures and crashes at a granular level. The team members also developed an interactive decision support tool (https://ruralspeedsafety. shinyapps. io/rss_sdi/) to show annual risk scoring using Washington and Ohio data that contain expected total crashes from the developed models.",
+            "img": "new_images/WZBGuue-350C.png"
         },
         {
             "title": "Interpretable machine learning approach in estimating traffic volume on low-volume roadways",
@@ -3405,7 +3472,8 @@
             "pages": "76-88",
             "publisher": "Elsevier",
             "description": "Many state and local agencies are currently facing challenges concerning the collection and estimation of traffic volumes, particularly regarding the collection of annual average daily traffic (AADT) on low-volume roads. To overcome these challenges, there is a need to develop new affordable methods to collect data and estimate traffic volume on low-volume roadways. In this study, the research team developed an innovative interpretable machine learning framework and applied it to low-volume roads in Vermont to estimate traffic volumes. This study used several databases (e.g., U.S. Census, the American community survey) to prepare the final dataset for the model development. The findings show that population density and work area characteristic (WAC) density are the best predictors in estimating AADT. The model outcomes show that the machine learning models yield better estimates than the conventional …",
-            "pdf_link": "2020 (A) Das IJTST Interpretable machine learning approach in estimating traffic.pdf"
+            "pdf_link": "2020 (A) Das IJTST Interpretable machine learning approach in estimating traffic.pdf",
+            "img": "new_images/bnK-pcrLprsC.png"
         },
         {
             "title": "Evaluation of Roadside Treatments to Mitigate Roadway Departure Crashes [Project Summary]",
@@ -3433,7 +3501,8 @@
             "pages": "35-49",
             "publisher": "Routledge",
             "description": "Truck lane restrictions (TLRs) have become increasingly popular throughout the United States over the last 20 years due to the improvement in traffic operations and safety, pavement life, and other associated factors. This study examines the safety performance of the TLRs that have been implemented in the North Texas region. TLR prohibit semi- trucks (trucks) from using the left-most freeway lane, or inner lane, except in passing or emergency maneuvers. This study uses 16 sites with TLR in the Dallas-Fort Worth area to conduct an observational before-after study. For safety effectiveness analysis, it is always hard to get three years before and three years after data. For immediate safety effectiveness analysis, sophisticated predictive tools could be used in estimating ‘after’ year crashes. This study used the Enhanced Interchange Safety Analysis Tool (ISATe) to supplement the limited after year crash data. This …",
-            "pdf_link": "2019 (A) Das IJUS Safety Effectiveness of truck lane restrictions a.pdf"
+            "pdf_link": "2019 (A) Das IJUS Safety Effectiveness of truck lane restrictions a.pdf",
+            "img": "new_images/08ZZubdj9fEC.png"
         },
         {
             "title": "Developing Safety Performance Functions for Two-Way Stop-Controlled Intersections in Louisiana",
@@ -3444,7 +3513,8 @@
             "authors": "Ming Sun",
             "publication_date": "2020",
             "institution": "University of Louisiana at Lafayette",
-            "description": "Horizontal curves and intersections pose challenges to drivers and other roadway users because of their unique design and function, which is why both features have been recognized as the target areas for safety improvement in many states’ highway safety strategies. There is little research on assessing safety of intersections on horizontal curves. Thus, this project’s goal was to quantitatively investigate safety of intersections on curves, specifically the Two-Way Stop-Controlled (TWSC) intersections. The analysis results show that clearly there is a safety problem associated with intersections placed on horizontal curves and the magnitude of the problem depends on the AADT, curve radius, intersection skewness angle, number of intersection legs, and speed limit on major road. The single vehicle crashes are the most common type of crashes on curve intersections, particularly on rural two-lane highways. With the …"
+            "description": "Horizontal curves and intersections pose challenges to drivers and other roadway users because of their unique design and function, which is why both features have been recognized as the target areas for safety improvement in many states’ highway safety strategies. There is little research on assessing safety of intersections on horizontal curves. Thus, this project’s goal was to quantitatively investigate safety of intersections on curves, specifically the Two-Way Stop-Controlled (TWSC) intersections. The analysis results show that clearly there is a safety problem associated with intersections placed on horizontal curves and the magnitude of the problem depends on the AADT, curve radius, intersection skewness angle, number of intersection legs, and speed limit on major road. The single vehicle crashes are the most common type of crashes on curve intersections, particularly on rural two-lane highways. With the …",
+            "img": "new_images/QVtou7C4vgoC.png"
         },
         {
             "title": "Big data and transportation safety: connecting the dots",
@@ -3456,7 +3526,8 @@
             "publication_date": "2020/1",
             "source": "Proc. Transp. Res. Board Annu. Meeting",
             "pages": "12-16",
-            "description": "Emerging big data resources and practices provide opportunities to improve transportation safety 2 planning and outcomes. However, researchers and practitioners recognize that big data includes 3 biases that need to be explored and examined before performing data-driven decision making. 4 This study systematically reviews both the sources of bias and approaches to mitigate them 5 through a review of published studies and interviews with experts. The study includes a 6 quantified analysis of topic frequency and an evaluation of the reliability of concepts through 7 two independent trained coders. To identify the trends in the unstructured textual contents, the 8 research team developed a text mining pipeline to identify trends, patterns, and biases. The 9 results show a need to maintain the central location of transportation experts and public to 10 determine the proper goals and metrics to evaluate transportation safety, develop new methods 11 that relate big data to the total population needed for transportation safety, solve difficult 12 problems using big data, and work ahead of emerging trends and technologies. 13 14"
+            "description": "Emerging big data resources and practices provide opportunities to improve transportation safety 2 planning and outcomes. However, researchers and practitioners recognize that big data includes 3 biases that need to be explored and examined before performing data-driven decision making. 4 This study systematically reviews both the sources of bias and approaches to mitigate them 5 through a review of published studies and interviews with experts. The study includes a 6 quantified analysis of topic frequency and an evaluation of the reliability of concepts through 7 two independent trained coders. To identify the trends in the unstructured textual contents, the 8 research team developed a text mining pipeline to identify trends, patterns, and biases. The 9 results show a need to maintain the central location of transportation experts and public to 10 determine the proper goals and metrics to evaluate transportation safety, develop new methods 11 that relate big data to the total population needed for transportation safety, solve difficult 12 problems using big data, and work ahead of emerging trends and technologies. 13 14",
+            "img": "new_images/pAkWuXOU-OoC.png"
         },
         {
             "title": "Tweets about Self Driving Cars: Deep Sentiment Analysis using Long Short-Term Memory network (LSTM)",
@@ -3466,7 +3537,8 @@
             "source_url": "https://link.springer.com/chapter/10.1007/978-981-15-5113-0_40",
             "authors": "Anandi Dutta, Subasish Das",
             "publication_date": "2020",
-            "description": "Due to the extensive growth of social media usage, sentiment analysis using social media data such as Twitter is an important task. The current study presents an empirical investigation of consumer sentiment toward self-driving cars or autonomous vehicles (AVs) based on the acquired self-driving car-related tweets. Information retrieval in social media is a complex task that requires technical insights. We used a hierarchical attention-based long short-term memory network (LSTM), a popular deep learning tool, to classify sentiment-specific document representations. The findings show that favorable attitudes toward AVs are associated with technological advantages and safety improvements, while more negative attitudes are associated with self-driving car-related crashes, media coverage, and deployment uncertainty. The results show that the estimated accuracy of LSTM is 85%. Our study indicates the necessity …"
+            "description": "Due to the extensive growth of social media usage, sentiment analysis using social media data such as Twitter is an important task. The current study presents an empirical investigation of consumer sentiment toward self-driving cars or autonomous vehicles (AVs) based on the acquired self-driving car-related tweets. Information retrieval in social media is a complex task that requires technical insights. We used a hierarchical attention-based long short-term memory network (LSTM), a popular deep learning tool, to classify sentiment-specific document representations. The findings show that favorable attitudes toward AVs are associated with technological advantages and safety improvements, while more negative attitudes are associated with self-driving car-related crashes, media coverage, and deployment uncertainty. The results show that the estimated accuracy of LSTM is 85%. Our study indicates the necessity …",
+            "img": "new_images/IRz6iEL74y4C.png"
         },
         {
             "title": "Improper Passing and Lane-Change related Crashes: Pattern Recognition using Association Rules Negative Binomial Mining",
@@ -3477,7 +3549,8 @@
             "authors": "Subasish Das, Sudipa Chatterjee, Sudeshna Mitra",
             "publication_date": "2020",
             "description": "Improper passing or lane-change related traffic crash is a critical issue. To pass or change lanes, the driver is required to make several judgments based on dynamic variables and allow little room for judgmental error that can result in drastic consequences if performed improperly. We used Florida rural roadway crash data from the second Strategic Highway Research Program (SHRP2) to investigate improper passing/lane-change related crashes. We applied an unsupervised data mining technique (known as association rules negative binomial (NB) miner) to extract the knowledge pattern of co-occurrence of the significant variables. This method identified some hidden trends from the complex nature of the traffic crash database. The findings show that this algorithm is suitable for pattern identification from traffic crash data.",
-            "pdf_link": "2020 (BC) Das SpringerBook Improper Passing and Lane-Change Related Crashes.pdf"
+            "pdf_link": "2020 (BC) Das SpringerBook Improper Passing and Lane-Change Related Crashes.pdf",
+            "img": "new_images/WJVC3Jt7v1AC.png"
         },
         {
             "title": "Patterns of Origin Destination Distributions",
@@ -3488,7 +3561,8 @@
             "authors": "Ruihong Wang, Subasish Das, Abhisek Mudgal",
             "publication_date": "2020",
             "description": "Understanding the spatio-temporal distribution of road traffic conditions is imperative to the design of suitable countermeasures for congestion reduction. The amount of crowd sourced data from private mobility companies is rapidly expanding to include data sources that were previously not available; this data can assist in developing new approaches and algorithms to understand travel patterns and origin-destination (OD) distributions. We acquired four months (February, June, July, and October of 2015) of INRIX Waypoint (global positioning system or GPS trajectories) data that includes vehicle trips from various sources. To determine the association between demographic, economic, and land use information and OD patterns, we acquired Census block group level data from American Community Survey (ACS), and block level economic data from Longitudinal Employer-Household Dynamics (LEHD). We provided insights on the relationship between demographic information and OD patterns by Census spatial unit’block group’. Based on multi-source data, we used classification-based association rules mining to determine key association patterns.",
-            "pdf_link": "2020 (CA) Wang UDS2020 Patterns of Origin Destination Distributions Rules Mining using Massive GPS Trajectory Data.pdf"
+            "pdf_link": "2020 (CA) Wang UDS2020 Patterns of Origin Destination Distributions Rules Mining using Massive GPS Trajectory Data.pdf",
+            "img": "new_images/6ZxmRoH8BuwC.png"
         },
         {
             "title": "Vision zero hashtags in social media: understanding end-user needs from natural language processing",
@@ -3500,7 +3574,8 @@
             "publication_date": "2020/1",
             "journal": "The Proceedings of Transportation Research Board Annual Meeting, Washington DC",
             "pages": "12-16",
-            "description": "Vision Zero (VZ) is a global traffic safety policy which promotes road safety by advocating the 2 shared responsibility of designers, policymakers, and road users to work toward the goal of 3 nullifying preventable fatalities and severe injuries caused by man-made errors. This paper 4 investigates the use of the hashtag# VisionZero on Twitter, a popular microblogging platform, to 5 understand public needs and requirements, identify innovative and context-sensitive solutions, 6 and facilitate the exchange of ideas and best practices. To examine the relevance of needs for 7 several different focus areas within VZ, textual content from about 32,000 unique tweets was 8 analyzed using opinion mining, network cluster analysis, and exploratory visual analyses to 9 identify the significance, frequency, and patterns of word strings. Results reveal interesting 10 trends, contexts, and patterns with regard to user reactions to road safety needs, issues, and 11 solutions. This research can help decision-makers in identifying and anticipating the most 12 relevant demands and pressing requirements for different individual areas of interest. Several 13 US cities, Metropolitan Planning Organizations (MPOs), and states have embraced the Vision 14 Zero strategy. This paves the way for a bigger role for the VZ approach in global road safety 15 efforts aimed at achieving results set forth in the Decade of Action for Road Safety in the coming 16 years. 17"
+            "description": "Vision Zero (VZ) is a global traffic safety policy which promotes road safety by advocating the 2 shared responsibility of designers, policymakers, and road users to work toward the goal of 3 nullifying preventable fatalities and severe injuries caused by man-made errors. This paper 4 investigates the use of the hashtag# VisionZero on Twitter, a popular microblogging platform, to 5 understand public needs and requirements, identify innovative and context-sensitive solutions, 6 and facilitate the exchange of ideas and best practices. To examine the relevance of needs for 7 several different focus areas within VZ, textual content from about 32,000 unique tweets was 8 analyzed using opinion mining, network cluster analysis, and exploratory visual analyses to 9 identify the significance, frequency, and patterns of word strings. Results reveal interesting 10 trends, contexts, and patterns with regard to user reactions to road safety needs, issues, and 11 solutions. This research can help decision-makers in identifying and anticipating the most 12 relevant demands and pressing requirements for different individual areas of interest. Several 13 US cities, Metropolitan Planning Organizations (MPOs), and states have embraced the Vision 14 Zero strategy. This paves the way for a bigger role for the VZ approach in global road safety 15 efforts aimed at achieving results set forth in the Decade of Action for Road Safety in the coming 16 years. 17",
+            "img": "new_images/lmc2jWPfTJgC.png"
         },
         {
             "title": "Non-fear-based road safety campaign as a community service: Contexts from social media",
@@ -3514,7 +3589,8 @@
             "pages": "83-99",
             "publisher": "Springer International Publishing",
             "description": "Traffic crash is a critical health hazard throughout the world. Traffic safety campaigns are important in increasing behavioral safety. Social media makes safety campaigns convenient due to its greater accessibility compared to mass media. Most road safety campaigns are fear-based. There is a need to use these campaigns carefully to reach a wider audience. Non-fear-based safety campaigns are limited in number, and their impact is significant in changing public attitudes towards safety. This study collected YouTube comment data from two non-fear-based safety campaigns and compared their impacts by using natural language processing tools. The findings of this study can help policymakers in understanding public perception and determining appropriate measures to improve road user behavior.",
-            "pdf_link": "2020 (FB) Das I4CS2020 NonFearBased.pdf"
+            "pdf_link": "2020 (FB) Das I4CS2020 NonFearBased.pdf",
+            "img": "new_images/gsN89kCJA0AC.png"
         },
         {
             "title": "Safety performance functions of low-volume roadways",
@@ -3530,7 +3606,8 @@
             "pages": "798-810",
             "publisher": "SAGE Publications",
             "description": "The Fixing America’s Surface Transportation Act (FAST Act) mandates a Highway Safety Improvement Program (HSIP) for all states that “emphasizes a data-driven, strategic approach to improving highway safety on all public roads that focuses on performance.” To determine the predicted crashes on a specific roadway facility, the most convenient and widely used tool is the first edition of Highway Safety Manual (HSM), which provides predictive models [known as safety performance functions (SPFs)] of crash frequencies for different roadways. Low-volume roads (LVRs) are defined as roads located in rural or suburban areas with daily traffic volumes of less than or equal to 400 vehicles per day (vpd). LVRs cover a significant portion of the roadways in the U.S. While much work has been done to develop SPFs for high-volume roads, less effort has been devoted to LVR safety issues. This study used 2013–2017 …",
-            "pdf_link": "2019 (A) Das Safety Performance Functions.pdf"
+            "pdf_link": "2019 (A) Das Safety Performance Functions.pdf",
+            "img": "new_images/wbdj-CoPYUoC.png"
         },
         {
             "title": "Exploring Crowdsourced Monitoring Data for Safety-Travel Patterns using GPS Waypoint Data (TTI-Student-05)[supporting dataset]",
@@ -3540,7 +3617,8 @@
             "source_url": "https://trid.trb.org/View/1858381",
             "authors": "Subasish Das, Ruihong Wang",
             "publication_date": "2019/11/5",
-            "description": "Project Description: The third effort (Travel Patterns using GPS Waypoint Data) of this project explored the use of INRIX trip trace data to determine the patterns of origin-destination distributions and developed forty decision rules to define the origin-destination patterns. The research team used three separate databases to perform the analysis: Maryland INRIX waypoint trip data; Census block group level American Community Survey (ACS) 2013-2017 data; and Census block level Longitudinal Employer-Household Dynamics (LEHD) 2015 data. Data Scope: Monthly sample dataset includes US Census Block group specific monthly origin-destination data with other demographic variables. The month was randomly selected from the four months of data collected for this project."
+            "description": "Project Description: The third effort (Travel Patterns using GPS Waypoint Data) of this project explored the use of INRIX trip trace data to determine the patterns of origin-destination distributions and developed forty decision rules to define the origin-destination patterns. The research team used three separate databases to perform the analysis: Maryland INRIX waypoint trip data; Census block group level American Community Survey (ACS) 2013-2017 data; and Census block level Longitudinal Employer-Household Dynamics (LEHD) 2015 data. Data Scope: Monthly sample dataset includes US Census Block group specific monthly origin-destination data with other demographic variables. The month was randomly selected from the four months of data collected for this project.",
+            "img": "new_images/KaMxkj08jr0C.png"
         },
         {
             "title": "Exploring Crowdsourced Monitoring Data for Safety-Travel Patterns using GPS Waypoint Data [supporting datasets]",
@@ -3564,7 +3642,8 @@
             "journal": "TR News",
             "issue": "324",
             "description": "Knowledge from the Transportation Research Board (TRB) Annual Meeting is shared not only within the convention center walls—it also is disseminated outside the event via communications methods—social media in particular. Analyzing the Twitter hashtag# TRBAM as a case study, this article examines how the social media platform has been used to sort social interactions among transportation professionals and offers insights on Twitter use trends. Several natural language processing (NLP) methods are used to understand these trends including (1) term frequency–inverse document frequency (tf-idf) analysis, 2) topic modeling, and 3) network analysis.",
-            "pdf_link": "2019 (A) Das TRNews #TRBAM.pdf"
+            "pdf_link": "2019 (A) Das TRNews #TRBAM.pdf",
+            "img": "new_images/kuK5TVdYjLIC.png"
         },
         {
             "title": "Social Media Interactions from Transportation’s Largest Conference",
@@ -3575,7 +3654,8 @@
             "authors": "Subasish Das",
             "publication_date": "2019/11",
             "journal": "TR NEWS",
-            "description": "19 TR NEWS November–December 2019› in highway research, correlating research activities, collecting and disseminating research findings, and pooling resources and knowledge among attendees (1). The Annual Meeting grew significantly in the decades that followed. Academic conferences now encourage attendees to use official conference hashtags in order to enhance learning and networking opportunities. The hashtag# TRBAM was first used by the TRB official Twitter handle,@ NASEMTRB, on June 8, 2010. The tweet read:“What are you planning to submit for the 2011# TRBAM? Send us a tweet! Paper submission site is open until Aug. 1.”"
+            "description": "19 TR NEWS November–December 2019› in highway research, correlating research activities, collecting and disseminating research findings, and pooling resources and knowledge among attendees (1). The Annual Meeting grew significantly in the decades that followed. Academic conferences now encourage attendees to use official conference hashtags in order to enhance learning and networking opportunities. The hashtag# TRBAM was first used by the TRB official Twitter handle,@ NASEMTRB, on June 8, 2010. The tweet read:“What are you planning to submit for the 2011# TRBAM? Send us a tweet! Paper submission site is open until Aug. 1.”",
+            "img": "new_images/kuK5TVdYjLIC.png"
         },
         {
             "title": "Estimating Annual Average Daily Traffic for Low-Volume Roadways",
@@ -3587,7 +3667,8 @@
             "publication_date": "2019/9/15",
             "journal": "12th International Conference on Low-Volume Roads",
             "pages": "190",
-            "description": "Texas A&M Transportation Institute nnual average daily traffic (AADT) is a critical input to many key components of transportation activities. Accurate AADT data are vital to the calibration and validation of travel demand models, roadway improvement funding allocations, and safety performance evaluations. Lack of AADT information on low-volume roads (LVR) is a common problem facing public transportation agencies everywhere in the United States. Traffic volumes on these roads are generally fairly low, and vehicle miles traveled on these roads are much less compared with that on other roadways. Thus, regularly conducting traffic counts is not economically feasible for LVR. This paper introduces an AADT estimation methodology with the statistical and pattern recognition methods. By using available traffic counts on selected roadways and four variables (namely population, job, and distance to intersection and to major state highways at block level), a training set to estimate roadway AADT for eight parishes was obtained by the support vector regression method. This pattern recognition method yields reasonable AADT estimates for LVRs. Sensitivity analyses indicates that the parish-specific (county-specific) model works better than an aggregated single model."
+            "description": "Texas A&M Transportation Institute nnual average daily traffic (AADT) is a critical input to many key components of transportation activities. Accurate AADT data are vital to the calibration and validation of travel demand models, roadway improvement funding allocations, and safety performance evaluations. Lack of AADT information on low-volume roads (LVR) is a common problem facing public transportation agencies everywhere in the United States. Traffic volumes on these roads are generally fairly low, and vehicle miles traveled on these roads are much less compared with that on other roadways. Thus, regularly conducting traffic counts is not economically feasible for LVR. This paper introduces an AADT estimation methodology with the statistical and pattern recognition methods. By using available traffic counts on selected roadways and four variables (namely population, job, and distance to intersection and to major state highways at block level), a training set to estimate roadway AADT for eight parishes was obtained by the support vector regression method. This pattern recognition method yields reasonable AADT estimates for LVRs. Sensitivity analyses indicates that the parish-specific (county-specific) model works better than an aggregated single model.",
+            "img": "new_images/5ugPr518TE4C.png"
         },
         {
             "title": "Understanding crash potential associated with teen driving: survey analysis using multivariate graphical method",
@@ -3602,7 +3683,8 @@
             "pages": "213-222",
             "publisher": "Pergamon",
             "description": "Introduction: Teen crash involvement is usually higher than other age groups, and they are typically overrepresented in car crashes. To infer teen drivers' understanding of crash potentials (factors that are associated with crash occurrence), two sources of data are generally used: retrospective data and prospective data. Retrospective data sources contain historical crash data, which have limitations in determining teen drivers' knowledge of crash potentials. Prospective data sources, like surveys, have more potential to minimize the research gap. Prior studies have shown that teen drivers are more likely to be involved in crashes during their early driving years. Thus, there is a benefit in examining how teen drivers' understanding of crash potentials change during their transition through licensing stages (i.e., no licensure to unrestricted licensure). Method: This study used a large set of teen driver survey data (a dataset …",
-            "pdf_link": "2019 (A) Das JOSR Understanding crash potential associated with teen driving Survey analysis using multivariate graphical method.pdf"
+            "pdf_link": "2019 (A) Das JOSR Understanding crash potential associated with teen driving Survey analysis using multivariate graphical method.pdf",
+            "img": "new_images/TaaCk18tZOkC.png"
         },
         {
             "title": "Estimating Annual Average Daily Traffic for Low-Volume Roadways: A Case Study in Louisiana",
@@ -3614,7 +3696,8 @@
             "publication_date": "2019/9",
             "journal": "Transportation Research Circular",
             "issue": "E-C248",
-            "description": "Annual average daily traffic (AADT) is a critical input to many key components of transportation activities. Accurate AADT data are vital to the calibration and validation of travel demand models, roadway improvement funding allocations, and safety performance evaluations. Lack of AADT information on low-volume roads (LVR) is a common problem facing public transportation agencies everywhere in the United States. Traffic volumes on these roads are generally fairly low, and vehicle miles traveled on these roads are much less compared with that on other roadways. Thus, regularly conducting traffic counts is not economically feasible for LVR. This paper introduces an AADT estimation methodology with the statistical and pattern recognition methods. By using available traffic counts on selected roadways and four variables (namely population, job, and distance to intersection and to major state highways at block level), a training set to estimate roadway AADT for eight parishes was obtained by the support vector regression method. This pattern recognition method yields reasonable AADT estimates for LVRs. Sensitivity analyses indicates that the parish-specific (county-specific) model works better than an aggregated single model."
+            "description": "Annual average daily traffic (AADT) is a critical input to many key components of transportation activities. Accurate AADT data are vital to the calibration and validation of travel demand models, roadway improvement funding allocations, and safety performance evaluations. Lack of AADT information on low-volume roads (LVR) is a common problem facing public transportation agencies everywhere in the United States. Traffic volumes on these roads are generally fairly low, and vehicle miles traveled on these roads are much less compared with that on other roadways. Thus, regularly conducting traffic counts is not economically feasible for LVR. This paper introduces an AADT estimation methodology with the statistical and pattern recognition methods. By using available traffic counts on selected roadways and four variables (namely population, job, and distance to intersection and to major state highways at block level), a training set to estimate roadway AADT for eight parishes was obtained by the support vector regression method. This pattern recognition method yields reasonable AADT estimates for LVRs. Sensitivity analyses indicates that the parish-specific (county-specific) model works better than an aggregated single model.",
+            "img": "new_images/2VqYfGB8ITEC.png"
         },
         {
             "title": "Evaluation of Highway Safety Improvement Projects and Countermeasures [Project Summary]",
@@ -3642,7 +3725,8 @@
             "pages": "254-263",
             "publisher": "SAGE Publications",
             "description": "Recent statistics show that around 20% of all pedestrian fatalities (1,002 out of 5,376) in 2015 were pedestrians over the age of 65. There is a need to identify issues associated with elderly pedestrian crashes to develop effective countermeasures. This study aimed to determine the key associations between contributing factors of elderly pedestrian crashes. The authors analyzed three years (2014 to 2016) of elderly pedestrian fatal crashes from the Fatality Analysis Reporting System in the United States by using empirical Bayes (EB) data mining. The findings of this study revealed several association patterns with high crash potential for elderly pedestrians that include backing vehicle-related crashes for female pedestrians (especially those aged 79 and above), segment-related crashes at night for 65 to 69 year-old male pedestrians, crossing an expressway at night for male pedestrians, especially the 65 to 69 year …",
-            "pdf_link": "2019 (A) Das TRR Elderly Pedestrian Fatal Crash-Related.pdf"
+            "pdf_link": "2019 (A) Das TRR Elderly Pedestrian Fatal Crash-Related.pdf",
+            "img": "new_images/LPZeul_q3PIC.png"
         },
         {
             "title": "YouTube as a source of information in understanding autonomous vehicle consumers: Natural language processing study",
@@ -3658,7 +3742,8 @@
             "pages": "242-253",
             "publisher": "SAGE Publications",
             "description": "The automotive industry is currently experiencing a revolution with the advent and deployment of autonomous vehicles. Several countries are conducting large-scale testing of autonomous vehicles on private and even public roads. It is important to examine the attitudes and potential concerns of end users towards autonomous cars before mass deployment. To facilitate the transition to autonomous vehicles, the automotive industry produces many videos on its products and technologies. The largest video sharing website, YouTube.com, hosts many videos on autonomous vehicle technology. Content analysis and text mining of the comments related to the videos with large numbers of views can provide insight about potential end-user feedback. This study examines two questions: first, how do people view autonomous vehicles? Second, what polarities exist regarding (a) content and (b) automation level? The …",
-            "pdf_link": "2019 (A) Das TRR YouTube as a Source of Information in.pdf"
+            "pdf_link": "2019 (A) Das TRR YouTube as a Source of Information in.pdf",
+            "img": "new_images/5Ul4iDaHHb8C.png"
         },
         {
             "title": "Application of Unmanned Aerial Vehicles",
@@ -3672,7 +3757,8 @@
             "issue": "7",
             "pages": "36-42",
             "publisher": "Institute of Transportation Engineers",
-            "pdf_link": "2019 (A) Jalayer ITE Journal Application of Unmanned Aerial Vehicles.pdf"
+            "pdf_link": "2019 (A) Jalayer ITE Journal Application of Unmanned Aerial Vehicles.pdf",
+            "img": "new_images/V3AGJWp-ZtQC.png"
         },
         {
             "title": "Pattern identification from older bicyclist fatal crashes",
@@ -3688,7 +3774,8 @@
             "pages": "638-649",
             "publisher": "SAGE Publications",
             "description": "Estimates from the U.S. Census Bureau indicate that the elderly (age 65 and older) people represented 12% of the total population in 2005. Bicycling is becoming popular among people of all groups. In 2016, 130 elderly bicyclists were killed (20% higher than 2014) on the U.S. roadways. The sharp rise of elderly bicyclist fatal crashes calls for a rigorous study to determine the key associated factors in elderly bicyclist crashes. Graphical methods, such as joint correspondence analysis (JCA), are useful in identifying the association patterns from a complex data set with multiple variables by producing a proximity map of the variable categories in a low dimensional plane. This study used 3 years (2014 to 2016) of data on elderly bicyclist fatal crashes from the Fatality Analysis Reporting System (FARS) in the U.S. to determine the key associations between the contributing factors by using JCA. Some of the key findings …",
-            "pdf_link": "2019 (A) Das Pattern Identification from Older.pdf"
+            "pdf_link": "2019 (A) Das Pattern Identification from Older.pdf",
+            "img": "new_images/X0DADzN9RKwC.png"
         },
         {
             "title": "A semi-automated tool for identifying agricultural roadway crashes in crash narratives",
@@ -3720,7 +3807,8 @@
             "pages": "208-219",
             "publisher": "SAGE Publications",
             "description": "The National Highway Traffic Safety Administration’s (NHTSA) guideline on state motor vehicle inspection programs recommends that states should maintain a vehicle safety inspection program to reduce the crash outcomes from the number of vehicles with existing or potential conditions. Some states have started to terminate the vehicle safety inspection program because of insufficient effectiveness measures, budget constraints, and modern safer automobiles. Despite the consensus that these periodic inspection programs improve vehicle condition and improve safety, research remains inconclusive about the effect of safety inspection programs on crash outcomes. There is little recent research on the relationship between vehicle safety inspection programs and whether these programs reduce crash rates or crash severities. According to the 2011–2016 Fatality Analysis Reporting System (FARS) data, nearly 2.6 …",
-            "pdf_link": "2019 (A) Das TRR Measuring the Effectiveness of Vehicle.pdf"
+            "pdf_link": "2019 (A) Das TRR Measuring the Effectiveness of Vehicle.pdf",
+            "img": "new_images/geHnlv5EZngC.png"
         },
         {
             "title": "Extracting patterns from Twitter to promote biking",
@@ -3736,7 +3824,8 @@
             "pages": "51-59",
             "publisher": "Elsevier",
             "description": "Emphasis on non-motorized travel modes (for example, biking) reduces motorized trips and provides positive effects on the environment and the quality of human life. Understanding factors that influence people to biking or bike commuting can help decision makers, transportation planners, and bike commuting networks. Historically, conventional methods like surveys and crash data analyses were conducted to understand relevant factors. Survey and crash data analysis are difficult to perform in broad scale due to data availability and efforts. An innovative approach to determining these factors is to conduct social media mining to understand sentiments or motivations of bike commuters. People use terms (with hashtag at the beginning of the term) in Twitter, a popular social media network, to express their thoughts, activities or information. This study developed a framework for using Twitter data in understating the …",
-            "pdf_link": "2018 (A) Das IATSS Extracting patterns from Twitter to promote biking.pdf"
+            "pdf_link": "2018 (A) Das IATSS Extracting patterns from Twitter to promote biking.pdf",
+            "img": "new_images/hQUaER0FWQ4C.png"
         },
         {
             "title": "Speed Limits: Leading to Change",
@@ -3752,7 +3841,8 @@
             "pages": "38-43",
             "publisher": "Institute of Transportation Engineers",
             "description": "At the 2018 mid-year NCUTCD meeting, the task force met with the NCUTCD Technical Committees and facilitated an open discussion with the NCUTCD. The national committee provided direction to refine language related to speed limit setting recommended in the next edition of the MUTCD. The recommended changes made by the NCUTCD addresses many of the NTSB recommendations and issued a ballot item for comment to the seventeen sponsors of the NCUTCD, including the Institute of Transportation Engineers (ITE). The task force responded to nearly 100 comments from the sponsors and a revised ballot item was approved by the Regulatory and Warning Sign Technical Committee to be sent to the NCUTCD.\nThe approved ballot item was then forwarded to FHWA quickly, following the January 2019 meeting, for hopeful incorporation in the upcoming update of the MUTCD. 4 Setting of speed limits elicits some of the most passionate technical and emotional responses in our industry. The topic of vehicle speeds and speed limits is one of the most frequently researched topics in our industry. More than two dozen detailed, relevant research efforts were reviewed by the task force. To understand the context of this proposal, the history of speed limits in the MUTCD, NTSB recommendations, NCUTCD task force efforts, and the next steps are summarized.",
-            "pdf_link": "2019 (A) McCourt ITE Journal Speed.pdf"
+            "pdf_link": "2019 (A) McCourt ITE Journal Speed.pdf",
+            "img": "new_images/eflP2zaiRacC.png"
         },
         {
             "title": "Supervised association rules mining on pedestrian crashes in urban areas: identifying patterns for appropriate countermeasures",
@@ -3768,7 +3858,8 @@
             "pages": "30-48",
             "publisher": "Routledge",
             "description": "In 2011, 4,432 pedestrians were killed (14% of total traffic crash fatalities), and 69,000 pedestrians were injured in vehicle-pedestrian crashes in the United States. Particularly in Louisiana, vehicle-pedestrian crashes have become a key concern because of the high percentage of fatalities in recent years. In 2012, pedestrians were accounted for 17% of all fatalities due to traffic crashes in Louisiana. Alcohol was involved in nearly 44% of these fatalities. This research utilized ‘a priori’ algorithm of supervised association mining technique to discover patterns from the vehicle-pedestrian crash database. By using association rules mining, this study aims to discover vehicle-pedestrian crash patterns using eight years of Louisiana crash data (2004–2011). The results indicated that roadway lighting at night helped in alleviating pedestrian crash severity. In addition, a few groups of interest were identified from this study …",
-            "pdf_link": "2018 (A) Das IJUS Supervised association rules mining on pedestrian crashes in urban areas.pdf"
+            "pdf_link": "2018 (A) Das IJUS Supervised association rules mining on pedestrian crashes in urban areas.pdf",
+            "img": "new_images/BJrgspguQaEC.png"
         },
         {
             "title": "Tracy",
@@ -3790,7 +3881,8 @@
             "authors": "Kay Fitzpatrick, Subasish Das",
             "publication_date": "2019/1/1",
             "publisher": "Safety through Disruption (Safe-D) University Transportation Center (UTC)",
-            "description": "With mounting evidence of its health benefits, bicycling as a transportation mode has become increasingly popular in recent years. The greater number of bicyclists on urban/suburban streets may affect vehicle drivers’ speed selections. The hypothesis is that the roadway becomes safer for cyclists as their numbers increase and a greater number of cyclists are visible to motorists, making drivers more cautious about keeping sufficient lateral clearance and reducing speed. Identifying the amount of speed change as a function of the number of bicyclists could provide a better understanding of the potential for changes in bicyclist-vehicle crashes, including variations in crash severity levels. The primary goal of this research was to identify key contributing factors that influence vehicle operating speeds, including the presence of bicyclists on suburban arterials."
+            "description": "With mounting evidence of its health benefits, bicycling as a transportation mode has become increasingly popular in recent years. The greater number of bicyclists on urban/suburban streets may affect vehicle drivers’ speed selections. The hypothesis is that the roadway becomes safer for cyclists as their numbers increase and a greater number of cyclists are visible to motorists, making drivers more cautious about keeping sufficient lateral clearance and reducing speed. Identifying the amount of speed change as a function of the number of bicyclists could provide a better understanding of the potential for changes in bicyclist-vehicle crashes, including variations in crash severity levels. The primary goal of this research was to identify key contributing factors that influence vehicle operating speeds, including the presence of bicyclists on suburban arterials.",
+            "img": "new_images/KS-xo-ZNxMsC.png"
         },
         {
             "title": "Understanding crime and demographic influence on non-motorized trips: macro-level analysis",
@@ -3802,7 +3894,8 @@
             "publication_date": "2019",
             "journal": "Journal of Human Behavior in the Social Environment",
             "description": "Interest and emphasis on non-motorized modes of transportation have been increasing in the recent years. A better understanding of factors affecting non-motorized commuting trips would enable stakeholders in non-motorized transportation to come up with relevant and cost-effective strategies to promote it. This study aims to improve the understanding on the association between non-motorized commuting trips, crime, and related demographics. Moreover, this study demonstrates an innovative approach for using yearly crime dataset (Chicago) in conjunction with the American Community Survey (ACS) dataset. ACS dataset contains data pertaining to non-motorized commuting trips and important socioeconomic characteristics. An unsupervised data mining technique called Self-Organizing Map (SOM) was used to find association between different factors as it does not require any prior assumptions. The findings …",
-            "pdf_link": "2020 (A) Das Understanding crime and demographic influence.pdf"
+            "pdf_link": "2020 (A) Das Understanding crime and demographic influence.pdf",
+            "img": "new_images/XiVPGOgt02cC.png"
         },
         {
             "title": "Vehicle operating speed on urban arterial roadways",
@@ -3814,7 +3907,8 @@
             "publication_date": "2019",
             "publisher": "SAFE-D: Safety Through Disruption National University Transportation Center",
             "description": "This research explored (1) the relationship between suburban vehicle operating speed and roadway characteristics, especially the presence of bicyclists and (2) whether crowdsourced speed data could be used to estimate theunconstrained speed for a location. Both vehicle volume per lane and bicycle volume were found to be influential inaffecting average speed on lower speed urban arterial roadways. For 40.3 km/hr (25 mph) sites, an increase of 19vehicles per 15-min period would decrease average speed by 1.6 km/hr (1 mph), and an increase of more than 39bicyclists per 15-min period would decrease average vehicle speed by a similar amount. Because of the limited numberof 15-min periods with bicycle counts greater than 1, the research team also developed a model using all available 15-min periods with on-road speed data. Speed and volume data in 15-min increments for 2 weeks at nine sites wereobtained using on-road tubes and via a vendor of crowdsourced speed data. The difference between the tube data andthe crowdsourced data was calculated and called TMCS as a representation of tube (T) minus (M) crowdsourced (CS). The geometric variables that had the greatest influence on TMCS were the number of signals and the number ofdriveways within a corridor. When only including non-congested periods, weekends (Saturday or Sunday) wereassociated with the smallest TMCS.",
-            "pdf_link": "2019 (R) Fitzpatrick SafeD_Report Guide for Scalable Risk Assessment Methods for Pedestrians and Bicyclists.pdf"
+            "pdf_link": "2019 (R) Fitzpatrick SafeD_Report Guide for Scalable Risk Assessment Methods for Pedestrians and Bicyclists.pdf",
+            "img": "new_images/VOx2b1Wkg3QC.png"
         },
         {
             "title": "Current Attitudes among Transportation Professionals with Respect to the Setting of Posted Speed Limits",
@@ -3826,7 +3920,8 @@
             "publication_date": "2019",
             "journal": "Transportation Research Record",
             "description": "A recent survey conducted by the National Committee on Uniform Traffic Control Devices Task Force explored current and potential approaches to the setting of posted speed limits. The survey was distributed in the spring of 2018 and gathered 740 responses. The survey found that many states and local agencies have their own laws or criteria for the setting of speed limits (many are very detailed). Professionals who perform posted speed limit studies rarely only use the 85th percentile speed. It is clear from the survey that analysts who establish speed zones utilize many factors beyond the 85th percentile in their studies, including the context, that is, where the street is and what function it serves. The use of the 85th percentile for rural roads or interstate/freeways is different from urban streets (on urban streets, the 85th percentile plays a less significant role). The industry knowledge and use of USLIMITS2 are very …",
-            "pdf_link": "2019 (A) Fitzpatrick TRR Current Attitudes among Transportation.pdf"
+            "pdf_link": "2019 (A) Fitzpatrick TRR Current Attitudes among Transportation.pdf",
+            "img": "new_images/8AbLer7MMksC.png"
         },
         {
             "title": "Louisiana Pedestrian Crash Analysis with Multinomial Logit Model and Bayesian Network",
