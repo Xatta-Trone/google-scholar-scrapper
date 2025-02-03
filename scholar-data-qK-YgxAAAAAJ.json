@@ -1639,7 +1639,8 @@
             "source": "NCHRP Research Report",
             "issue": "NCHRP Project 03-134",
             "description": "This report provides evidence-based guidelines to help address safety concerns associated with vehicle encroachment in work zones. Encroachment occurs when a vehicle inadvertently traverses across the boundaries of a work zone, creating safety concerns for highway workers and motorists. The research was further informed by feedback collected during a peer exchange workshop facilitated by the research team. This report will be of interest to state departments of transportation and other stakeholders concerned with reducing the incidence of vehicle encroachment in work zones.",
-            "pdf_link": "2023 (R) Dobrovolny NCHRP WorkZone Guideline.pdf"
+            "pdf_link": "2023 (R) Dobrovolny NCHRP WorkZone Guideline.pdf",
+            "img": "new_images/rOcdG6UcVlcC.png"
         },
         {
             "title": "Determination of Work Zone Encroachments",
@@ -1652,7 +1653,8 @@
             "source": "NCHRP Web-Only Document",
             "issue": "NCHRP Project 03-134",
             "description": "To help address work zone crashes, the research team identified the need to collect and investigate vehicle encroachment conditions associated with work zone locations to develop a better understanding of the adequacy of existing guidelines and assess the need to potentially revise such guidance for proper implementation. The research team collected and investigated available data from vehicle encroachment conditions associated with work zone locations. Data were mainly collected from available and applicable naturalistic driving studies, shared state crash databases, and National Motor Vehicle Crash Causation Survey and National Cooperative Highway Research Program Project 17-43 databases. Exploratory data analysis and cluster correspondence analysis were conducted to investigate encroachment, roadway, roadside, work zone, and driver behavior conditions. A peer exchange workshop was …",
-            "pdf_link": "2023 (R) Dobrovolny NCHRP WorkZone.pdf"
+            "pdf_link": "2023 (R) Dobrovolny NCHRP WorkZone.pdf",
+            "img": "new_images/xGWFX6Gbr9MC.png"
         },
         {
             "title": "Safety enhancements at short-storage-space railroad crossings",
@@ -1665,7 +1667,8 @@
             "issue": "SPR-1721",
             "publisher": "Texas A&M Transportation Institute",
             "description": "A short storage space railroad crossing has insufficient distance between the crossing and the highway intersection stop line to safely store a design vehicle. The current Michigan Department of Transportation (MDOT) project (OR 19-032), led by Texas A&M Transportation Institute (TTI), aimed to provide guidance on these crossing types. This study examined the crash data, surroundings of the crossing, and driver behavioral patterns using naturalistic driving and simulation data to identify suitable countermeasures and build communication between MDOT Traffic & Safety and Office of Rail to refine the guidelines. This project conducted four major tasks: 1) a comprehensive review on short-storage crossing related studies, 2) data preparation and development of safety indices for short-storage crossing locations, 3) development of driver behavior related safety scoring for different passive treatments using data from SHRP-2 naturalistic driving study (NDS) and simulation, and 4) development of a guidance document and final report on short-storage crossings in Michigan. The findings of literature review show that little research has been conducted to empirically evaluate the effectiveness of different treatments for grade crossings with short storage, outside of traffic signal preemption strategies. The results also revealed that the highest number of crashes occurred in southeast Michigan (Detroit area), and the lowest number occurred in the sparsely populated northern part of the state. The findings also show that short storage locations are mostly on local undivided roadways. Both NDS and simulation study results indicate that drivers face difficulties …",
-            "pdf_link": "2023 (R) Das Safety Enhancements at Short-Storage-Space Railroad.pdf"
+            "pdf_link": "2023 (R) Das Safety Enhancements at Short-Storage-Space Railroad.pdf",
+            "img": "new_images/9NZAP19TdFAC.png"
         },
         {
             "title": "TCRP Synthesis 156: How Do Transit Agencies Use Social Media?",
@@ -1678,7 +1681,8 @@
             "journal": "TR News",
             "issue": "343",
             "description": "This article presents highlights from the 2022 Transit Cooperative Research Program (TCRP) Synthesis 156: Uses of Social Media in Public Transportation. The work included a literature review, a survey of 46 transit agencies, and case examples from six US agencies and one Canadian agency. Topics include: frequency of social media platform use, type of information shared on social media, employee policy related to social media interaction, and social media use during COVID-19. Twitter and Facebook were the platforms that agencies used most frequently to share information and provide customer support. Service alerts were the predominant type of information shared frequently by agencies. The agencies emphasized the importance of employing a designated social media manager and spokesperson to communicate via social media effectively and efficiently.",
-            "pdf_link": "2023 (R) Das How Do Transit Agencies.pdf"
+            "pdf_link": "2023 (R) Das How Do Transit Agencies.pdf",
+            "img": "new_images/cBPnxVikjH8C.png"
         },
         {
             "title": "Effectiveness of Traffic Calming Zone in Crash Prone Areas: A Case Study in Iran",
@@ -1703,7 +1707,8 @@
             "source": "NCHRP Web-Only Document",
             "issue": "NCHRP Project 14-41",
             "description": "This report presents information on strategies that control the establishment and growth of roadside vegetation over an extended period, reducing the need for herbicides, mowing, and other mechanical controls. The report and accompanying resources will be of interest to those responsible for designing and maintaining the roadside environment. Long-term vegetation management strategies that decrease the need for routine chemical and mechanical vegetation control can reduce recurring maintenance costs, highway worker exposure to traffic, impacts to the environment and cultural resources, and maintenance-related delays to the traveling public. However, these strategies vary in their effectiveness, longevity, initial construction costs, maintenance requirements, and aesthetic values. A critical consideration is how any strategy may affect the safety performance of highway appurtenances, such as guardrails, cable barriers, and sign posts. This is because surface and soil conditions are part of the design of roadside safety appurtenances, so designers need to understand any potential interactions between design elements that can affect safety performance.",
-            "pdf_link": "2023 (R) McFalls NCHRP Vegetation.pdf"
+            "pdf_link": "2023 (R) McFalls NCHRP Vegetation.pdf",
+            "img": "new_images/orDZ08hpP44C.png"
         },
         {
             "title": "Chatgpt's Scientific Writings: A Case Study on Traffic Safety",
@@ -1714,7 +1719,8 @@
             "authors": "Boniphace Kutela, Kelvin Msechu, Subasish Das, Emmanuel Kidando",
             "publication_date": "2023",
             "journal": "Available at SSRN 4329120",
-            "description": "The use of advanced language models, such as ChatGPT, is emerging in various fields. Such models can assist students with homework, help prepare business plans, write code, and even create surveys. It has also been found that these programs can even generate fake abstracts and manuscripts. To understand the future of scientific writing in the era of ChatGPT, it is important to explore ChatGPT and human-generated texts for manuscript preparation. This study aimed to evaluate the capability of ChatGPT to prepare a manuscript for publication by comparing its output with actual published content using supervised and unsupervised text mining approaches. This study used the introduction sections of 327 published articles on traffic safety. To obtain the ChatGPT-generated introduction section, a prompt with instructions and the title of 327 manuscripts was supplied to ChatGPT. Five supervised text classifiers, Support Vector Machine (SVM), Random Forest (RF), Naive Bayes (NB), Logitboost, and Neural Network (NNet), were applied to classify human-generated versus ChatGPT-generated introductions. Two unsupervised approaches, Text Network Analysis (TNA) and Text Cluster, were used to identify the difference in textual contents in human-generated and ChatGPT-generated introductions. Results indicate a significant disparity between human-generated and ChatGPT-generated introductions. The accuracy of the supervised text classifiers ranged between 96.4% and 99.5%; SVM, RF, and NNet performed have higher precision. The key features from SVM, RF, and NNet indicated more generic keywords with small variations across the …"
+            "description": "The use of advanced language models, such as ChatGPT, is emerging in various fields. Such models can assist students with homework, help prepare business plans, write code, and even create surveys. It has also been found that these programs can even generate fake abstracts and manuscripts. To understand the future of scientific writing in the era of ChatGPT, it is important to explore ChatGPT and human-generated texts for manuscript preparation. This study aimed to evaluate the capability of ChatGPT to prepare a manuscript for publication by comparing its output with actual published content using supervised and unsupervised text mining approaches. This study used the introduction sections of 327 published articles on traffic safety. To obtain the ChatGPT-generated introduction section, a prompt with instructions and the title of 327 manuscripts was supplied to ChatGPT. Five supervised text classifiers, Support Vector Machine (SVM), Random Forest (RF), Naive Bayes (NB), Logitboost, and Neural Network (NNet), were applied to classify human-generated versus ChatGPT-generated introductions. Two unsupervised approaches, Text Network Analysis (TNA) and Text Cluster, were used to identify the difference in textual contents in human-generated and ChatGPT-generated introductions. Results indicate a significant disparity between human-generated and ChatGPT-generated introductions. The accuracy of the supervised text classifiers ranged between 96.4% and 99.5%; SVM, RF, and NNet performed have higher precision. The key features from SVM, RF, and NNet indicated more generic keywords with small variations across the …",
+            "img": "new_images/WwIwg2wKZ0QC.png"
         },
         {
             "title": "City transit rider tweets: understanding sentiments and politeness",
@@ -1730,7 +1736,8 @@
             "pages": "111-126",
             "publisher": "Routledge",
             "description": "With the expanding popularity of Web 2.0, there has been a huge surge in the use of social media, like Twitter, to express user sentiments or opinions. Delays and breakdowns in transit operations can make riders annoyed and irritated, and as a result, they express their anger and frustration via social media posts. Understanding the tipping points of public frustration will help in developing better solutions. This study aims to develop a framework by developing multilevel sentiment analysis and determine the emotion and politeness measures using transit-related tweets from New York (New York City) and California (San Francisco). The popular hashtags associated with the transit systems of New York and California were collected during 2019. The words associated with negative sentiments widely differ in these two states. Moderate levels of differences are seen in the politeness measures for these two states …",
-            "pdf_link": "2021 (A) Das City Transit Rider Tweets.pdf"
+            "pdf_link": "2021 (A) Das City Transit Rider Tweets.pdf",
+            "img": "new_images/hsZV8lGYWTMC.png"
         },
         {
             "title": "Pattern recognition from light delivery vehicle crash characteristics",
