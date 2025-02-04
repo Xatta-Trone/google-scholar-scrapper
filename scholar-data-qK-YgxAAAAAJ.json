@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-02-04T01:24:54.738Z",
+    "last_updated_utc": "2025-02-04T18:32:51.808Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5213,6 +5213,28 @@
             "publisher": "Taylor & Francis",
             "description": "SUV-type vehicles (light trucks, minivans, vans, SUVs) pose significant risks to pedestrians due to their size and weight. This study analyzed pedestrian crashes involving SUVs using Louisiana traffic crash data (2017–2021) with a random parameter ordered probit model to account for unobserved heterogeneity. Factors linked to higher pedestrian injury severity include winter conditions, divided roads, midblock crossings, business/residential areas, and drivers aged 25–65. Lower injury severity is associated with state highways, city streets, low-speed roads (<25 mph), undivided two-way roads, and intersections. Stability of parameters was observed over time, particularly for crashes involving single SUVs and pedestrians in normal conditions. Variations in variables like \"white dashed line\" and \"proceeding straight ahead\" highlight the influence of daylight and speed limits. At the policy level, integrating these …",
             "img": "new_images/Nufq_to8ts0C.png"
+        },
+        {
+            "title": "Gen-AI for Transportation Planning",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:eFf2swCANGcC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5049928",
+            "authors": "Shriyank Somvanshi, Swastika Barua, Jinli Liu, Subasish Das",
+            "publication_date": "2025/1/25",
+            "source": "SSRN",
+            "description": "Generative Artificial Intelligence (Gen-AI) is transforming transportation planning by addressing key challenges such as data scarcity, modeling uncertainty, and decision-making inefficiencies. This paper provides a comprehensive review of the role of Gen-AI in transportation planning, highlighting its applications, capabilities, and potential to foster equity, efficiency, and sustainability. Through the integration of advanced techniques such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Large Language Models (LLMs), Gen-AI enhances traffic prediction, scenario planning, synthetic data generation, and intelligent decision support. The paper explores the implications of Gen-AI across intelligent transportation systems (ITS), vehicular networks, and smart city initiatives, while addressing ethical considerations related to privacy, fairness, and bias mitigation. Furthermore, it outlines the data requirements and quality considerations necessary for successful Gen-AI deployment and emphasizes the need for workforce development and policy-driven governance. The paper identifies key areas for future research, including real-time adaptability, cross-domain data integration, and the development of responsible AI frameworks. By advancing these directions, Gen-AI has the potential to revolutionize transportation planning, promoting more sustainable, equitable, and efficient mobility systems."
+        },
+        {
+            "title": "Gen-AI for TSMO Knowledge Management",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:a2necdfpwlEC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5049945",
+            "authors": "Shriyank Somvanshi, Jinli Liu, Subasish Das",
+            "publication_date": "2025/1/10",
+            "journal": "SSRN",
+            "description": "The integration of Generative AI (Gen-AI) into Transportation Systems Management and Operations (TSMO) offers transformative potential to address persistent knowledge management challenges. This study explores how Gen-AI can revolutionize TSMO through enhanced data integration, automated knowledge extraction, and predictive modeling. By synthesizing diverse datasets, Gen-AI facilitates the creation of unified knowledge repositories, improves real-time decision-making, and supports proactive scenario planning. The study introduces a comprehensive framework for embedding Gen-AI into TSMO workflows, enabling streamlined operational efficiency, cross-agency collaboration, and scalable data-driven strategies. Key applications of Gen-AI in TSMO include adaptive traffic control, crash response planning, and predictive modeling for future traffic scenarios. The study highlights innovative Gen-AI models and techniques, such as generative adversarial networks (GANs), large language models (LLMs), and hybrid augmented intelligence frameworks, which collectively enhance TSMO's capacity for resilience and responsiveness. Despite its transformative potential, Gen-AI adoption faces critical challenges, including ethical considerations, computational constraints, and the need for stakeholder trust. The paper emphasizes the importance of responsible AI development, fairness, and explainability to ensure sustainable adoption. By addressing these barriers, the proposed framework sets the stage for a new era of intelligent, adaptive, and community-centered transportation system management."
         }
     ]
 }
