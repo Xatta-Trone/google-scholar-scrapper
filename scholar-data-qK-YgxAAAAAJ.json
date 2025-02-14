@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-02-13T01:26:42.327Z",
+    "last_updated_utc": "2025-02-14T01:26:22.709Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5279,6 +5279,21 @@
             "publication_date": "2025/1/10",
             "journal": "SSRN",
             "description": "The integration of Generative AI (Gen-AI) into Transportation Systems Management and Operations (TSMO) offers transformative potential to address persistent knowledge management challenges. This study explores how Gen-AI can revolutionize TSMO through enhanced data integration, automated knowledge extraction, and predictive modeling. By synthesizing diverse datasets, Gen-AI facilitates the creation of unified knowledge repositories, improves real-time decision-making, and supports proactive scenario planning. The study introduces a comprehensive framework for embedding Gen-AI into TSMO workflows, enabling streamlined operational efficiency, cross-agency collaboration, and scalable data-driven strategies. Key applications of Gen-AI in TSMO include adaptive traffic control, crash response planning, and predictive modeling for future traffic scenarios. The study highlights innovative Gen-AI models and techniques, such as generative adversarial networks (GANs), large language models (LLMs), and hybrid augmented intelligence frameworks, which collectively enhance TSMO's capacity for resilience and responsiveness. Despite its transformative potential, Gen-AI adoption faces critical challenges, including ethical considerations, computational constraints, and the need for stakeholder trust. The paper emphasizes the importance of responsible AI development, fairness, and explainability to ensure sustainable adoption. By addressing these barriers, the proposed framework sets the stage for a new era of intelligent, adaptive, and community-centered transportation system management."
+        },
+        {
+            "title": "Analysis of motorcyclists crash severity using cluster correspondence and hierarchical binary logit models",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:oYLFIHfuHKwC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S2772586325000115",
+            "authors": "Richard Dzinyela, Bahar Dadashova, Grant Westfall, Subasish Das, Chiara Silvestri-Dobrovolny, Emmanuel Kofi Adanu, Dominique Lord",
+            "publication_date": "2025/3/1",
+            "journal": "Multimodal Transportation",
+            "volume": "4",
+            "issue": "1",
+            "pages": "100197",
+            "publisher": "Elsevier",
+            "description": "Crashes involving motorcyclists account for a significant portion of traffic-related injuries and fatalities. Despite motorcycles making only three percent of all registered vehicles, motorcyclists account for 14 percent of all roadway fatalities. As the number of motorcyclists increase, there is an urgent need to understand the factors that affect the severity of injuries they sustain in crashes. In this paper, we use cluster correspondence analysis (CCA) and hierarchical binary logit model to explore the factors associated with motorcyclists’ crash injury severities in Utah between 2016 and 2020. Cluster correspondence analysis was used to cluster the crash data into seven groups, while hierarchical binary logit model was used to identify the significant factors that contributed to the injury severity of motorcycle crashes. The results of this study indicate that among the crash-contributing factors the motorcyclist age, roadway …"
         }
     ]
 }
