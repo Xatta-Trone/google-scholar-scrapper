@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-02-27T01:36:59.889Z",
+    "last_updated_utc": "2025-02-28T01:37:13.059Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5294,6 +5294,17 @@
             "pages": "100197",
             "publisher": "Elsevier",
             "description": "Crashes involving motorcyclists account for a significant portion of traffic-related injuries and fatalities. Despite motorcycles making only three percent of all registered vehicles, motorcyclists account for 14 percent of all roadway fatalities. As the number of motorcyclists increase, there is an urgent need to understand the factors that affect the severity of injuries they sustain in crashes. In this paper, we use cluster correspondence analysis (CCA) and hierarchical binary logit model to explore the factors associated with motorcyclists’ crash injury severities in Utah between 2016 and 2020. Cluster correspondence analysis was used to cluster the crash data into seven groups, while hierarchical binary logit model was used to identify the significant factors that contributed to the injury severity of motorcycle crashes. The results of this study indicate that among the crash-contributing factors the motorcyclist age, roadway …"
+        },
+        {
+            "title": "Quantum Computing in Transportation Engineering: A Survey",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:kO05sadLmrgC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141686",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Sazzad Bin Bashar Polock, Gaurab Chhetri, Darrell Anderson, Anandi Dutta, Subasish Das",
+            "publication_date": "2025/2/17",
+            "source": "Available at SSRN 5141686",
+            "description": "Quantum computing introduces new computational methods that address complex optimization and machine learning challenges in transportation engineering. This literature survey reviews fundamental quantum principles, including qubits, superposition, entanglement, and quantum gates, and examines their applications in transportation. Fundamental quantum algorithms, including Shor's algorithm, the Quantum Approximate Optimization Algorithm (QAOA), and Grover's search, are described for their applications in transportation, such as network analysis, traffic management, and vehicle routing. Quantum optimization techniques, including hybrid quantum-classical approaches and quantum annealing, have been explored for combinatorial challenges such as the Vehicle Routing Problem (VRP) and dynamic traffic signal control. Additionally, quantum machine learning models, such as Quantum Convolutional Neural Networks (QCNNs) and quantum clustering, present applications in traffic prediction and anomaly detection. Despite its potential, quantum computing in transportation faces challenges related to hardware limitations, error rates, and a lack of established quantum programming frameworks. Addressing these challenges necessitates progress in hardware scalability, error mitigation techniques, and algorithm refinement. As quantum computing continues to evolve, its integration into transportation engineering could improve computational efficiency and enable new capabilities in optimization, traffic management, and intelligent transportation systems. This survey outlines key developments, challenges, and future research directions …"
         }
     ]
 }
