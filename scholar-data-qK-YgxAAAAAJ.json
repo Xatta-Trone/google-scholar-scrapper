@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-03-03T01:39:41.354Z",
+    "last_updated_utc": "2025-03-04T01:38:25.310Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5305,6 +5305,17 @@
             "publication_date": "2025/2/17",
             "source": "Available at SSRN 5141686",
             "description": "Quantum computing introduces new computational methods that address complex optimization and machine learning challenges in transportation engineering. This literature survey reviews fundamental quantum principles, including qubits, superposition, entanglement, and quantum gates, and examines their applications in transportation. Fundamental quantum algorithms, including Shor's algorithm, the Quantum Approximate Optimization Algorithm (QAOA), and Grover's search, are described for their applications in transportation, such as network analysis, traffic management, and vehicle routing. Quantum optimization techniques, including hybrid quantum-classical approaches and quantum annealing, have been explored for combinatorial challenges such as the Vehicle Routing Problem (VRP) and dynamic traffic signal control. Additionally, quantum machine learning models, such as Quantum Convolutional Neural Networks (QCNNs) and quantum clustering, present applications in traffic prediction and anomaly detection. Despite its potential, quantum computing in transportation faces challenges related to hardware limitations, error rates, and a lack of established quantum programming frameworks. Addressing these challenges necessitates progress in hardware scalability, error mitigation techniques, and algorithm refinement. As quantum computing continues to evolve, its integration into transportation engineering could improve computational efficiency and enable new capabilities in optimization, traffic management, and intelligent transportation systems. This survey outlines key developments, challenges, and future research directions …"
+        },
+        {
+            "title": "From Maneuver to Mishap: A Systematic Literature Review on U-Turn Safety Risks",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:C-Rn0OCouf8C",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2502.12556",
+            "authors": "Syed Aaqib Javed, Anannya Ghosh Tusti, Biplov Pandey, Subasish Das",
+            "publication_date": "2025/2/18",
+            "source": "arXiv preprint arXiv:2502.12556",
+            "description": "Understanding the impacts of U-turn configurations on intersection safety and traffic operations is essential for developing effective strategies to enhance road safety and efficiency. Extensive research has been conducted to investigate the role of geometric designs, driver behavior, and advanced technologies in mitigating crash risks and improving traffic flow at U-turn facilities. By synthesizing this collective body of work through the guidelines of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), this paper provides a valuable resource for transportation professionals, policymakers, and researchers seeking evidence-based solutions. This systematic review draws on studies from diverse traffic environments and regional contexts, focusing on innovative design interventions, such as restricted crossing U-turns (RCUTs) and median U-turn intersections (MUTs), as well as integrated strategies leveraging technological advancements. By presenting a comprehensive analysis of U-turn-related challenges and opportunities, this review contributes to advancing transportation safety research and guiding the development of adaptive strategies tailored to varied traffic conditions and evolving technologies."
         }
     ]
 }
