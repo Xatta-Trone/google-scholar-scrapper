@@ -24,19 +24,30 @@ function formatDate(dateStr) {
 // Extract relevant data fields
 const publications = jsonData.data.map((pub) => ({
   pub_date: formatDate(pub.publication_date), // Format publication date
-  title: pub.title,
-  venue:
-    pub.journal || pub.conference || pub.book || pub.institution || "N/A",
-  excerpt: pub.description ? pub.description.substring(0, 200) + "..." : "",
-  citation: `${pub.authors} (${pub.year}). "${pub.title}" ${
+  title: sanitizeText(pub.title),
+  venue: sanitizeText(
     pub.journal || pub.conference || pub.book || pub.institution || "N/A"
-  }.`,
-  url_slug: pub.title
+  ),
+  excerpt: sanitizeText(
+    pub.description ? pub.description.substring(0, 200) + "..." : ""
+  ),
+  citation: sanitizeText(
+    `${pub.authors} (${pub.year}). "${pub.title}" ${
+      pub.journal || pub.conference || pub.book || pub.institution || "N/A"
+    }.`
+  ),
+  url_slug: sanitizeText(pub.title)
     .toLowerCase()
     .replace(/\s+/g, "-")
     .replace(/[^\w-]/g, ""),
-  paper_url: pub.source_url || pub.url || "",
+  paper_url: sanitizeText(pub.source_url || pub.url || ""),
 }));
+
+// Function to remove unwanted characters (\t, \n, etc.)
+function sanitizeText(text) {
+  return text ? text.replace(/[\t\n\r]+/g, " ").trim() : "Unknown";
+}
+
 
 // Define the TSV headers
 const headers = [
