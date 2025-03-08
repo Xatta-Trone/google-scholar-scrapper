@@ -26,14 +26,14 @@ const publications = jsonData.data.map((pub) => ({
   pub_date: formatDate(pub.publication_date), // Format publication date
   title: sanitizeText(pub.title),
   venue: sanitizeText(
-    pub.journal || pub.conference || pub.book || pub.institution || "N/A"
+    pub.journal || pub.conference || pub.book || pub.institution || "Unknown"
   ),
   excerpt: sanitizeText(
     pub.description ? pub.description.substring(0, 200) + "..." : ""
   ),
   citation: sanitizeText(
     `${pub.authors} (${pub.year}). "${pub.title}" ${
-      pub.journal || pub.conference || pub.book || pub.institution || "N/A"
+      pub.journal || pub.conference || pub.book || pub.institution || "Unknown"
     }.`
   ),
   url_slug: sanitizeText(pub.title)
