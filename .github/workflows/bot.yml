@@ -20,6 +20,7 @@ jobs:
       - run: npm ci
       - run: git pull
       - run: node gs2.js
+      - run: node totsv.js
       - run: |
             git config user.name  "xatta-trone"
             git config user.email "22274105+actions-user@users.noreply.github.com"

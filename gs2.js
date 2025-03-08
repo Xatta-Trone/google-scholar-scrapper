@@ -155,10 +155,18 @@ const scholarParser = {
     const articles = await page.evaluate(() => {
       const rows = Array.from(document.querySelectorAll(".gsc_a_tr"));
       return rows.map((row) => {
-        const title = row.querySelector(".gsc_a_t a").innerText;
+        let title = row.querySelector(".gsc_a_t a").innerText;
         const url = row.querySelector(".gsc_a_t a").href;
         const citations = row.querySelector(".gsc_a_c").innerText;
         const year = row.querySelector(".gsc_a_y").innerText;
+        if (title.length > 0) {
+          title = title.replace(
+            /\w\S*/g,
+            (text) =>
+              text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
+          );
+        }
+
         return { title, url, total_citations: citations, year };
       });
     });
@@ -234,4 +242,14 @@ const scholarParser = {
 };
 
 // Run the parser with user ID and target year
-scholarParser.parse("qK-YgxAAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+// scholarParser.parse("qK-YgxAAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+// scholarParser.parse("U9tD0ywAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+
+// List of Google Scholar user IDs
+const userIds = ["qK-YgxAAAAAJ", "U9tD0ywAAAAJ"];
+
+// Run the parser for each user ID
+userIds.forEach((userId) => {
+  console.log(`Parsing for User: ${userId}`);
+  scholarParser.parse(userId, new Date().getFullYear());
+});
