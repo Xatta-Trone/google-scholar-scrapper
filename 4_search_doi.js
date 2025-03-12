@@ -54,7 +54,12 @@ async function extractDOI(page, expectedTitle) {
  * @param {array} data - The JSON data array.
  */
 async function processMissingDOIs(data) {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    headless: true,
+    defaultViewport: null,
+    args: [`--no-sandbox`, `--disable-setuid-sandbox`],
+    slowMo: 50,
+  });
   const page = await browser.newPage();
 
   for (const entry of data) {
