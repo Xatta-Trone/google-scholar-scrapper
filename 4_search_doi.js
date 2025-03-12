@@ -6,6 +6,7 @@ import puppeteer from "puppeteer";
 
 const folderPath = "./"; // Set folder path where JSON files are stored
 const baseUrl = "https://search.crossref.org/search/works?q=";
+const filePrefix = "scholar-data"; // Process only files starting with this prefix
 
 /**
  * Extracts DOI from CrossRef search page by matching title.
@@ -95,13 +96,17 @@ async function updateDOIsInJSON(filePath) {
 }
 
 /**
- * Scans the folder and processes all JSON files.
+ * Scans the folder and processes only JSON files with 'scholar-data' prefix.
  */
-async function processAllJSONFiles() {
+async function processAllScholarDataFiles() {
   try {
     const files = fs.readdirSync(folderPath);
 
-    const jsonFiles = files.filter((file) => file.endsWith(".json"));
+    // Filter only files that start with "scholar-data" and end in .json
+    const jsonFiles = files.filter(
+      (file) => file.startsWith("scholar-data") && file.endsWith(".json")
+    );
+
     console.log(`📂 Found ${jsonFiles.length} JSON files to process.`);
 
     for (const file of jsonFiles) {
@@ -116,4 +121,5 @@ async function processAllJSONFiles() {
 }
 
 // Run the script
-processAllJSONFiles();
+processAllScholarDataFiles();
+

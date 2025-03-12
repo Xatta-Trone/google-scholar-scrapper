@@ -3,7 +3,8 @@
 import fs from "fs";
 import path from "path";
 
-const folderPath = "./"; // Adjust folder path if necessary
+const folderPath = "./";
+const filePrefix = "scholar-data"; // Process only files starting with this prefix
 
 /**
  * Extracts DOI from a given URL if present.
@@ -67,12 +68,16 @@ function processJSONFile(filePath) {
 }
 
 /**
- * Scans the folder and processes all JSON files.
+ * Scans the folder and processes only JSON files with 'scholar-data' prefix.
  */
-function processAllJSONFiles() {
+function processAllScholarDataFiles() {
   try {
     const files = fs.readdirSync(folderPath);
-    const jsonFiles = files.filter((file) => file.endsWith(".json"));
+
+    // Filter only files that start with "scholar-data" and end in .json
+    const jsonFiles = files.filter(
+      (file) => file.startsWith(filePrefix) && file.endsWith(".json")
+    );
 
     console.log(`📂 Found ${jsonFiles.length} JSON files to process.`);
 
@@ -88,4 +93,4 @@ function processAllJSONFiles() {
 }
 
 // Run the script
-processAllJSONFiles();
+processAllScholarDataFiles();

@@ -17,7 +17,7 @@ The live preview of the scraped data is available at: https://google-scholar-scr
 - [x] Set github actions for automation.
 - [x] Deploy to vercel.
 - [x] Get the DOI if available. 
-- [ ] Filter out false data.
+- [ ] Update citations every day.
 - [ ] Add records with no year available. 
 
 ## License 
