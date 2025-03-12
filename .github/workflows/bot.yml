@@ -19,8 +19,10 @@ jobs:
             node-version: 18.x
       - run: npm ci
       - run: git pull
-      - run: node gs2.js
-      - run: node totsv.js
+      - run: node 1_gs2.js
+      - run: node 2_totsv.js
+      - run: node 3_extract_doi.js
+      - run: node 4_search_doi.js
       - run: |
             git config user.name  "xatta-trone"
             git config user.email "22274105+actions-user@users.noreply.github.com"
