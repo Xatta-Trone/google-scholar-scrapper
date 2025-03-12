@@ -242,14 +242,14 @@ const scholarParser = {
 };
 
 // Run the parser with user ID and target year
- scholarParser.parse("qK-YgxAAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
- scholarParser.parse("U9tD0ywAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+ // scholarParser.parse("qK-YgxAAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+ // scholarParser.parse("U9tD0ywAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
 
 // List of Google Scholar user IDs
-// const userIds = ["qK-YgxAAAAAJ", "U9tD0ywAAAAJ"];
+const userIds = ["qK-YgxAAAAAJ", "U9tD0ywAAAAJ"];
 
-// // Run the parser for each user ID
-// userIds.forEach((userId) => {
-//   console.log(`Parsing for User: ${userId}`);
-//   scholarParser.parse(userId, new Date().getFullYear());
-// });
+// Run the parser for each user ID
+userIds.forEach((userId) => {
+  console.log(`Parsing for User: ${userId}`);
+  scholarParser.parse(userId, new Date().getFullYear());
+});
