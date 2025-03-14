@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-03-13T01:39:51.202Z",
+    "last_updated_utc": "2025-03-14T01:38:03.525Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5917,6 +5917,18 @@
             "publication_date": "2025/1",
             "journal": "Available at SSRN 4649205",
             "doi": "10.2139/ssrn.4649205"
+        },
+        {
+            "title": "Driving Education Advancements Of Novice Drivers: A Systematic Literature Review",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:VnuxuLaQPLMC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2503.05762",
+            "authors": "Anannya Ghosh Tusti, Anandi K Dutta, Syed Aaqib Javed, Subasish Das",
+            "publication_date": "2025/2/24",
+            "source": "arXiv preprint arXiv:2503.05762",
+            "description": "Most novice drivers are teenagers since many individuals begin their driving journey during adolescence. Novice driver crashes remain a leading cause of death among adolescents, underscoring the necessity for effective education and training programs to improve safety. This systematic review examines advancements in teen driver education from 2000 to 2024, emphasizing the effectiveness of various training programs, technology-based methods, and access barriers. Comprehensive searches were conducted across ScienceDirect, TRID, and journal databases, resulting in the identification of 29 eligible peer-reviewed studies. Thematic analysis indicated that technology-enhanced programs, such as RAPT, V-RAPT, and simulators, enhanced critical skills like hazard anticipation and attention management. Parental involvement programs, including Share the Keys and Checkpoints, demonstrated sustained behavioral improvements and adherence to Graduated Driver Licensing (GDL) restrictions. However, limited access due to socioeconomic disparities and insufficient long-term evaluations constrained broader effectiveness. The exclusion of non-U.S. studies and variability in research designs restricted the generalizability of findings. Integrated approaches that combine traditional education with innovative training tools and parental engagement appear promising for improving teen driver safety, with future research required to evaluate long-term effectiveness and ensure equitable access.",
+            "doi": ""
         }
     ]
 }
