@@ -100,7 +100,7 @@ const scholarParser = {
     let uniqueArticles = [];
 
     for (let article of data) {
-      let key = `${article.title}_${article.source_url}`;
+      let key = `${article.url}`;
       if (!seen.has(key)) {
         seen.add(key);
         uniqueArticles.push(article);
