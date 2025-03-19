@@ -95,10 +95,24 @@ const scholarParser = {
       data.push(articleData);
     }
 
+    // Use a Set to track seen title and source_url combinations
+    let seen = new Set();
+    let uniqueArticles = [];
+
+    for (let article of data) {
+      let key = `${article.title}_${article.source_url}`;
+      if (!seen.has(key)) {
+        seen.add(key);
+        uniqueArticles.push(article);
+      }
+    }
+
+    
+
     // make the data to json with last updated utc date
     const dataToWrite = {
       last_updated_utc: new Date().toISOString(),
-      data: data,
+      data: uniqueArticles,
     };
     // write it to a file
     fs.writeFile(
