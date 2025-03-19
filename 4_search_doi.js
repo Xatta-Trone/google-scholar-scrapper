@@ -63,7 +63,7 @@ async function processMissingDOIs(data) {
   const page = await browser.newPage();
 
   for (const entry of data) {
-    if (!entry.doi) {
+    if (!entry.hasOwnProperty("doi")) {
       // Skip if DOI already exists
       const searchUrl = `${baseUrl}${encodeURIComponent(
         entry.title
