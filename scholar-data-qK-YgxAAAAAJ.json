@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-03-18T01:40:14.047Z",
+    "last_updated_utc": "2025-03-19T01:40:22.669Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5928,6 +5928,18 @@
             "publication_date": "2025/2/24",
             "source": "arXiv preprint arXiv:2503.05762",
             "description": "Most novice drivers are teenagers since many individuals begin their driving journey during adolescence. Novice driver crashes remain a leading cause of death among adolescents, underscoring the necessity for effective education and training programs to improve safety. This systematic review examines advancements in teen driver education from 2000 to 2024, emphasizing the effectiveness of various training programs, technology-based methods, and access barriers. Comprehensive searches were conducted across ScienceDirect, TRID, and journal databases, resulting in the identification of 29 eligible peer-reviewed studies. Thematic analysis indicated that technology-enhanced programs, such as RAPT, V-RAPT, and simulators, enhanced critical skills like hazard anticipation and attention management. Parental involvement programs, including Share the Keys and Checkpoints, demonstrated sustained behavioral improvements and adherence to Graduated Driver Licensing (GDL) restrictions. However, limited access due to socioeconomic disparities and insufficient long-term evaluations constrained broader effectiveness. The exclusion of non-U.S. studies and variability in research designs restricted the generalizability of findings. Integrated approaches that combine traditional education with innovative training tools and parental engagement appear promising for improving teen driver safety, with future research required to evaluate long-term effectiveness and ensure equitable access.",
+            "doi": ""
+        },
+        {
+            "title": "Applying Tabular Deep Learning Models To Estimate Crash Injury Types Of Young Motorcyclists",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:M0j1y4EgrScC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2503.10474",
+            "authors": "Shriyank Somvanshi, Anannya Ghosh Tusti, Rohit Chakraborty, Subasish Das",
+            "publication_date": "2025/3/13",
+            "journal": "arXiv preprint arXiv:2503.10474",
+            "description": "Young motorcyclists, particularly those aged 15 to 24 years old, face a heightened risk of severe crashes due to factors such as speeding, traffic violations, and helmet usage. This study aims to identify key factors influencing crash severity by analyzing 10,726 young motorcyclist crashes in Texas from 2017 to 2022. Two advanced tabular deep learning models, ARMNet and MambaNet, were employed, using an advanced resampling technique to address class imbalance. The models were trained to classify crashes into three severity levels, Fatal or Severe, Moderate or Minor, and No Injury. ARMNet achieved an accuracy of 87 percent, outperforming 86 percent of Mambanet, with both models excelling in predicting severe and no injury crashes while facing challenges in moderate crash classification. Key findings highlight the significant influence of demographic, environmental, and behavioral factors on crash outcomes. The study underscores the need for targeted interventions, including stricter helmet enforcement and educational programs customized to young motorcyclists. These insights provide valuable guidance for policymakers in developing evidence-based strategies to enhance motorcyclist safety and reduce crash severity.",
             "doi": ""
         }
     ]
