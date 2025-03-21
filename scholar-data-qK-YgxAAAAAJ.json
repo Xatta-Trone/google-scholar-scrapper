@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-03-20T01:39:41.414Z",
+    "last_updated_utc": "2025-03-21T01:41:22.247Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5627,6 +5627,77 @@
             "journal": "arXiv preprint arXiv:2503.10474",
             "description": "Young motorcyclists, particularly those aged 15 to 24 years old, face a heightened risk of severe crashes due to factors such as speeding, traffic violations, and helmet usage. This study aims to identify key factors influencing crash severity by analyzing 10,726 young motorcyclist crashes in Texas from 2017 to 2022. Two advanced tabular deep learning models, ARMNet and MambaNet, were employed, using an advanced resampling technique to address class imbalance. The models were trained to classify crashes into three severity levels, Fatal or Severe, Moderate or Minor, and No Injury. ARMNet achieved an accuracy of 87 percent, outperforming 86 percent of Mambanet, with both models excelling in predicting severe and no injury crashes while facing challenges in moderate crash classification. Key findings highlight the significant influence of demographic, environmental, and behavioral factors on crash outcomes. The study underscores the need for targeted interventions, including stricter helmet enforcement and educational programs customized to young motorcyclists. These insights provide valuable guidance for policymakers in developing evidence-based strategies to enhance motorcyclist safety and reduce crash severity.",
             "doi": ""
+        },
+        {
+            "title": "Perception Of Cyber Attacks On Automated Vehicles And Its Influence On Road Sharing And Ridership: Insights Of The Us Perspective From A 2021 Nationwide Survey",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:AFXcoJnoRH0C",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S1369847825001007",
+            "authors": "Abdallah Kinero, Francisca Kasubi, Ahmed Hossain, Subasish Das, Boniphace Kutela",
+            "publication_date": "2025/5/1",
+            "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+            "volume": "111",
+            "pages": "264-278",
+            "publisher": "Pergamon",
+            "description": "As transportation enters into the automation phase, the likelihood of cyber-attacks increases. Such a rise in cyber-attacks can be an obstacle to widespread vehicle automation and the use of automated vehicles (AVs). Understanding people’s perception of cyber-attacks on AVs and the impact of the perception of cyber-attacks on ridership and sharing the road with AVs have become important for widespread automation. Regardless of its importance to the ridership of AVs, little effort has been exerted to understand the influence of cyberattacks on the use and adoption of AVs. This study uniquely contributes by identifying key demographic factors such as age, education, income, political ideology, and geographic location that influence perceptions of AV cybersecurity risks. These perceptions are linked to actual behavioral outcomes like ridership and road-sharing with AVs. This study applied Bayesian Networks to …",
+            "doi": "10.1016/j.trf.2025.03.008"
+        },
+        {
+            "title": "Crash Severity Analysis Of Child Bicyclists Using Arm-net And Mambanet",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:i91s68tWr-MC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2503.11003",
+            "authors": "Shriyank Somvanshi, Rohit Chakraborty, Subasish Das, Anandi K Dutta",
+            "publication_date": "2025/3/14",
+            "journal": "arXiv preprint arXiv:2503.11003",
+            "description": "Child bicyclists (14 years and younger) are among the most vulnerable road users, often experiencing severe injuries or fatalities in crashes. This study analyzed 2,394 child bicyclist crashes in Texas from 2017 to 2022 using two deep tabular learning models (ARM-Net and MambaNet). To address the issue of data imbalance, the SMOTEENN technique was applied, resulting in balanced datasets that facilitated accurate crash severity predictions across three categories: Fatal/Severe (KA), Moderate/Minor (BC), and No Injury (O). The findings revealed that MambaNet outperformed ARM-Net, achieving higher precision, recall, F1-scores, and accuracy, particularly in the KA and O categories. Both models highlighted challenges in distinguishing BC crashes due to overlapping characteristics. These insights underscored the value of advanced tabular deep learning methods and balanced datasets in understanding crash severity. While limitations such as reliance on categorical data exist, future research could explore continuous variables and real-time behavioral data to enhance predictive modeling and crash mitigation strategies.",
+            "doi": ""
+        },
+        {
+            "title": "Comparative Analysis Of Advanced Ai-based Object Detection Models For Pavement Marking Quality Assessment During Daytime",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:pRWBApOjXDcC",
+            "total_citations": "",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2503.11008",
+            "authors": "Gian Antariksa, Rohir Chakraborty, Shriyank Somvanshi, Subasish Das, Mohammad Jalayer, Deep Rameshkumar Patel, David Mills",
+            "publication_date": "2025/3/14",
+            "journal": "arXiv preprint arXiv:2503.11008",
+            "description": "Visual object detection utilizing deep learning plays a vital role in computer vision and has extensive applications in transportation engineering. This paper focuses on detecting pavement marking quality during daytime using the You Only Look Once (YOLO) model, leveraging its advanced architectural features to enhance road safety through precise and real-time assessments. Utilizing image data from New Jersey, this study employed three YOLOv8 variants: YOLOv8m, YOLOv8n, and YOLOv8x. The models were evaluated based on their prediction accuracy for classifying pavement markings into good, moderate, and poor visibility categories. The results demonstrated that YOLOv8n provides the best balance between accuracy and computational efficiency, achieving the highest mean Average Precision (mAP) for objects with good visibility and demonstrating robust performance across various Intersections over Union (IoU) thresholds. This research enhances transportation safety by offering an automated and accurate method for evaluating the quality of pavement markings.",
+            "doi": ""
+        },
+        {
+            "title": "Who Should Be Responsible For Setting Standards For How Automated Vehicles Are Used? Insights From The Nationwide Survey",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:inmFHauC9wsC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Abdallah Kinero, Boniphace Kutela, Subasish Das, Ahmed Hossain",
+            "publication_date": "2025/1",
+            "journal": "SSRN",
+            "doi": "10.2139/ssrn.4956111"
+        },
+        {
+            "title": "Enhanced Balanced-generative Adversarial Networks To Predict Pedestrian Injury Types",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:lK9BDNCuzFgC",
+            "total_citations": "1",
+            "year": "2025",
+            "source_url": "https://www.researchsquare.com/article/rs-4530893/latest",
+            "authors": "Shriyank Somvanshi, Gian Antariksa, Subasish Das",
+            "publication_date": "2025/1",
+            "journal": "Available at SSRN 4847615",
+            "description": "Pedestrians are at a significantly higher risk of suffering serious injuries or death in road traffic incidents. In 2021 alone there were 7,388 pedestrian fatalities and 60,577 injuries. Addressing this critical issue, our study introduced a novel methodology for predicting the severity of pedestrian crashes. This method leveraged advanced deep learning models such as Inception-ResNet-v2, Inception-v3, and Xception applied to synthetic data generated by Generative Adversarial Networks (GANs). This study analyzed data related to pedestrian crash severity in Louisiana spanning five years (2016–2021), encompassing forty variables that include pedestrian demographics, accident location, and vehicle specifics. The severity of crashes was categorized into three categories: injury, no injury, and fatal. To combat the challenge of data imbalance, our study implemented a novel method that combined traditional sampling methods with GANs. This integrated methodology facilitated the generation of synthetic data utilizing the Conditional Tabular GAN (CTGAN) model and the attainment of balanced datasets by employing under-sampling via the Random Under Sampler (RUS) technique and over-sampling through the Synthetic Minority Over-sampling Technique (SMOTE). Thereafter, the DeepInsight technique was employed to transform numerical and categorical crash data into image format, making it compatible with the deep learning models utilized. The findings reveal that the models demonstrated improved predictive capabilities when applied to the over sampled dataset, which was achieved by increasing the number of instances in the minority class …",
+            "doi": "10.2139/ssrn.4847615"
+        },
+        {
+            "title": "Investigating Pedestrian-vehicle Crashes On Interstate Highways: Applying Random Parameter Logit Model",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:3lUAU8Oskd0C",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Ahmed Hossain, Xiaoduan Sun, Subasish Das, Monire Jafari, M Ashifur Rahman",
+            "publication_date": "2025/1",
+            "journal": "Available at SSRN 4649205",
+            "doi": "10.2139/ssrn.4649205"
         }
     ]
 }
