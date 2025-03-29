@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-03-28T01:41:20.021Z",
+    "last_updated_utc": "2025-03-29T01:40:20.221Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -5698,6 +5698,77 @@
             "publication_date": "2025/1",
             "journal": "Available at SSRN 4649205",
             "doi": "10.2139/ssrn.4649205"
+        },
+        {
+            "title": "A Survey On Structured State Space Sequence (S4) Models",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:oldoQiaHq2UC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
+            "publication_date": "2025/3/22",
+            "source": "arXiv preprint arXiv:2503.18970",
+            "doi": ""
+        },
+        {
+            "title": "Ambulance Crash Risk Dynamics: A Baseline (2017–2019) Vs. Pandemic-era (2020–2022) Comparative Study Using A Random Parameter Logit Model",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:5LPo_wSKItgC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Ahmed Hossain, Swastika Barua, Subasish Das, Michael Starewich",
+            "publication_date": "2025/3/21",
+            "journal": "Transportmetrica A: Transport Science",
+            "pages": "1-39",
+            "publisher": "Taylor & Francis",
+            "doi": "10.1080/23249935.2025.2481578"
+        },
+        {
+            "title": "Understanding The Lifecycle Of Federal-level Artificial Intelligence (Ai) Tools. A Case Of Department Of Homeland Security",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:N6_Y7JlWxwsC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Vailet Magidanga, Boniphace Kutela, Norris Novat, Subasish Das",
+            "publication_date": "2025/1/23",
+            "journal": "A Case of Department of Homeland Security (January 23, 2025)",
+            "doi": "10.2139/ssrn.5109488"
+        },
+        {
+            "title": "Demographic Risk Factors And Injury Severity Scores In Substance-use Behaviour Related Traffic Crashes",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:cSdaV2aYdYsC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Mahmuda Sultana Mimi, Rohit Chakraborty, Swastika Barua, Subasish Das, Md Nasim Khan, Bahar Dadashova",
+            "publication_date": "2025/1/1",
+            "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+            "volume": "108",
+            "pages": "168-187",
+            "publisher": "Pergamon",
+            "doi": "10.1016/j.trf.2024.11.018"
+        },
+        {
+            "title": "Analyzing Purchase Intentions Of Used Electric Vehicles Through Consumer Experiences: A Structural Equation Modeling Approach",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:cB__R-XWw9UC",
+            "total_citations": "1",
+            "year": "2025",
+            "authors": "Abbas Sheykhfard, Mohammad Azmoodeh, Subasish Das, Boniphace Kutela",
+            "publication_date": "2025/1/1",
+            "journal": "Transport Policy",
+            "volume": "160",
+            "pages": "125-137",
+            "publisher": "Pergamon",
+            "doi": "10.1016/j.tranpol.2024.10.038"
+        },
+        {
+            "title": "Exploring Patterns In Older Pedestrian Involved Crashes During Nighttime",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:T8_be82Iz5gC",
+            "total_citations": "",
+            "year": "2025",
+            "authors": "Mahmuda Sultana Mimi, Rohit Chakraborty, Jinli Liu, Swastika Barua, Subasish Das",
+            "publication_date": "2025/1/1",
+            "journal": "Accident Analysis & Prevention",
+            "volume": "209",
+            "pages": "107815",
+            "publisher": "Pergamon",
+            "doi": "10.1016/j.aap.2024.107815"
         }
     ]
 }
