@@ -40,13 +40,10 @@ const scholarParser = {
     let hasMoreResults = true;
     let allArticles = [];
     while (hasMoreResults) {
-      // Scrape article title, url, citations, year from the main page
       const articles = await scholarParser.articleData(page);
       allArticles = [...allArticles, ...articles];
 
-      // Check if "Load more" button exists and click it
       const loadMoreButton = await page.$("#gsc_bpf_more");
-      // Check if the button is disabled
       const isDisabled = await loadMoreButton.getProperty("disabled");
       const disabledValue = await isDisabled.jsonValue();
       console.log(`Button is disabled: ${disabledValue}`);
@@ -54,7 +51,7 @@ const scholarParser = {
       if (loadMoreButton && !disabledValue) {
         console.log("Loading more results...");
         await page.click("#gsc_bpf_more");
-        await delay(3000); // Wait for more results to load
+        await delay(3000);
       } else {
         console.log("No more results to load.");
         hasMoreResults = false;
@@ -64,12 +61,13 @@ const scholarParser = {
     console.log(`Total articles found: ${allArticles.length}`);
     console.log(`Current data length: ${data.length}`);
 
+    const currentYear = new Date().getFullYear().toString();
+
     for (const article of allArticles) {
-      // check if the article exists in data
       const existingIndex = data.findIndex((d) => d.title === article.title);
 
       if (existingIndex !== -1) {
-        // Update only citations and last update timestamp for existing article
+        // Update citations for ALL existing articles
         data[existingIndex].total_citations = article.total_citations;
         data[existingIndex].last_citation_update = new Date().toISOString();
         console.log(
@@ -78,19 +76,32 @@ const scholarParser = {
         continue;
       }
 
-      // visit each article page and gather metadata for new articles
-      let articleData = await scholarParser.articleMetaData(article, page);
-      data.push(articleData);
+      // Only fetch detailed metadata for current year articles
+      if (article.year === currentYear) {
+        console.log(
+          `New ${currentYear} article, fetching full metadata: ${article.title}`
+        );
+        let articleData = await scholarParser.articleMetaData(article, page);
+        data.push(articleData);
+      } else {
+        // For older articles, just add basic data
+        console.log(
+          `Adding basic data for ${article.year} article: ${article.title}`
+        );
+        data.push({
+          ...article,
+          last_citation_update: new Date().toISOString(),
+        });
+      }
     }
 
-    // Use a Set to track seen citation_for_view values
+    // Deduplicate using citation_for_view
     let seen = new Set();
     let uniqueArticles = [];
 
     for (let article of data) {
-      // Extract citation_for_view from the URL
       const urlMatch = article.url?.match(/citation_for_view=[\w-]+:([\w-]+)/);
-      let key = urlMatch ? urlMatch[1] : article.url; // fallback to URL if no match
+      let key = urlMatch ? urlMatch[1] : article.url;
 
       if (!seen.has(key)) {
         seen.add(key);
