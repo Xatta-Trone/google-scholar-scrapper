@@ -5,8 +5,8 @@ import fs from "fs";
 const delay = (milliseconds) =>
   new Promise((resolve) => setTimeout(resolve, milliseconds));
 const scholarParser = {
-  parse: async (userId) => {
-    console.log(`Scraping publications for user: ${userId}`);
+  parse: async (userId, targetYear) => {
+    console.log(`Scraping publications until year: ${targetYear}`);
 
     // publications data array
     let data = [];
@@ -38,11 +38,24 @@ const scholarParser = {
     );
 
     let hasMoreResults = true;
-    let allArticles = [];
+    let filteredArticles = [];
     while (hasMoreResults) {
       // Scrape article title, url, citations, year from the main page
       const articles = await scholarParser.articleData(page);
-      allArticles = [...allArticles, ...articles];
+
+      for (const article of articles) {
+        const articleYear = parseInt(article.year);
+        // console.log(articleYear, articles.length, isNaN(articleYear) === false);
+
+        if (isNaN(articleYear) === false && articleYear <= targetYear - 1) {
+          console.log(`Reached target year: ${targetYear}`);
+          hasMoreResults = false;
+          // now filter the articles by year
+          break;
+        }
+      }
+
+      filteredArticles = articles.filter((a) => parseInt(a.year) >= targetYear);
 
       // Check if "Load more" button exists and click it
       const loadMoreButton = await page.$("#gsc_bpf_more");
@@ -51,57 +64,41 @@ const scholarParser = {
       const disabledValue = await isDisabled.jsonValue();
       console.log(`Button is disabled: ${disabledValue}`);
 
-      if (loadMoreButton && !disabledValue) {
-        console.log("Loading more results...");
-        await page.click("#gsc_bpf_more");
-        await delay(3000); // Wait for more results to load
+      if (loadMoreButton && hasMoreResults) {
+        // check if the button is disabled
+        if (disabledValue) {
+          console.log("No more results to load.");
+          hasMoreResults = false;
+        } else {
+          console.log("Loading more results...");
+          await page.click("#gsc_bpf_more");
+          await delay(3000); // Wait for more results to load
+        }
       } else {
         console.log("No more results to load.");
         hasMoreResults = false;
       }
     }
 
-    console.log(`Total articles found: ${allArticles.length}`);
+    console.log(`Total filtered articles: ${filteredArticles.length}`);
     console.log(`Current data length: ${data.length}`);
 
-    for (const article of allArticles) {
-      // check if the article exists in data
-      const existingIndex = data.findIndex((d) => d.title === article.title);
-
-      if (existingIndex !== -1) {
-        // Update only citations and last update timestamp for existing article
-        data[existingIndex].total_citations = article.total_citations;
-        data[existingIndex].last_citation_update = new Date().toISOString();
-        console.log(
-          `Updated citations for ${article.title}: ${article.total_citations}`
-        );
+    for (const article of filteredArticles) {
+      // check if the article title is already in the data
+      if (data.length > 0 && data.some((d) => d.title === article.title)) {
+        console.log(`Skipping ${article.title}`);
         continue;
       }
 
-      // visit each article page and gather metadata for new articles
+      // visit each article page and gather metadata
       let articleData = await scholarParser.articleMetaData(article, page);
       data.push(articleData);
-    }
-
-    // Use a Set to track seen citation_for_view values
-    let seen = new Set();
-    let uniqueArticles = [];
-
-    for (let article of data) {
-      // Extract citation_for_view from the URL
-      const urlMatch = article.url?.match(/citation_for_view=[\w-]+:([\w-]+)/);
-      let key = urlMatch ? urlMatch[1] : article.url; // fallback to URL if no match
-
-      if (!seen.has(key)) {
-        seen.add(key);
-        uniqueArticles.push(article);
-      }
     }
 
     // make the data to json with last updated utc date
     const dataToWrite = {
       last_updated_utc: new Date().toISOString(),
-      data: uniqueArticles,
+      data: data,
     };
     // write it to a file
     fs.writeFile(
@@ -160,8 +157,7 @@ const scholarParser = {
       return rows.map((row) => {
         let title = row.querySelector(".gsc_a_t a").innerText;
         const url = row.querySelector(".gsc_a_t a").href;
-        const citations =
-          parseInt(row.querySelector(".gsc_a_c").innerText) || 0;
+        const citations = row.querySelector(".gsc_a_c").innerText;
         const year = row.querySelector(".gsc_a_y").innerText;
         if (title.length > 0) {
           title = title.replace(
@@ -171,14 +167,7 @@ const scholarParser = {
           );
         }
 
-        // Add timestamp for citation update
-        return {
-          title,
-          url,
-          total_citations: citations,
-          last_citation_update: new Date().toISOString(),
-          year,
-        };
+        return { title, url, total_citations: citations, year };
       });
     });
     return articles;
@@ -252,11 +241,15 @@ const scholarParser = {
   },
 };
 
+// Run the parser with user ID and target year
+ // scholarParser.parse("qK-YgxAAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+ // scholarParser.parse("U9tD0ywAAAAJ", new Date().getFullYear()); // Replace with the Google Scholar user ID and target year
+
 // List of Google Scholar user IDs
 const userIds = ["qK-YgxAAAAAJ", "U9tD0ywAAAAJ"];
 
 // Run the parser for each user ID
 userIds.forEach((userId) => {
   console.log(`Parsing for User: ${userId}`);
-  scholarParser.parse(userId);
+  scholarParser.parse(userId, new Date().getFullYear());
 });
