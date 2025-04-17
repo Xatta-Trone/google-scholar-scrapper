@@ -182,6 +182,8 @@ const scholarParser = {
           );
         }
 
+        console.log(citations);
+
         // Add timestamp for citation update
         return {
           title,
@@ -231,7 +233,7 @@ const scholarParser = {
         //   "total citations",
       ];
 
-      const skipKeys = ["scholar articles", "total citations"];
+      const skipKeys = ["scholar articles"];
 
       rows.forEach((row) => {
         const key = row.querySelector(".gsc_oci_field")?.innerText.trim();
@@ -244,6 +246,7 @@ const scholarParser = {
       return data;
     });
     articleData = { ...articleData, ...articleMetaData };
+    console.log(articleData);
 
     return articleData;
   },
@@ -264,7 +267,8 @@ const scholarParser = {
 };
 
 // List of Google Scholar user IDs
-const userIds = ["qK-YgxAAAAAJ", "U9tD0ywAAAAJ"];
+const userIds = ["qK-YgxAAAAAJ", "U9tD0ywAAAAJ", "edkjFpwAAAAJ"];
+// const userIds = ["edkjFpwAAAAJ"];
 
 // Run the parser for each user ID
 userIds.forEach((userId) => {
