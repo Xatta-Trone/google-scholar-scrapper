@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-04-11T01:45:32.918Z",
+    "last_updated_utc": "2025-04-17T14:56:19.893Z",
     "data": [
         {
             "title": "Understanding socio-demographic factors associated with shared-use-paths (SUPs) utilization",
@@ -672,7 +672,7 @@
             "pdf_link": "2024 (A) Oliaee TRR Ped Typo Transformers.pdf",
             "img": "new_images/j5aT6aphRxQC.png",
             "doi": "10.1177/03611981241260691",
-            "last_citation_update": "2025-04-11T01:45:32.907Z"
+            "last_citation_update": "2025-04-17T14:56:19.823Z"
         },
         {
             "title": "Unlocking Urban Sentiments about 15-Min City through Hashtags",
@@ -1149,7 +1149,7 @@
             "description": "Safety prediction models have been developed for urban freeway segments in Texas and elsewhere to apply to cross sections up to 10 lanes wide. These models are documented resources such as TxDOT’s Roadway Safety Design Workbook and the Highway Safety Manual and applied in several spreadsheet-based analysis tools. These tools are acknowledged in the Project Development Process Manual and have been used by various district personnel, particularly in the evaluation of project alternatives or analysis of design exceptions. However, additional research is needed to address knowledge gaps as well as to develop updated local calibration factors for the models. Specifically, safety prediction models do not exist for 12-lane freeway segments or freeway segments with managed lanes (e.g., high-occupancy-vehicle or high-occupancy-toll lanes). The research team derived local calibration factors for models for urban freeway segments with 4–10 lanes, assessed the applicability of the 10-lane urban freeway model to freeway segments with 11 or more lanes, and developed new safety prediction models for segments with managed lanes. The research team also developed an analysis tool to help practitioners implement the new models to facilitate analysis of complex urban freeway configurations, such as cases where an urban freeway widening project requires challenging tradeoffs between narrowing lanes or inside or outside shoulders.",
             "img": "new_images/eH23hyXCXa4C.png",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.908Z"
+            "last_citation_update": "2025-04-17T14:56:19.827Z"
         },
         {
             "title": "Traffic Safety Risk Assessment for Selected Roads in Al-Qadisiyah Province",
@@ -1206,7 +1206,7 @@
             "description": "Popular navigation applications such as Google Maps and Apple Maps provide distance-based or travel time based alternative routes with no real-time risk scoring. There is a need for a real-time navigation system that can provide the data-driven decision on the safest path or route. By leveraging data from a diverse range of historical and real-time sources, this study successfully developed a user interface for a navigation tool or application that offers informed and data-driven decisions regarding the safest navigation options. The interface considers multiple scoring factors, including safety, distance, travel time, and an overall scoring metric. This study made a distinctive and valuable contribution by designing and implementing a robust safe navigation tool driven by artificial intelligence. Unlike existing navigation tools that offer multiple uninformed route options, this tool provides users with an informed decision on the safest route. By leveraging advanced AI algorithms and integrating various data sources, this navigation tool enhances the accuracy and reliability of route selection, thereby improving overall road safety and ensuring users can make informed decisions for their journeys.",
             "img": "new_images/q0uBw5dMOAkC.png",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.908Z"
+            "last_citation_update": "2025-04-17T14:56:19.827Z"
         },
         {
             "title": "Applying few-shot learning in classifying pedestrian crash typing",
@@ -2314,7 +2314,7 @@
             "description": "The National Highway Traffic Safety Administration recently granted permission to deploy low-speed autonomous delivery vehicles (ADVs) on roadways. Although the mobility of ADVs is limited to low-speed roads and these vehicles are occupantless, frequent stops and mobility among residential neighborhoods cause safety-related concerns. There is consequently a need for a comprehensive safety impact analysis of ADVs. This study examined the safety implications and safety impacts of ADVs by using novel approaches. This research prepared several datasets such as fatal crash data, aggregated ADV trips and trajectories, and real-world crash data from the scenario design for an ADV-related operational design domain. Association rules mining was applied to the datasets to identify significant patterns. This study generated a total of 80 association rules that provide risk patterns associated with ADVs. The rules can be used as prospective benchmarks to examine how rule-based risk patterns can be reduced by ADVs that replace human-driven trips.",
             "img": "new_images/e84hm74t-eoC.png",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.910Z"
+            "last_citation_update": "2025-04-17T14:56:19.841Z"
         },
         {
             "title": "Physics-guided, physics-informed, and physics-encoded neural networks in scientific computing, arXiv",
@@ -2367,7 +2367,7 @@
             "description": "This research report provides state departments of transportation (DOTs) practitioners and other transportation professionals with comprehensive guidelines for the selection of cost effective countermeasures to address opposite direction crashes. These guidelines should be of immediate use to experienced practitioners working to reduce crashes and improve safety on the surface transportation system.",
             "img": "new_images/mel-f30kHHgC.png",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.910Z"
+            "last_citation_update": "2025-04-17T14:56:19.841Z"
         },
         {
             "title": "Crash modification factor for corner radius, right-turn speed, and prediction of pedestrian crashes at signalized intersections",
@@ -3096,7 +3096,7 @@
             "pdf_link": "2021 (BC) Das Inspection IET.pdf",
             "img": "new_images/DBa1UEJaJKAC.png",
             "doi": "10.1016/b978-0-08-102671-7.10112-5",
-            "last_citation_update": "2025-04-11T01:45:32.912Z"
+            "last_citation_update": "2025-04-17T14:56:19.856Z"
         },
         {
             "title": "Use of Disruptive Technologies to Support Safety Analysis and Meet New Federal Requirements",
@@ -3692,7 +3692,7 @@
             "description": "The objective of this project was to examine prevailing operating speeds on a large scale to determine how speed and speed differentials interact with roadway characteristics to influence the likelihood of crashes. The project team conducted three major tasks:(a) developed conflated databases for Ohio and Washington by incorporating the Highway Safety Information System (HSIS) and the National Performance Management Research Data Set;(b) developed static and interactive data visualization tools to show the association between operating speed measures and safety outcomes; and (c) developed best-fit models at annual and daily levels to address the impact of operating speed on safety. The overall finding was that speed-related operational information is an area of opportunity to better understand safety outcomes. This pilot project established the framework of data conflation and an analytical pipeline that will help to address the effect of operation speed measures on safety. The replicability procedure developed in this study can be applied to other HSIS States. The project team developed a weblink that includes descriptive statistics and data visualization tools (both static and interactive). The links provide a more detailed view of the speed measures and descriptive statistics, as well as visualization of the association between speed measures and crashes at a granular level. The team members also developed an interactive decision support tool (https://ruralspeedsafety. shinyapps. io/rss_sdi/) to show annual risk scoring using Washington and Ohio data that contain expected total crashes from the developed models.",
             "img": "new_images/WZBGuue-350C.png",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.913Z"
+            "last_citation_update": "2025-04-17T14:56:19.864Z"
         },
         {
             "title": "Interpretable machine learning approach in estimating traffic volume on low-volume roadways",
@@ -4653,7 +4653,7 @@
             "conference": "Transportation Research Board 96th Annual Meeting",
             "description": "In 2011, 4,432 pedestrians were killed (14% of total traffic crash fatalities) and 69,000 pedestrians were injured in vehicle-pedestrian crashes in the United States. Particularly in Louisiana, Vehicle-pedestrian crashes have become a key concern because of the high percentage of fatalities in recent years. In 2012, pedestrians were accounted for 17% of all fatalities due to traffic crashes in Louisiana. Alcohol was involved in nearly 44% of these fatalities. Therefore, an extensive research on the pedestrian safety in Louisiana is called for. This research utilized the a priori algorithm of association mining technique to discover knowledge from the vehicle-pedestrian crash database. This paper establishes how to apply association rules mining to discover vehicle pedestrian crash patterns using eight years of Louisiana crash data (2004-2011). The results indicated that roadway lighting at night helped in alleviating pedestrian crash severity. In addition, a few groups of interest were identified from this study: male pedestrians’ greater propensity towards severe and fatal crashes, younger female drivers (15-24) being more crash-prone than other age groups, vulnerable impaired pedestrians even on roadways with lighting at night, middle-aged male pedestrians (35-54) being inclined towards crash occurrence, and dominance of single vehicle crashes. It is clear that data mining approaches help revealing pedestrian crash patterns that may not always follow the intuitive explanations. The findings of this study can be used by traffic safety professionals to develop better pedestrian crash countermeasures, as well as to design campaings to raise awareness …",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.916Z"
+            "last_citation_update": "2025-04-17T14:56:19.886Z"
         },
         {
             "title": "Improper Passing-Related Crashes on Rural Roadways: Using Association Rules Negative Binomial Miner",
@@ -5097,7 +5097,7 @@
             "pdf_link": "2013 (A) Sun Predicting Drivers’ Crash Risk Based-on Previous Crash History.pdf",
             "img": "new_images/mVmsd5A6BfQC.png",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.917Z"
+            "last_citation_update": "2025-04-17T14:56:19.890Z"
         },
         {
             "title": "Investigating the safety impact of raised pavement markers on freeways in Louisiana",
@@ -5197,7 +5197,7 @@
             "publisher": "Louisiana Transportation Research Center",
             "description": "Approximately 1,000 people lose their lives each year in traffic crashes on Louisiana’s roadways, and 50,000 are injured. Traffic crashes cost the citizens of Louisiana $6.03 billion each year, which accounts for about $2,104 for every licensed driver in Louisiana. The Louisiana traffic fatality rate in 2006 was 2.16, while the nation average was 1.41. The lowest rate, 0.78, was reported for Massachusetts. In fact, the traffic fatality rate in Louisiana has been higher than the national average for the past several years.",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.917Z"
+            "last_citation_update": "2025-04-17T14:56:19.891Z"
         },
         {
             "title": "Understanding Spatial-temporal Attributes Influencing Electric Vehicle's Charging Stations Utilization: A Multi-City Study",
@@ -5593,7 +5593,7 @@
             "source": "arXiv preprint arXiv:2503.05762",
             "description": "Most novice drivers are teenagers since many individuals begin their driving journey during adolescence. Novice driver crashes remain a leading cause of death among adolescents, underscoring the necessity for effective education and training programs to improve safety. This systematic review examines advancements in teen driver education from 2000 to 2024, emphasizing the effectiveness of various training programs, technology-based methods, and access barriers. Comprehensive searches were conducted across ScienceDirect, TRID, and journal databases, resulting in the identification of 29 eligible peer-reviewed studies. Thematic analysis indicated that technology-enhanced programs, such as RAPT, V-RAPT, and simulators, enhanced critical skills like hazard anticipation and attention management. Parental involvement programs, including Share the Keys and Checkpoints, demonstrated sustained behavioral improvements and adherence to Graduated Driver Licensing (GDL) restrictions. However, limited access due to socioeconomic disparities and insufficient long-term evaluations constrained broader effectiveness. The exclusion of non-U.S. studies and variability in research designs restricted the generalizability of findings. Integrated approaches that combine traditional education with innovative training tools and parental engagement appear promising for improving teen driver safety, with future research required to evaluate long-term effectiveness and ensure equitable access.",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.804Z"
         },
         {
             "title": "Applying Tabular Deep Learning Models To Estimate Crash Injury Types Of Young Motorcyclists",
@@ -5606,7 +5606,7 @@
             "journal": "arXiv preprint arXiv:2503.10474",
             "description": "Young motorcyclists, particularly those aged 15 to 24 years old, face a heightened risk of severe crashes due to factors such as speeding, traffic violations, and helmet usage. This study aims to identify key factors influencing crash severity by analyzing 10,726 young motorcyclist crashes in Texas from 2017 to 2022. Two advanced tabular deep learning models, ARMNet and MambaNet, were employed, using an advanced resampling technique to address class imbalance. The models were trained to classify crashes into three severity levels, Fatal or Severe, Moderate or Minor, and No Injury. ARMNet achieved an accuracy of 87 percent, outperforming 86 percent of Mambanet, with both models excelling in predicting severe and no injury crashes while facing challenges in moderate crash classification. Key findings highlight the significant influence of demographic, environmental, and behavioral factors on crash outcomes. The study underscores the need for targeted interventions, including stricter helmet enforcement and educational programs customized to young motorcyclists. These insights provide valuable guidance for policymakers in developing evidence-based strategies to enhance motorcyclist safety and reduce crash severity.",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.804Z"
         },
         {
             "title": "Perception Of Cyber Attacks On Automated Vehicles And Its Influence On Road Sharing And Ridership: Insights Of The Us Perspective From A 2021 Nationwide Survey",
@@ -5622,7 +5622,7 @@
             "publisher": "Pergamon",
             "description": "As transportation enters into the automation phase, the likelihood of cyber-attacks increases. Such a rise in cyber-attacks can be an obstacle to widespread vehicle automation and the use of automated vehicles (AVs). Understanding people’s perception of cyber-attacks on AVs and the impact of the perception of cyber-attacks on ridership and sharing the road with AVs have become important for widespread automation. Regardless of its importance to the ridership of AVs, little effort has been exerted to understand the influence of cyberattacks on the use and adoption of AVs. This study uniquely contributes by identifying key demographic factors such as age, education, income, political ideology, and geographic location that influence perceptions of AV cybersecurity risks. These perceptions are linked to actual behavioral outcomes like ridership and road-sharing with AVs. This study applied Bayesian Networks to …",
             "doi": "10.1016/j.trf.2025.03.008",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.803Z"
         },
         {
             "title": "Crash Severity Analysis Of Child Bicyclists Using Arm-net And Mambanet",
@@ -5635,7 +5635,7 @@
             "journal": "arXiv preprint arXiv:2503.11003",
             "description": "Child bicyclists (14 years and younger) are among the most vulnerable road users, often experiencing severe injuries or fatalities in crashes. This study analyzed 2,394 child bicyclist crashes in Texas from 2017 to 2022 using two deep tabular learning models (ARM-Net and MambaNet). To address the issue of data imbalance, the SMOTEENN technique was applied, resulting in balanced datasets that facilitated accurate crash severity predictions across three categories: Fatal/Severe (KA), Moderate/Minor (BC), and No Injury (O). The findings revealed that MambaNet outperformed ARM-Net, achieving higher precision, recall, F1-scores, and accuracy, particularly in the KA and O categories. Both models highlighted challenges in distinguishing BC crashes due to overlapping characteristics. These insights underscored the value of advanced tabular deep learning methods and balanced datasets in understanding crash severity. While limitations such as reliance on categorical data exist, future research could explore continuous variables and real-time behavioral data to enhance predictive modeling and crash mitigation strategies.",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.803Z"
         },
         {
             "title": "Comparative Analysis Of Advanced Ai-based Object Detection Models For Pavement Marking Quality Assessment During Daytime",
@@ -5648,7 +5648,7 @@
             "journal": "arXiv preprint arXiv:2503.11008",
             "description": "Visual object detection utilizing deep learning plays a vital role in computer vision and has extensive applications in transportation engineering. This paper focuses on detecting pavement marking quality during daytime using the You Only Look Once (YOLO) model, leveraging its advanced architectural features to enhance road safety through precise and real-time assessments. Utilizing image data from New Jersey, this study employed three YOLOv8 variants: YOLOv8m, YOLOv8n, and YOLOv8x. The models were evaluated based on their prediction accuracy for classifying pavement markings into good, moderate, and poor visibility categories. The results demonstrated that YOLOv8n provides the best balance between accuracy and computational efficiency, achieving the highest mean Average Precision (mAP) for objects with good visibility and demonstrating robust performance across various Intersections over Union (IoU) thresholds. This research enhances transportation safety by offering an automated and accurate method for evaluating the quality of pavement markings.",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.803Z"
         },
         {
             "title": "A Survey On Structured State Space Sequence (S4) Models",
@@ -5659,7 +5659,7 @@
             "publication_date": "2025/3/22",
             "source": "arXiv preprint arXiv:2503.18970",
             "doi": "",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.803Z"
         },
         {
             "title": "Ambulance Crash Risk Dynamics: A Baseline (2017–2019) Vs. Pandemic-era (2020–2022) Comparative Study Using A Random Parameter Logit Model",
@@ -5672,7 +5672,7 @@
             "pages": "1-39",
             "publisher": "Taylor & Francis",
             "doi": "10.1080/23249935.2025.2481578",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.803Z"
         },
         {
             "title": "Understanding The Lifecycle Of Federal-level Artificial Intelligence (Ai) Tools. A Case Of Department Of Homeland Security",
@@ -5683,7 +5683,7 @@
             "publication_date": "2025/1/23",
             "journal": "A Case of Department of Homeland Security (January 23, 2025)",
             "doi": "10.2139/ssrn.5109488",
-            "last_citation_update": "2025-04-11T01:45:32.904Z"
+            "last_citation_update": "2025-04-17T14:56:19.806Z"
         },
         {
             "title": "Physics-guided",
@@ -5697,7 +5697,7 @@
             "title": "Autonomous Delivery Vehicle As A Disruptive Technology: How To Shape The Future With A Focus On Safety?[supporting Dataset]",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:NtGNdKbuCngC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.910Z",
+            "last_citation_update": "2025-04-17T14:56:19.836Z",
             "year": "2022",
             "doi": ""
         },
@@ -5705,7 +5705,7 @@
             "title": "Enhancing Freeway Safety Prediction Models [Project Summary]",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:3vbIHxFL9FgC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.910Z",
+            "last_citation_update": "2025-04-17T14:56:19.838Z",
             "year": "2022",
             "doi": ""
         },
@@ -5713,7 +5713,7 @@
             "title": "International Journal Of Transportation Science And Technology",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:1EqfMoDn7-AC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.910Z",
+            "last_citation_update": "2025-04-17T14:56:19.841Z",
             "year": "2022",
             "doi": ""
         },
@@ -5721,7 +5721,7 @@
             "title": "De-stabilization Of Charge-order State Through In-homogeneity In Random Ionic Distribution In The Particles Of Polycrystalline  Sample",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:8RAEygVn5_EC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.912Z",
+            "last_citation_update": "2025-04-17T14:56:19.859Z",
             "year": "2020",
             "doi": ""
         },
@@ -5729,7 +5729,7 @@
             "title": "Evaluation Of Roadside Treatments To Mitigate Roadway Departure Crashes",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Nw_I7GeUguwC",
             "total_citations": 5,
-            "last_citation_update": "2025-04-11T01:45:32.913Z",
+            "last_citation_update": "2025-04-17T14:56:19.865Z",
             "year": "2020",
             "doi": ""
         },
@@ -5737,7 +5737,7 @@
             "title": "259 Use Of Internet Connected Cloud Devices In Stroke Rehab-experience With A Patient",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:pUxgyZctzPYC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.914Z",
+            "last_citation_update": "2025-04-17T14:56:19.867Z",
             "year": "2019",
             "doi": ""
         },
@@ -5745,7 +5745,7 @@
             "title": "What We Talk About When We Talk About Ped-bike Collisions In Youtube",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:kz9GbA2Ns4gC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.914Z",
+            "last_citation_update": "2025-04-17T14:56:19.872Z",
             "year": "2019",
             "doi": ""
         },
@@ -5753,7 +5753,7 @@
             "title": "Evaluation Of Fifty Irrigated Spring Wheat Genotypes Grown Under Late Sown Heat Stress Condition In Multiple Environments Of Bangladesh",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:G36d5HCDkJYC",
             "total_citations": 31,
-            "last_citation_update": "2025-04-11T01:45:32.915Z",
+            "last_citation_update": "2025-04-17T14:56:19.876Z",
             "year": "2018",
             "doi": ""
         },
@@ -5761,7 +5761,7 @@
             "title": "Antibacterial Activity Of Some Indigenous Medicinal Plants",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:sJK75vZXtG0C",
             "total_citations": 21,
-            "last_citation_update": "2025-04-11T01:45:32.917Z",
+            "last_citation_update": "2025-04-17T14:56:19.891Z",
             "year": "2008",
             "doi": ""
         },
@@ -5777,7 +5777,7 @@
             "title": "Multimodal Transportation",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:zzCxg_vo7cAC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.917Z",
+            "last_citation_update": "2025-04-17T14:56:19.892Z",
             "year": "",
             "doi": ""
         },
@@ -5785,7 +5785,7 @@
             "title": "Motorcyclist Injury Severity On Curved Segments: Temporal Variations & Unobserved Heterogeneity",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:9LpHyFPp1DQC",
             "total_citations": 2,
-            "last_citation_update": "2025-04-11T01:45:32.904Z",
+            "last_citation_update": "2025-04-17T14:56:19.806Z",
             "year": "",
             "doi": ""
         },
@@ -5793,7 +5793,7 @@
             "title": "Factor Association Using Multiple Correspondence Analysis In Vehicle-pedestrian Crashes",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Vr2j17o0sqMC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.917Z",
+            "last_citation_update": "2025-04-17T14:56:19.892Z",
             "year": "",
             "doi": ""
         },
@@ -5801,7 +5801,7 @@
             "title": "Investigating Safety Impact Of Raised Pavement Markers On Freeways In Louisiana",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:SnGPuo6Feq8C",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.917Z",
+            "last_citation_update": "2025-04-17T14:56:19.892Z",
             "year": "",
             "doi": ""
         },
@@ -5809,7 +5809,7 @@
             "title": "E-scooter Crash Severity In The United Kingdom: A Comparative Analysis Using Machine Learning Techniques And Random Parameters Logit With Heterogeneity In Means And Variances",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:_mQi-xiA4oYC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.904Z",
+            "last_citation_update": "2025-04-17T14:56:19.803Z",
             "year": "2025",
             "source_url": "https://www.sciencedirect.com/science/article/pii/S0386111225000135",
             "authors": "Ali Agheli, Kayvan Aghabayk, Matin Sadeghi, Subasish Das",
@@ -5826,7 +5826,7 @@
             "title": "Xai-driven Contamination For Self-supervised Denoising With Pixel-level Anomaly Detection In Seismic Data",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Gb6Hms-Uo9kC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-11T01:45:32.904Z",
+            "last_citation_update": "2025-04-17T14:56:19.803Z",
             "year": "2025",
             "source_url": "https://www.sciencedirect.com/science/article/pii/S0926985125001041",
             "authors": "Gian Antariksa, Ardiansyah Koeshidayatullah, Subasish Das, Jihwan Lee",
@@ -5836,6 +5836,36 @@
             "publisher": "Elsevier",
             "description": "Deep learning (DL) applications in seismic data processing is crucial for accurate subsurface interpretation. However, post-migration seismic data often suffer from noise that can obscure key geological features and impair analysis. Despite the availability of various denoising techniques, a significant gap remains in achieving both robust performance and interpretability without reliance on extensive labeled datasets. This paper proposes a novel solution to this emerging issueby employing an explainable self-supervised approach that combines Deep Convolutional Denoising (DCD) networks with a SHAP-based Noise Contamination detection model and isolation forest techniques. Unlike existing models, which are limited by labeled datasets, our proposed approach emphasizes on the noise features while using DCD's predictive capabilities. Our findings highlighted the novel use of the SHAP denoising approach …",
             "doi": "10.1016/j.jappgeo.2025.105723"
+        },
+        {
+            "title": "Understanding The Intersection Of Transportation Safety And Quality Of Life: Insights From Community Surveys In Austin, Texas",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:QKtdBID3u5MC",
+            "total_citations": 0,
+            "last_citation_update": "2025-04-17T14:56:19.802Z",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S0264275125002641",
+            "authors": "Boniphace Kutela, Subasish Das, Syed Aaqib Javed, Abbas Sheykhfard, Frank Ngeni, Sia M Lyimo, Hellen Shita, Neema Langa",
+            "publication_date": "2025/7/1",
+            "journal": "Cities",
+            "volume": "162",
+            "pages": "105964",
+            "publisher": "Pergamon",
+            "description": "Improving the urban quality of life is among the key focuses of various jurisdictions. In doing so, various transportation-related projects are implemented to improve residents' lives. However, studies evaluating the link between transportation attributes and the perceived satisfaction of urban quality of life are relatively scarce. To fill this gap, this study used community survey data collected in 2018 and 2019 in Austin, Texas by using the Bayesian Networks approach. The safety perception was measured using the resident's perception of walking in their neighborhood day and night and sharing the road with other road users. Results indicate that residents who feel safe walking in their neighborhood during the daytime are more likely to be satisfied with their urban quality of life. Other key indicators are safe walking in downtown during the daytime and walking in downtown during nighttime, while feeling safe walking in …"
+        },
+        {
+            "title": "Children On Wheels: Identifying Crash Determinants Using Cluster Correspondence Analysis",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:3BvdIg-l-ZAC",
+            "total_citations": 0,
+            "last_citation_update": "2025-04-17T14:56:19.803Z",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0001457525001113",
+            "authors": "Rohit Chakraborty, David Mills, Subasish Das",
+            "publication_date": "2025/6/1",
+            "journal": "Accident Analysis & Prevention",
+            "volume": "216",
+            "pages": "108025",
+            "publisher": "Pergamon",
+            "description": "Child bicyclists (14 years old and younger) are among the most vulnerable road users, facing significant risks of crashes that often result in severe injuries or fatalities. This study aims to identify key factors influencing child bicyclist crashes and uncover distinct crash patterns using a dataset of 2,394 crashes in Texas from 2017 to 2022. Employing a hybrid approach through machine learning models XGBoost and Random Forest, and Cluster Correspondence Analysis (CCA), the research identified six clusters characterized by unique crash factors and patterns. Moreover, SHAP analysis was conducted on each cluster to further investigate the impact of factors on crash severity. Intersection-related crashes were driven by driver behavior at stop signs and signalized intersections, while urban crashes highlighted risks at marked lanes and driveway access areas. Crashes in residential and rural areas revealed …"
         }
     ]
 }

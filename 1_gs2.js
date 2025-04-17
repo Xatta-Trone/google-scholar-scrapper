@@ -26,7 +26,7 @@ const scholarParser = {
       headless: true,
       defaultViewport: null,
       args: [`--no-sandbox`, `--disable-setuid-sandbox`],
-      slowMo: 50,
+      slowMo: 100,
     });
 
     const page = await browser.newPage();
