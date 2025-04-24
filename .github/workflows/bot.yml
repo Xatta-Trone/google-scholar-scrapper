@@ -27,5 +27,6 @@ jobs:
             git config user.email "22274105+actions-user@users.noreply.github.com"
             git add -f 'scholar-data-qK-YgxAAAAAJ.json'
             git add -f 'scholar-data-U9tD0ywAAAAJ.json'
+            git add -f 'scholar-data-edkjFpwAAAAJ.json'
             git commit -m "🤖 Auto commit by Gihub Actions Bot 🤖"
             git push --force
