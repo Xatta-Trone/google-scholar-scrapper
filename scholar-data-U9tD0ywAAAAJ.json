@@ -1,5 +1,5 @@
 {
-    "last_updated_utc": "2025-04-24T12:45:45.672Z",
+    "last_updated_utc": "2025-04-26T12:39:16.280Z",
     "data": [
         {
             "title": "A Comparative Study On The Liquefaction Assessment For Rajshahi City Corporation, Bangladesh",
@@ -11,12 +11,12 @@
             "publication_date": "2024/12/12",
             "description": "This research endeavor entails compiling a database of 60 boreholes from various places throughout Rajshahi City Corporation (RCC), Bangladesh, a growing developed city. Three approaches were employed to calculate the factor of safety (FS) against liquefaction and corresponding liquefaction potential index (LPI): Seed's method, Tokimatsu and Yoshimi (TY) method, and Shear Wave Velocity (SWV) method. These calculations were carried out for each borehole profile gathered in Rajshahi City, assuming an earthquake with a magnitude of M7 and a peak ground acceleration of 0.12 g (BNBC 2020). Depending upon the computed LPI values: RCC has been demarcated into four separate zones eg, very low, low, high, and very high liquefaction susceptibility. These zones have been visualized using ArcGIS to distinguish easily between stable and unstable terrain. Furthermore, a comparative analysis was conducted using the three accepted methodologies to propose improvement of the existing design code of practice in the RCC region. Results reveal that Seed’s method identified 38.33% of boreholes within the very low to high potential range, while 6.67% showed very high potential. The TY method classified 51.67% of boreholes as having very low liquefaction potential, with no locations marked as very high. In contrast, the SWV method identified a larger proportion of high-risk areas, with 48.33% of boreholes categorized as having very high liquefaction potential. Notably, the highest LPI values varied by method, with BH locations in wards 9 and 27 showing the greatest susceptibility, indicating specific zones requiring immediate …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Unraveling The Complex Relationship Between Weather Conditions And Traffic Safety",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:u_35RYKgDlwC",
-            "total_citations": 1,
+            "total_citations": 2,
             "year": "2024",
             "source_url": "https://www.tandfonline.com/doi/abs/10.1080/19439962.2024.2435307",
             "authors": "Subasish Das, Swastika Barua, Ahmed Hossain",
@@ -26,7 +26,7 @@
             "publisher": "Taylor & Francis",
             "description": "Understanding the impact of different weather conditions on crash frequency and crash severance is essential for developing effective strategies and interventions to mitigate road crashes. Extensive research has been conducted worldwide over the past few decades to investigate the relationship between weather conditions and traffic crashes. By synthesizing this collective body of work using the guidelines of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), this paper seeks to provide a valuable resource for practitioners, policymakers, and researchers in their quest for evidence-based strategies to enhance traffic safety and minimize the adverse effects of weather conditions on road users. This systematic literature review establishes eligibility criteria for selecting relevant studies that span diverse geographical regions, climates, and methodologies. The objective is to present a …",
             "doi": "10.1080/19439962.2024.2435307",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Exploring Attribute Associations In Pedestrian-involved Hit-and-run Crashes Through Cluster Correspondence Analysis",
@@ -43,12 +43,12 @@
             "publisher": "SAGE Publications",
             "description": "Pedestrian-involved hit-and-run (PIHR) crashes represent a significant public health concern, and identifying patterns in these crashes can aid in developing effective countermeasures. Cluster correspondence analysis (CCA) is a multidimensional statistical technique that combines dimension reduction and clustering to identify patterns in categorical data. This method provides insights into underlying patterns and relationships among categories. The current study analyzed a Louisiana crash dataset of 2,201 PIHR crashes from 2015 to 2019 using CCA to identify underlying patterns. CCA identified six clusters, examined the top associative attributes, and assessed their cluster-to-dataset percentage ratio. The first two clusters, representing 66% of PIHR crashes, mainly involved crashes on city streets, occurring primarily during early night (7 to 11 p.m.) in Cluster 1 and the afternoon (12 noon to 4 p.m.) in Cluster 2 …",
             "doi": "10.1177/03611981241242751",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "A Survey On Deep Tabular Learning",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:SeFeTyx0c_EC",
-            "total_citations": 6,
+            "total_citations": 7,
             "year": "2024",
             "source_url": "https://arxiv.org/abs/2410.12034",
             "authors": "Shriyank Somvanshi, Subasish Das, Syed Aaqib Javed, Gian Antariksa, Ahmed Hossain",
@@ -56,7 +56,7 @@
             "journal": "arXiv preprint arXiv:2410.12034",
             "description": "Tabular data, widely used in industries like healthcare, finance, and transportation, presents unique challenges for deep learning due to its heterogeneous nature and lack of spatial structure. This survey reviews the evolution of deep learning models for tabular data, from early fully connected networks (FCNs) to advanced architectures like TabNet, SAINT, TabTranSELU, and MambaNet. These models incorporate attention mechanisms, feature embeddings, and hybrid architectures to address tabular data complexities. TabNet uses sequential attention for instance-wise feature selection, improving interpretability, while SAINT combines self-attention and intersample attention to capture complex interactions across features and data points, both advancing scalability and reducing computational overhead. Hybrid architectures such as TabTransformer and FT-Transformer integrate attention mechanisms with multi-layer perceptrons (MLPs) to handle categorical and numerical data, with FT-Transformer adapting transformers for tabular datasets. Research continues to balance performance and efficiency for large datasets. Graph-based models like GNN4TDL and GANDALF combine neural networks with decision trees or graph structures, enhancing feature representation and mitigating overfitting in small datasets through advanced regularization techniques. Diffusion-based models like the Tabular Denoising Diffusion Probabilistic Model (TabDDPM) generate synthetic data to address data scarcity, improving model robustness. Similarly, models like TabPFN and Ptab leverage pre-trained language models, incorporating transfer learning and self …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Single-vehicle Roadway Departure Crashes At Rural Two-lane Highway Curved Segments: A Diagnosis Using Pattern Recognition",
@@ -72,7 +72,7 @@
             "publisher": "Elsevier",
             "description": "Curved segments account for a disproportionately high proportion of fatal and serious injury crashes, with most of these crashes occurring on rural two-lane (R2L) highways. During the 10-year period from 2008 to 2017, a total of 1 234 fatal single-vehicle roadway departure (SV-RwD) crashes occurred on R2L roads in Louisiana, out of which 635 (51.5 %) crashes occurred on curved segments. Therefore, it is critical to investigate the causes of SV-RwD crashes, specifically those that occur on curved segments. This study aimed to investigate the ‘association knowledge’ of the factors contributing to SV-RwD crashes on R2L curved segments in Louisiana using fatal and injury crash data collected from 2008 to 2017. The study utilized Cluster Correspondence Analysis (CCA), a robust joint dimension reduction and clustering method for handling high-dimensionality and multicollinearity of crash data, to achieve this …",
             "doi": "10.1016/j.ijtst.2023.10.005",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Investigating Older Driver Crashes On High-speed Roadway Segments: A Hybrid Approach With Extreme Gradient Boosting And Random Parameter Model",
@@ -87,7 +87,7 @@
             "publisher": "Taylor & Francis",
             "description": "Older drivers are often more susceptible to crashes due to age-related physical and cognitive limitations, particularly in complex driving environments. Considering the limited research in this area, this study focuses on investigating crashes involving older drivers on high-speed roadways (≥ 45 mph). The analysis is based on data collected from Louisiana State, encompassing 18,300 older driver-involved crashes (2017-2021). For analysis, a two-step hybrid modelling approach is employed: a) Extreme Gradient Boosting (XGBoost) is used to classify top variable features and b) Correlated Random Parameter Ordered Probit with Heterogeneity in Means (CRPOP-HM) is used to predict the likelihood of crash injury severity. . Some of the critical factors increasing the likelihood of fatal-severe or injury crashes involving older drivers on high-speed segments include the manner of collision (rear-end, right-angle, single …",
             "doi": "10.1080/23249935.2024.2362362",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Investigating Pedestrian Crash Patterns At High-speed Intersection And Road Segments: Findings From The Unsupervised Learning Algorithm",
@@ -103,7 +103,7 @@
             "publisher": "Elsevier",
             "description": "Pedestrian crashes at high-speed locations are a persistent road safety concern. Driving at high speeds means that the driver has less time to react and make evasive maneuvers to avoid a pedestrian crash. On top of this, other crash-contributing factors such as humans (pedestrians or drivers), vehicles, roadways, and surrounding environmental factors actively interact together to cause a crash at high-speed locations. The pattern of pedestrian crashes also differs significantly according to the high-speed intersection and segment locations which require further investigation. This study applied association rules mining (ARM), an unsupervised learning algorithm, to reveal the hidden association of pedestrian crash risk factors according to the high-speed intersection and segments separately. The study used Louisiana pedestrian fatal and injury crash data (2010 to 2019). Any crash location with a posted speed limit …",
             "doi": "10.1016/j.ijtst.2023.04.007",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Efficacy Of Bedside Index For Severity In Acute Pancreatitis (Bisap) Score As Predictor Of In-hospital Outcome In Acute Pancreatitis",
@@ -135,7 +135,7 @@
             "publisher": "Pergamon",
             "description": "Personal Mobility Devices (PMDs) have witnessed an extraordinary surge in popularity, emerging as a favored mode of urban transportation. This has sparked significant safety concerns, paralleled by a stark increase in PMD-involved crashes. Research indicates that PMD user behavior, especially in urban areas, is crucial in these crashes, underscoring the need for an extensive investigation into key factors, particularly those causing fatal/severe outcomes. Remarkably, there exists a noticeable gap in the research concerning the analysis of determinants behind fatal/severe PMD crashes, specifically in PMD rider-at-fault collisions. This study addresses this gap by identifying uniform groups of PMD rider-at-fault crashes and investigating cluster-specific key factor associations and determinants of fatal/severe crash outcomes using Seoul's PMD rider-at-fault crash data from 2017 to 2021. A comprehensive two-step …",
             "doi": "10.1016/j.aap.2024.107527",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Investigating Pedestrian-vehicle Crashes On Interstate Highways: Applying Random Parameter Binary Logit Model With Heterogeneity In Means",
@@ -151,7 +151,7 @@
             "publisher": "Pergamon",
             "description": "In the U.S., the interstate highway system is categorized as a controlled-access or limited-access route, and it is unlawful for pedestrians to enter or cross this type of highway. However, pedestrian-vehicle crashes on the interstate highway system pose a distinctive safety concern. Most of these crashes involve ‘unintended pedestrians’, drivers who come out of their disabled vehicles, or due to the involvement in previous crashes on the interstate. Because these are not ‘typical pedestrians’, a separate investigation is required to better understand the pedestrian crash problem on interstate highways and identify the high-risk scenarios. This study explored 531 KABC (K = Fatal, A = Severe, B = Moderate, C = Complaint) pedestrian injury crashes on Louisiana interstate highways during the 2014–2018 period. Pedestrian injury severity was categorized into two levels: FS (fatal/severe) and IN (moderate/complaint). The …",
             "doi": "10.1016/j.aap.2024.107503",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Probing Into Driver Speeding Patterns And Their Influence On Child Occupancy In Urban Areas",
@@ -168,7 +168,7 @@
             "publisher": "SAGE Publications",
             "description": "Many studies have investigated how child occupants lead to distraction-associated crashes. However, not many studies have focused on how the presence of child passengers influences drivers’ speeding behavior. This study examines how the presence of child passengers can affect driving behavior considering sociodemographic characteristics such as driver’s age, gender, ethnicity, employment, and driving aggressiveness. The current study used resourceful, open-source data based on urban areas in Texas to identify the key patterns of speeding behavior and associated safety surrogates in the presence or absence of child occupants. A unique data analysis procedure known as Taxicab Correspondence Analysis (TCA) was used to analyze the data. The results indicate that speeding patterns are affected by child occupancy during a trip. The results find that regardless of the presence of child passengers …",
             "doi": "10.1177/03611981231188374",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Toll Road Crash Severity Using Mixed Logit Model Incorporating Heterogeneous Mean Structures",
@@ -183,7 +183,7 @@
             "publisher": "Taylor & Francis",
             "description": "The current study examined 1,465 crash observations (2017–2021) from Louisiana, identifying significant variables grouped into three major categories: drivers’, crash, and road characteristics. Considering crash injury severity as a dependent variable, we employed classic Multinomial Logit (MNL) model, and several other models to address unobserved heterogeneity in crash data including Random Parameter Logit (RPL), Random Parameter Logit with Heterogeneity in Means (RPLHM), and Random Parameter Logit with Heterogeneity in Means and Variance (RPLHMV). Our findings highlight the impact of factors such as driver gender, age, traffic violations, driver distractions, crash types, surface conditions, and roadway attributes on crash injury severity. These insights emphasise the complexity of toll road safety and inform targeted interventions to mitigate crash injury severity. Notably, male drivers and those …",
             "doi": "10.1080/23249935.2024.2343755",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Exploring Traffic Crash Narratives In Jordan Using Text Mining Analytics",
@@ -198,7 +198,7 @@
             "publisher": "IEEE",
             "description": "This study explores traffic crash narratives in an attempt to inform and enhance effective traffic safety policies using text-mining analytics. Text mining techniques are employed to unravel key themes and trends within the narratives, aiming to provide a deeper understanding of the factors contributing to traffic crashes. This study collected crash data from five major freeways in Jordan that cover narratives of 7,587 records from 2018-2022. An unsupervised learning method was adopted to learn the pattern from crash data. Various text mining techniques, such as topic modeling, keyword extraction, and Word Co-Occurrence Network, were also used to reveal the co-occurrence of crash patterns. Results show that text mining analytics is a promising method and underscore the multifactorial nature of traffic crashes, including intertwining human decisions and vehicular conditions. The recurrent themes across all analyses …",
             "doi": "10.1109/icmi60790.2024.10586010",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Case Study On The Traffic Collision Patterns Of E-scooter Riders",
@@ -215,7 +215,7 @@
             "publisher": "SAGE Publications",
             "description": "In recent years, nonmotorized transportation and micromobility have become increasingly popular in urban areas, and bike sharing and e-scooter usage are more affordable and accessible than ever before. However, users of these modes face several significant challenges, including risky riding behavior and the danger of being involved in collisions or near collisions with other motorists. Because of a lack of relevant data sets, it is difficult to comprehend the underlying causes of e-scooter collisions. This study collected narrative descriptions of 24 e-scooter collisions that occurred in Texas in 2021. The perceptual cycle model (PCM) was applied to these narrative crash reports to analyze the causation patterns of the crash occurrences. The PCM mechanism was applied independently to fatal and injury collisions, and the results were then compared with Haddon’s matrix to develop policy recommendations. The …",
             "doi": "10.1177/03611981231185770",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Motorcyclist Injury Severity On Curved Segments: Temporal Variations & Unobserved Heterogeneity",
@@ -228,7 +228,7 @@
             "journal": "Available at SSRN 4998398",
             "description": "Motorcyclists face an increased risk of injury severity at curved roadway segments due to a wide range of factors. Given the complex and evolving nature of factors influencing motorcyclist injury severity on curved roadway segments, there is a pressing need for research that not only captures these dynamics but also considers temporal variations and unobserved heterogeneity to effectively inform targeted safety interventions. The study used mixed logit models for analyzing 8,815 motorcycle crashes that occurred on curved segments in Texas between 2017 and 2022. Several normally distributed random parameters were identified including clear weather conditions, fixed objects, posted speed limit of 40-60 mph, White race, and 25-54 years old riders. Focusing on the average marginal effects, several factors showed an increased likelihood of fatal injuries including cloudy weather conditions, marked lanes as traffic control, collision with fixed objects, and no median based on the overall dataset. Several variables showed consistent impact on fatal injury severity across individual year models including cloudy weather conditions (increasing), collision with fixed objects (increasing), daylight (decreasing), and 15-24 years old riders (decreasing). Interestingly, darkness showed a reduced likelihood of fatal injuries in the 2020 model year, possibly due to reduced traffic volumes during the COVID-19 pandemic, and increased rider caution, which may have collectively contributed to lower crash severity outcomes in dark conditions. These findings highlight the critical importance of accounting for temporal variation in understanding the evolving risk …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Comprehensive Investigation Of Pedestrian Hit-and-run Crashes: Applying Xgboost And Binary Logistic Regression Model",
@@ -243,7 +243,7 @@
             "publisher": "SAGE Publications",
             "description": "The present trend in the United States suggests that one in five pedestrian fatalities in motor vehicle crashes involves a hit-and-run, a serious traffic safety concern. The over-representation of pedestrian hit-and-run collisions necessitates a systemic data-driven investigation to uncover the contributing factors that cause fatalities or serious injuries. This study addressed two research questions (RQ), RQ1: What factors contribute to pedestrian hit-and-runs? RQ2: What causes hit-and-run pedestrian fatalities? This study addresses the RQs using the XGBoost algorithm (RQ1) and binary logistic regression model (RQ2) to analyze police-reported pedestrian crashes (2015–2019) in Louisiana. The XGBoost model was used to classify pedestrian hit-and-run crashes (hit-and-run = yes/no) and identified critical factors as predictors of pedestrian hit-and-run crashes including: primary contributing factors (pedestrian action …",
             "doi": "10.1177/03611981241262315",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Investigating Pedestrian Safety Using Advanced Data Analysis Techniques: Patterns, Risk Factors, And Countermeasures",
@@ -256,7 +256,7 @@
             "institution": "University of Louisiana at Lafayette",
             "description": "Pedestrians are recognized as the most Vulnerable Roadway Users (VRUs) due to their lack of physical protection in motor vehicle collisions. With 7,388 pedestrian fatalities in 2021 in the United States, the highest recorded number of fatalities since 1981, the increase in pedestrian fatalities demands immediate attention and comprehensive action. While the current literature addresses several critical pedestrian safety issues, this research focuses on the complicated nature of pedestrian crash risk in three specific settings, including non-intersection locations, high-speed (> 45 mph) roadways, and interstate highways. The selected focus areas have not been well studied in previous literature, and hence there is a need for in-depth investigation. The selection of these settings is driven by their elevated incidence of pedestrian fatalities and unique safety challenges (eg, lack of designated pedestrian infrastructure …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Causal Insights Into Speeding Crashes",
@@ -270,7 +270,7 @@
             "pages": "348-359",
             "description": "Excessive speeding poses significant risks to road safety, impacting a driver’s ability to maneuver safely around obstacles and leading to longer stopping distances and delayed reactions to hazardous situations. It is a major contributor to fatal and serious road trauma, accounting for over 20% of such incidents in the US. Eliminating speeding entirely could potentially substantially reduce fatal injuries by 20% or more. This study leveraged the comprehensive National Highway Traffic Safety Administration’s (NHTSA) Fatality Analysis Reporting System (FARS) data, focusing on 50,081 speed-related motor vehicle traffic fatal crashes that occurred between 2016 and 2021, and a probabilistic graphical model to investigate the causal associations between key contributing factors involved in these speeding incidents. Ultimately, this high-impact research advanced our understanding of the risks posed by speeding and …",
             "doi": "10.1061/9780784485514.031",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Crashes Involving Distracted Pedestrians: Identifying Risk Factors And Their Relationships To Pedestrian Severity Levels And Distraction Modes",
@@ -286,7 +286,7 @@
             "publisher": "Pergamon",
             "description": "The concept of distracted pedestrians and its impact on highway safety has gained increasing attention in recent years. However, studies focusing exclusively on distracted pedestrian crashes are less pervasive than distracted driving. In addition, most prior studies investigate the harmful effect of cellphone usage while walking, without considering other forms of pedestrian distraction. Also, the existing literature provides limited knowledge on comprehending the affinities between pedestrian distraction and safety consequences. This study aims to reveal the chain of contributing factors involved in distracted pedestrian crashes, considering both pedestrian severity levels and specific distraction-related tasks. Ten years (2010–2019) of related crashes were extracted from the Louisiana Department of Transportation and Development (LADOTD) database, and association rule mining (ARM) was applied to identify the …",
             "doi": "10.1016/j.aap.2023.107359",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Exploring Nighttime Pedestrian Crash Patterns At Intersection And Segments: Findings From The Machine Learning Algorithm",
@@ -302,7 +302,7 @@
             "publisher": "Pergamon",
             "description": "Introduction: Pedestrian safety at nighttime is an ongoing critical traffic safety concern. Although poor visibility is primarily associated with nighttime pedestrian crashes, other contributing factors such as humans, vehicles, roadways, and environmental factors interact with each other to cause a crash. Additionally, the pattern of nighttime pedestrian crashes differs significantly according to the intersection and segment location, which requires further exploration. Data: This study applied Association Rules Mining (ARM), a rule-based machine learning method, to reveal the association of nighttime pedestrian crash risk factors according to the intersection and segment locations using 2,505 nighttime pedestrian fatal and injury crashes in Louisiana (2015–2019). Results and conclusions: Based on the generated rules, the results show that nighttime pedestrian crashes at the intersection are associated with right-turn …",
             "doi": "10.1016/j.jsr.2023.08.010",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Pattern Recognition From Injury Severity Types Of Frontage Roadway Crashes",
@@ -319,7 +319,7 @@
             "publisher": "Taylor & Francis",
             "description": "Frontage roads are the supporting roadways that are along freeways and fully controlled principal arterial roadway networks in the U.S. These roads are designed in a way to provide access between the freeways, principal arterials, and surrounding business entities. For Texas, these roadways are the leading design resolution for providing access along rural freeways and principal arterial roadways. These roadways are generally two-ways for rural and less developed urban areas and are mostly one-way for urban and city-centered roadways. Although frontage roadways possess major safety concerns, the safety performance of these roadways has not been well studied. This study collected six years of frontage road crash data from Texas to determine the patterns of associated factors by applying a dimension reduction method known as cluster correspondence analysis (CCA). The results revealed four clusters …",
             "doi": "10.1080/19439962.2022.2123581",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Safety Evaluation Of Centerline Rumble Strips On Rural Two-lane Undivided Highways: Application Of Intervention Time Series Analysis",
@@ -336,7 +336,7 @@
             "publisher": "Elsevier",
             "description": "Centerline rumble strips are low-cost effective countermeasures installed on the center of the highway segments to reduce crashes, especially roadway departure crashes. For safety evaluation of centerline rumble strips, methodologies such as naïve before-after analysis and cross-sectional study with Empirical Bayes have been widely utilized. The implementation of these methodologies may be limited due to the lack of relevant control groups, and/or other temporal variations in crashes such as seasonality and serial autocorrelation. This study aims to explore Intervention Time Series Analysis approach as an alternative method for the safety evaluation of centerline rumble strips on rural-two-lane undivided highways in Louisiana. Two different methodologies are explored in the intervention time series approach including the Forecast modeling technique and the Auto-regressive Integrated Moving Average …",
             "doi": "10.1016/j.iatssr.2023.05.001",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Exploring Association Of Contributing Factors To Pedestrian Fatal And Severe Injury Crashes Under Dark-no-streetlight Condition",
@@ -353,7 +353,7 @@
             "publisher": "Elsevier",
             "description": "The pedestrian crash pattern in the dark-no-streetlight condition is a noteworthy ongoing traffic safety concern. The persistently high percentage of pedestrian fatalities at night in the U.S., as well as in the state of Louisiana, necessitates new research to supplement existing studies. This study utilized 10 years (2010–2019) of pedestrian fatal and severe injury crashes in Louisiana that occurred in the dark without streetlights to identify the associated crash patterns. The methodology is based on Multiple Correspondence Analysis (MCA), an exploratory approach used to discover the association of multiple categorical variables from a crash dataset. The findings suggest that driver characteristics (age, gender, and physical condition), pedestrian action, pedestrian alcohol impairment, and physical settings (posted speed limit, location, and roadway type) have a substantial impact on pedestrian collisions at night without …",
             "doi": "10.1016/j.iatssr.2023.03.002",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Identifying Roadway Departure Crash Patterns On Rural Two-lane Highways Under Different Lighting Conditions: Association Knowledge Using Data Mining Approach",
@@ -369,7 +369,7 @@
             "publisher": "Pergamon",
             "description": "Introduction: More than half of all fatalities on U.S. highways occur due to roadway departure (RwD) each year. Previous research has explored various risk factors that contribute to RwD crashes, however, a comprehensive investigation considering the effect of lighting conditions has been insufficiently addressed. Data: Using the Louisiana Department of Transportation and Development crash database, fatal and injury RwD crashes occurring on rural two-lane (R2L) highways between 2008-2017 were analyzed based on daylight and dark (with and without streetlight). Method: This research employed a safe system approach to explore meaningful complex interactions among multidimensional crash risk factors. To accomplish this, an unsupervised data mining algorithm association rules mining (ARM) was utilized. Results and conclusions: Based on the generated rules, the findings reveal several interesting crash …",
             "doi": "10.1016/j.jsr.2023.01.006",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Liquefaction Assessment Of Rajshahi City Corporation, Bangladesh",
@@ -386,7 +386,7 @@
             "publisher": "Springer India",
             "description": "Rajshahi City Corporation (RCC) has been marked as a geologically vulnerable in terms of earthquake. However, no scientific method has been determined to figure out the influencing factors. This is the first approach to detect the vulnerability of RCC area. In this point of view, the liquefaction hazard map has the innate power to evaluate the potentiality of earthquake-prone areas. The liquefaction map was prepared using sixty borehole profiles data among 30 wards of RCC. The most widely popular Seed’s method (1971) is employed to calculate liquefaction potential index (LPI) using an earthquake scenario of magnitude M7.0 with peak ground acceleration of 0.12 g (BNBC 2010 draft version). Based on LPI value, Rajshahi city area has been divided into four different liquefaction severity categories (i.e., very low, low, high, and very high) and finally mapped through ArcGIS for the complete visualization. This …",
             "doi": "10.1007/s40098-022-00671-7",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "International Journal Of Transportation Science And Technology",
@@ -398,7 +398,7 @@
             "publication_date": "2023",
             "description": "Pedestrian crashes at high-speed locations are a persistent road safety concern. Driving at high speeds indicates that the driver would get considerably less time to react and make evasive maneuvers to avoid a pedestrian crash. On top of this, other crash-contributing factors such as humans (pedestrians or drivers), vehicles, roadways, and surrounding environmental factors actively interact together to cause a crash at high-speed locations. The pattern of pedestrian crashes also differs significantly according to the high-speed intersection and segment locations which require further investigation. This study applied Association Rules Mining (ARM), an unsupervised learning algorithm, to reveal the hidden association of pedestrian crash risk factors according to the high-speed intersection and segments separately. The study used Louisiana pedestrian fatal and injury crash data (2010 to 2019). Any crash location with a posted speed limit of 45 mph or above is classified as a high-speed location. Based on the generated association rules, the results show that pedestrian crashes at the high-speed intersection are associated with intersection geometry (3-leg) and control (1 stop, no traffic control device), driver characteristics (careless operation, failure to yield, inattentive-distracted, older, and younger driver), pedestrian-related factors (violations, alcohol/drug involvement), settings (open country, residential, business, industrial), dark lighting conditions and so on. Most pedestrian crashes at high-speed segments are associated with roadways with no physical separation, dark-no-streetlight conditions, open country locations, interstates, and so on …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.279Z"
         },
         {
             "title": "Crash Contributing Factors And Patterns Associated With Fatal Truck-involved Crashes In Bangladesh: Findings From Text Mining Approach",
@@ -412,7 +412,7 @@
             "issue": "TRBAM-23-01104",
             "description": "Despite extensive research on traffic injury severities, relatively little is known about the factors contributing to truck-involved crashes in developing countries, especially in the context of Bangladesh. Because of the unavailability of authentic crash data sources, this study collected data from alternative sources such as online English news media reports. The current study prepared a database of 144 truck-involved fatal crash reports during the period of 12 months (January 2021 to December 2021). The crash reports contain a bag of 15,300 words. Several state-of-the-art text mining tools were utilized to identify crash patterns, including word cloud analysis, word frequency analysis, word co-occurrence network analysis, rapid automatic keyword extraction, and topic modeling. The analysis revealed several important crash contributing factors, such as the type of vehicle involved (auto-rickshaw, bus, van, motorcycle …",
             "doi": "10.1177/03611981231209031",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Applying Genetic Algorithm For Variable Selection In Linear Regression Model",
@@ -422,7 +422,7 @@
             "authors": "Ahmed Hossain",
             "publication_date": "2022/12/4",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Crashes Involving Distracted Pedestrians: Exploring Association Of Contributing Factors By Pedestrian Injury Severity And Distraction Modes",
@@ -435,7 +435,7 @@
             "journal": "Available at SSRN 4247556",
             "description": "The concept of distracted pedestrians and its related impact on highway safety has become a growing issue in recent years. Studies focusing exclusively on distracted pedestrian crashes are less pervasive than distracted driving. Most prior studies investigate the harmful effect of cellphone usage during walking instead of considering different forms of distraction associated with pedestrians. Also, existing literature has provided minimal knowledge on comprehending the affinities between pedestrian distraction and safety consequences. This study aims to reveal the chain of contributing factors involved in crashes of distracted pedestrians by their injury severity levels and distraction-related tasks. Ten years (2010-2019) of related crashes were extracted from the Louisiana Department of Transportation and Development (LADOTD) database, and association rule mining (ARM) was applied to identify the meaningful crash patterns. Different distracting activities of pedestrians were introduced from narratives of police-investigated crash reports. The study findings exhibit the complexities of distracted pedestrian crashes by specifying the intricate interrelations between risk factors. Distracted male pedestrians aged 41-64 years are more likely to be fatal/severely injured in dark-not-lighted conditions on segments. Crashes involving pedestrians using electronic devices are often evident at intersections. Distraction by pets/persons/objects is strongly associated with crossing segments in rural settings. In-person conversation is found to be vulnerable while standing on the roadways of urban residential locations with no traffic controls. Working on vehicles in …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Reduce Pedestrian Fatal Crashes In Louisiana By Improving Lighting Conditions",
@@ -448,7 +448,7 @@
             "issue": "FHWA/LA. 17/674",
             "description": "Due to the stochastic nature of pedestrian crash occurrence, it is a challenge to investigate and pinpoint the exact common crash attributes. However, due to limited visibility at night, it is well accepted that pedestrians are vulnerable during that time. Thus, the nature of crashes and the effect of lighting at night should be clearly understood. The primary objective of this study is three fold-to review lighting policies/guidelines/practices in Louisiana and other states, investigate the impact of lighting conditions on pedestrian crashes, and estimate the benefit of lighting over the cost of crashes. The collected lighting policies and guidelines show that the majority of the states and cities within the United States have similar pedestrian lighting or overall streetlight policies. A total of 8,149 pedestrian crash data from 2014 to 2018 was explored. The data showed a higher fatality rate between 6 pm and 6 am The majority of …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Young Drivers And Cellphone Distraction: Pattern Recognition From Fatal Crashes",
@@ -462,7 +462,7 @@
             "publisher": "Taylor & Francis",
             "description": "More than 30% of cellphone-distracted fatal crashes occurred to drivers younger than 25-years-old in 2018, even though they constitute less than 12% of total licensed drivers in the U.S. Using joint correspondence analysis (JCA), this study analyzed six years (2014–2019) of cellphone-related fatal crashes involving young drivers based on the data from the Fatality Analysis Reporting System (FARS). This unsupervised learning algorithm can graphically display the co-occurrence of variable categories in a lower-dimensional space by effectively summarizing the knowledge of a complex crash dataset. The Boruta algorithm was applied to select the relevant features from the preliminary crash dataset. The empirical results of JCA manifest a few interesting fatal crash patterns. For example, young male drivers in light trucks were involved in deadly collisions while performing specific cellphone activities (other than …",
             "doi": "10.1080/19439962.2022.2048763",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Applying Association Rules Mining To Investigate Pedestrian Fatal And Injury Crash Patterns Under Different Lighting Conditions",
@@ -476,7 +476,7 @@
             "publisher": "SAGE journals",
             "description": "The pattern of pedestrian crashes varies greatly depending on lighting circumstances, emphasizing the need to examine pedestrian crashes in various lighting conditions. Using Louisiana pedestrian fatal and injury crash data (2010–2019), this study applied Association Rules Mining (ARM) to identify the hidden pattern of crash risk factors according to three different lighting conditions (daylight, dark-with-streetlight, and dark-no-streetlight). Based on the generated rules, the results show that daylight pedestrian crashes are associated with children (<15 years), senior pedestrians (>64 years), older drivers (>64 years), and other driving behaviors such as “failure to yield,”“inattentive/distracted,”“illness/fatigue/asleep.” Additionally, young drivers (15–24 years) are involved in severe pedestrian crashes in daylight conditions. This study also found pedestrian alcohol/drug involvement as the most frequent item in the …",
             "doi": "10.1177/03611981221076120",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Roadway Crash Trend Analysis With Innovative Trend Analysis And Mann-kendall Test",
@@ -489,7 +489,7 @@
             "journal": "Southeast Symposium on Contemporary Engineering Topics",
             "description": "Following the national goal of crash reduction, the state of Louisiana set an ambitious goal of ‘Destination Zero Deaths’(DZD), aiming to halve the number of fatalities and severe injuries by 2030. The goal of this study is to detect and quantify fatal and severe injury (FSI) trends in several DZD focus areas, including young drivers, alcohol, intersection, single vehicle, inattentive and distracted driving, and pedestrian. The database contains monthly FSI observations from two different periods: pre-DZD (1999-2008) and post-DZD (2009-2018). Methods employed in this investigation include Innovative Trend Analysis (ITA) and Mann-Kendall (MK) statistical significance test. The analysis reveals several significant results:(a) trend of FSI involving young drivers followed a decreasing pattern for both pre-DZD and post-DZD periods,(b) alcohol involved FSI trend followed two opposite types of a pattern (decreasing trend for the pre-DZD period while increasing trend for the post-DZD),(c) decreasing trend was observed for intersection related FSI during the pre-DZD period,(d) single vehicle involved FSI trend followed an increasing pattern for both pre-DZD and post-DZD periods,(e) pedestrian-involved FSI trend followed increasing pattern during the post-DZD period. The findings of the analysis can assist safety professionals in identifying key safety trends and prioritizing associated safety projects. Additionally, the concept of using ITA and MK tests to identify trends can be implemented as a decisionsupport tool within the context of systems engineering.",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Intervention Time Series Approach In Rumble Strips Study",
@@ -502,7 +502,7 @@
             "institution": "University of Louisiana at Lafayette",
             "description": "This study aims to explore the safety impact of the installation of center line rumble strip (CLRS) and shoulder rumble strip (SRS) on total crashes in Louisiana’s rural two-lane highway using two different methodologies: forecast modeling technique and ARIMA intervention model. The database consists of 369 highway segments of 1549 miles in length in which rumble strips were installed during the period 2010-2012. The preintervention period consists of 96 monthly observations, and the postintervention period consists of 60 monthly observations of total crashes on those selected segments. Three possible cases of installation of rumble strips were considered in the analysis: all segments having rumble strip, segments having only CLRS, and segments having both CRLS and SRS. For the forecast modeling technique, seven univariate time series models were employed, and the safety impact of the intervention …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Development Of Empirical Correlations Between Shear Wave Velocity And Standard Penetration Value: A Case Study Of Rajshahi District, Bangladesh",
@@ -519,7 +519,7 @@
             "publisher": "Science Publishing Group",
             "description": "In seismic response investigation, shear wave velocity, Vs shows a vigorous role as an input factor. Enormous methodologies have been developed and tested to directly determine this key factor. Direct measurement of Vs is timeconsuming as well as highly expensive. As a result, researchers from different regions have tried to reduce the difficulties associated with the measurement and developed empirical relationships between VS and other geotechnical characteristics of the soil, such as SPT calculation, depth, vertical effective pressure, etc. In this paper, the empirical correlation between shear wave velocity and standard penetration number (SPT-N) has been investigated for several soil categories: all soils, sand, silt and clay-type soils. Study area selected for this analysis are Bagha, Bagmara, Charghat, Durgapur, Godagari, Paba, Puthia, Tanore and Rajshahi City Corporation (RCC) area consisting of 36 borehole dataset. Combining all the data, an approach is made to correlate the Vs with the SPT-N. The square value of the coefficient (R2) of correlation shows good agreement with the subsoil. Regression analysis is used to propose an empirical relation for this zone which would be helpful for foundation engineers to have the idea on earthquake response analysis of subsoil.",
             "doi": "10.11648/j.ajmie.20210601.11",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Trend Analysis Of Lane Departure Crashes In Louisiana State, Usa",
@@ -532,7 +532,7 @@
             "conference": "Louisiana Transportation Conference (2020)",
             "description": "A lane departure crash is a non-intersection crash which occurs after a vehicle crosses an edge line or center line or otherwise leaves the traveled way. Roadway or lane departure crashes are a significant concern on Louisiana roadways, specifically on two-lane highways. According to Louisiana DOTD database, 29.45%(246,534 of 837,064) of crashes are due to lane departure within the time period 2005-2017. To reveal the pattern of these crashes, trend analysis is found to be an important statistical tool and is applied here with the help of innovative trend analysis (ITA) plot and then compared with non-parametric Mann-Kendall (MK) test results at 5% significance level. The analysis reveals the following statistically significant trends:(a) clear monotonic decreasing trend is observed for lane departure crashes in rural two lane and urban two lane highways (b) trend of fatal and severe injury crashes are showing monotonic decreasing tendency over the time period;(c) trend of lane departure crashes for both male and female drivers in rural two lane highways is monotonic decreasing type.(d) for urban two-lane highways male drivers involved in a lane departure crash is of monotonic decreasing type of trend, although complete reverse scenario of trend is observed for female drivers involved in lane departure crashes.",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Seismic Stability Of Slopes In Layered Cohesive Soils",
@@ -543,7 +543,7 @@
             "publication_date": "2020/2",
             "conference": "International Conference on Civil Engineering for Sustainable Development (ICCESD 2020)",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Modified Harmonic Balance Method For Solving Nonlinear Free Vibration Problem Of Beam Resting On Nonlinear Elastic Foundation",
@@ -560,7 +560,7 @@
             "publisher": "L&H Scientific Publishing",
             "description": "Free vibration of beam is an important issue in structural engineering because of its various physical applications in the real field. In this paper, the free vibration of a nonlinear beam rest on a nonlinear elastic foundation is studied. A mathematical modeling for the free vibration of beam rest on nonlinear elastic foundation is presented. A modified harmonic balance is used to investigate the nonlinear free vibration response of beam. The main advantage of the method is that the unknown coefficients are expressed in power series of a new parameter. However, in a classical harmonic balance method the values of the unknown coefficients are determined by solving a set of complicated algebraic equations truncating higher order nonlinear terms. The results obtained by the proposed method have been compared with corresponding numerical results to verify the accuracy of method. Besides, the effects of various …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Gis Based Liquefaction Potential Assessment Considering Different Earthquake Magnitude For Rajshahi City, Bangladesh",
@@ -572,7 +572,7 @@
             "publication_date": "2019/2",
             "description": "Rajshahi, the major city in the North Western region of Bangladesh is growing rapidly in every feature with major infrastructures like sports complex, educational institutions, hospitals, flyovers, multiplex halls, etc. Understanding of the subsurface soil condition is necessary to ensure the structural safety and serviceability of the above mentioned structures before any construction. In this study, total forty boreholes choosing four from each of the ten Upazila in Rajshahi District namely: Bagha, Bagmara, Mohanpur, Charghat, Durgapur, Godagari, Paba, Puthia, Tanore and Rajshahi City has been selected for analysis of liquefaction potential index. Simplified procedure developed by Seed and Idris has been used in this analysis considering earthquake scenario of MW= 6, 6.5, 7, 7.5, 8 and 8.5 and graphically represented through Arc GIS. Contour maps based on LPI value using Geographical Information System (GIS) platform will be of great assistance to the foundation designers at the initial stage for site selection and preliminary foundation design under seismic condition.",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Seismic Stability Of Slopes In Cohesive Soils",
@@ -585,7 +585,7 @@
             "conference": "International Conference on Planning, Architecture and Civil Engineering (ICPACE 2019)",
             "description": "In recent years, earthquake has become one of the common catastrophic events throughout the world. During earthquakes, different types of slope related failure occur which results in loss of life and economic damage. The purpose of this study is to analyze the relationship between cohesion of soil and factor of safety of slope under different combination of horizontal and vertical seismic coefficients for a pure homogeneous clay slope model. LEM module of GEO5 software (2019 version) has been used for this analysis. Stability of the considered soil slope having cohesion of 20 kPa was measured against different combination of earthquake coefficients (kv/kh): 0.25, 0.50, 0.75, and 1.00 by Bishop, Fellenius/Petterson, Spencer, Janbu and Morgenstern-Price methods. Then cohesion values were increased gradually with an increment of 5 kPa from initial value of 20 kPa to maximum value of 40 kPa. In the analysis the findings were staggering as it was found out that factor of safety was less than unity which implies that the slope model was unstable for all the combinations of earthquake forces in all methods. Then for those fixed set of ratios with varying value of kh= 0.1, 0.2, 0.3, 0.4, the same slope was analyzed with an increment in cohesion value. This time there was a little elevated values of factor of safety was achieved. For the lowest value of horizontal seismic coefficient the factor of safety surpassed unity for all the methods. The same process of incrementing cohesion was done again and this time value factor of safety was beyond unity for lowest two values of horizontal seismic coefficient. The incrementing process continued as the values of …",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Effect Of Peak Ground Acceleration (Pga) On Liquefaction Behavior Of Subsoil: A Case Study Of Rajshahi City Corporation",
@@ -596,7 +596,7 @@
             "publication_date": "2019/2",
             "conference": "International Conference on Planning, Architecture and Civil Engineering (ICPACE 2019)",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Pressure Dependent Behavior Of Granular Materials At Varying Intermediate Principal Stress By Dem",
@@ -607,7 +607,7 @@
             "publication_date": "2018/12",
             "conference": "International Conference on Advances in Civil Engineering (ICACE 2018)",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Liquefaction Potential Assessment Of Selected Zones At Rajshahi District In Bangladesh",
@@ -620,7 +620,7 @@
             "conference": "International Conference on Advances in Civil Engineering (ICACE 2018)",
             "description": "In recent years, earthquake has become the most catastrophic occurrence all over the world. Bangladesh is in highly risk of earthquake as it sits in juncture of several active tectonic plates named Indian plate, the Eurasian plate and the Burmese plate. The massive amounts of sand and sediment present in the soil that makes up much of Bangladesh presents another danger, in addition to hiding the potentially devastating mega thrust fault. In an earthquake, the shaking will cause the sandy ground to behave like a liquid in a process known as liquefaction. In this paper, liquefaction potential index (LPI) is evaluated by SPT data collected from different bore log of selected zones of Rajshahi district using Seed’s method, Tokimatsu & Yoshimi (TY) method considering design magnitude of earthquake of 6.5 based on previous earthquake history and peak ground acceleration of 0.12 g. Study area selected for this analysis are Bagha, Bagmara, Charghat, Paba, Godagari, Puthia, Tanore and Rajshahi City. This assessment may possibly be helpful to the designers, city planners, architects and developers to achieve knowledge about liquefaction susceptibility of Rajshahi District (RD).",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Stability Analysis Of Hill Slope At Chittagong In Bangladesh: A Case Study At Foy’s Lake Residential Area Hill",
@@ -631,7 +631,7 @@
             "publication_date": "2018",
             "conference": "International Conference on Advances in Civil Engineering (ICACE)",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Liquefaction Potential Assessment Of Selected Zones At Chittagong City Corporation In Bangladesh",
@@ -642,7 +642,7 @@
             "publication_date": "2017",
             "conference": "International Conference on Planning, Architecture and Civil Engineering (ICPACE)",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Correlation Between Temperature Change And Earthquake In Bangladesh",
@@ -653,7 +653,7 @@
             "publication_date": "2016/12",
             "conference": "International Conference on Advances in Civil Engineering (ICACE)",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Spatio-temporal Characteristics Of Rainfall And Temperature In Bangladesh",
@@ -664,13 +664,13 @@
             "publication_date": "2016/12",
             "conference": "International Conference on Advances in Civil Engineering",
             "doi": "",
-            "last_citation_update": "2025-04-24T12:45:45.671Z"
+            "last_citation_update": "2025-04-26T12:39:16.280Z"
         },
         {
             "title": "Who Should Be Responsible For Setting Standards For How Automated Vehicles Are Used? Insights From The Nationwide Survey",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:HoB7MX3m0LUC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-24T12:45:45.672Z",
+            "last_citation_update": "2025-04-26T12:39:16.280Z",
             "year": "",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4956111",
             "authors": "Abdallah Kinero, Boniphace Kutela, Subasish Das, Ahmed Hossain",
@@ -682,7 +682,7 @@
             "title": "A Hybrid Data Mining Framework To Investigate Roadway Departure Crashes On Rural Two-lane Highways: Applying Fast And Frugal Tree With Association Rules Mining",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:pqnbT2bcN3wC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-24T12:45:45.672Z",
+            "last_citation_update": "2025-04-26T12:39:16.280Z",
             "year": "",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937707",
             "authors": "Ahmed Hossain, Subasish Das, Xiaoduan Sun, Ahmed Sajid Hasan, Mohammad Jalayer",
@@ -694,7 +694,7 @@
             "title": "Investigating Older Pedestrian Fatal Crash Characteristics In The United States",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:lSLTfruPkqcC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-24T12:45:45.672Z",
+            "last_citation_update": "2025-04-26T12:39:16.280Z",
             "year": "",
             "source_url": "http://www.iccesd.com/proc_2024/Papers/380.pdf",
             "authors": "A Hossain, NJ Monica, MT Ahmad, FN Choya",
@@ -705,7 +705,7 @@
             "title": "Investigating Pedestrian-vehicle Crashes On Interstate Highways: Applying Random Parameter Logit Model",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:NMxIlDl6LWMC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-24T12:45:45.672Z",
+            "last_citation_update": "2025-04-26T12:39:16.280Z",
             "year": "",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649205",
             "authors": "Ahmed Hossain, Xiaoduan Sun, Subasish Das, Monire Jafari, M Ashifur Rahman",
@@ -717,7 +717,7 @@
             "title": "Investigating Older Driver Crashes On High-speed Roadway Segments Using Random Parameter Ordered Probit Model",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U9tD0ywAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=U9tD0ywAAAAJ:isC4tDSrTZIC",
             "total_citations": 0,
-            "last_citation_update": "2025-04-24T12:45:45.672Z",
+            "last_citation_update": "2025-04-26T12:39:16.280Z",
             "year": "",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4567090",
             "authors": "Ahmed Hossain, Xiaoduan Sun, Subasish Das, Monire Jafari, Julius Codjoe",
