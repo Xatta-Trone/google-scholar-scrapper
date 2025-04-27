@@ -5880,6 +5880,7 @@
             "volume": "217",
             "pages": "108048",
             "publisher": "Pergamon",
+            "img": "new_images/monzurul_tabnet.png",
             "description": "Crashes involving farm equipment vehicles are a significant safety concern on public roads, particularly in rural and agricultural regions. These vehicles display unique challenges due to their slow-moving operational speed and interactions with faster vehicles, often leading to severe crashes. This study analyzed crashes involving farm equipment vehicles to examine the factors influencing crash severity, with a particular focus on comparing incidents on county roads to those on non-county roads. The dataset included key variables such as road geometry, lighting conditions, and traffic interactions, with preprocessing techniques like Synthetic Minority Over-sampling Technique (SMOTE) applied to address class imbalance. The TabNet model, a tabular deep learning model, was employed to analyze crash dynamics, offering both predictive accuracy and interpretability through feature importance and SHapley …"
         },
         {
