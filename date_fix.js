@@ -16,12 +16,52 @@ for (const file of files) {
     const json = JSON.parse(raw);
 
     if (Array.isArray(json.data)) {
-      let currentDate = new Date();
+      const currentDate = new Date();
+      const currentYear = currentDate.getFullYear();
+      let lastAssignedDate = new Date();
+      const yearDates = new Map();
 
       // Add date_added in reverse order (last = newest date)
       for (let i = json.data.length - 1; i >= 0; i--) {
-        json.data[i]['date_added'] = currentDate.toISOString().split('T')[0];
-        currentDate.setDate(currentDate.getDate() - 1);
+        const item = json.data[i];
+
+        if (i === json.data.length - 1) {
+          // Last item always gets today's date
+          item.date_added = currentDate.toISOString().split('T')[0];
+          lastAssignedDate = new Date(currentDate);
+          continue;
+        }
+
+        if (item.year) {
+          const year = parseInt(item.year);
+
+          if (year === currentYear) {
+            // Current year - continue sequence from last date
+            const newDate = new Date(lastAssignedDate);
+            newDate.setDate(newDate.getDate() - 1);
+            item.date_added = newDate.toISOString().split('T')[0];
+            lastAssignedDate = newDate;
+          } else {
+            // Past years - start from December 31 of that specific year
+            if (!yearDates.has(year)) {
+              const yearEnd = new Date(year, 11, 31);
+              item.date_added = yearEnd.toISOString().split('T')[0];
+              yearDates.set(year, yearEnd);
+            } else {
+              const lastDate = yearDates.get(year);
+              const newDate = new Date(lastDate);
+              newDate.setDate(newDate.getDate() - 1);
+              item.date_added = newDate.toISOString().split('T')[0];
+              yearDates.set(year, newDate);
+            }
+          }
+        } else {
+          // No year - continue sequence from last date
+          const newDate = new Date(lastAssignedDate);
+          newDate.setDate(newDate.getDate() - 1);
+          item.date_added = newDate.toISOString().split('T')[0];
+          lastAssignedDate = newDate;
+        }
       }
 
       // Save back to the same file
