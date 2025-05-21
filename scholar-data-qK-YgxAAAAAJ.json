@@ -3530,7 +3530,7 @@
       "issue": "11",
       "pages": "390-402",
       "publisher": "SAGE Publications",
-      "description": "Traffic volumes are fundamental for evaluating transportation systems, regardless of travel mode. A lack of counts for non-motorized modes poses a challenge for practitioners developing and managing multimodal transportation facilities, whether they want to evaluate transportation safety or the potential need for infrastructure changes, or to answer other questions about how and where people bicycle and walk. In recent years, researchers and practitioners alike have been using crowdsourced data to supplement the non-motorized counts. As such, several methods and tools have been developed. The objective of this paper is to take advantage of new data sources that provide a limited and biased sample of trips and combine them with traditional counts to develop a practical tool for estimating annual average daily bicycle (AADB) counts. This study developed a direct-demand model for estimating AADB in Texas …",
+      "description": "Traffic volumes are fundamental for evaluating transportation systems, regardless of travel mode. A lack of counts for non-motorized modes poses a challenge for practitioners developing and managing  facilities, whether they want to evaluate transportation safety or the potential need for infrastructure changes, or to answer other questions about how and where people bicycle and walk. In recent years, researchers and practitioners alike have been using crowdsourced data to supplement the non-motorized counts. As such, several methods and tools have been developed. The objective of this paper is to take advantage of new data sources that provide a limited and biased sample of trips and combine them with traditional counts to develop a practical tool for estimating annual average daily bicycle (AADB) counts. This study developed a direct-demand model for estimating AADB in Texas …",
       "pdf_link": "2020 (A) Dadashova TRR Crowdsource Strava.pdf",
       "img": "new_images/mlAyqtXpCwEC.png",
       "doi": "10.1177/0361198120946016",
@@ -6153,6 +6153,7 @@
     },
     {
       "title": "Multimodal Transportation",
+      "authors": "Richard Dzinyela, Bahar Dadashova, Grant Westfall, Subasish Das, Chiara Silvestri-Dobrovolny, Emmanuel Kofi Adanu, Dominique Lord",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:zzCxg_vo7cAC",
       "total_citations": 0,
       "last_citation_update": "2025-05-19T01:41:44.741Z",
