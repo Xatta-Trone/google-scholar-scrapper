@@ -1,79 +1,79 @@
 {
-  "last_updated_utc": "2025-05-19T01:40:53.135Z",
-  "data": [
-    {
-      "title": "A Survey On Structured State Space Sequence (S4) Models",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:UeHWp8X0CEIC",
-      "total_citations": 0,
-      "last_citation_update": "2025-05-19T01:40:53.134Z",
-      "year": "2025",
-      "source_url": "https://arxiv.org/abs/2503.18970",
-      "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
-      "publication_date": "2025/3/22",
-      "source": "arXiv preprint arXiv:2503.18970",
-      "description": "Recent advancements in sequence modeling have led to the emergence of Structured State Space Models (SSMs) as an efficient alternative to Recurrent Neural Networks (RNNs) and Transformers, addressing challenges in long-range dependency modeling and computational efficiency. While RNNs suffer from vanishing gradients and sequential inefficiencies, and Transformers face quadratic complexity, SSMs leverage structured recurrence and state-space representations to achieve superior long-sequence processing with linear or near-linear complexity. This survey provides a comprehensive review of SSMs, tracing their evolution from the foundational S4 model to its successors like Mamba, Simplified Structured State Space Sequence Model (S5), and Jamba, highlighting their improvements in computational efficiency, memory optimization, and inference speed. By comparing SSMs with traditional sequence models across domains such as natural language processing (NLP), speech recognition, vision, and time-series forecasting, we demonstrate their advantages in handling long-range dependencies while reducing computational overhead. Despite their potential, challenges remain in areas such as training optimization, hybrid modeling, and interpretability. This survey serves as a structured guide for researchers and practitioners, detailing the advancements, trade-offs, and future directions of SSM-based architectures in AI and deep learning.",
-      "date_added": "2025-05-18"
-    },
-    {
-      "title": "Quantum Computing In Transportation Engineering: A Survey",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
-      "total_citations": 0,
-      "last_citation_update": "2025-05-19T01:40:53.134Z",
-      "year": "2025",
-      "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141686",
-      "authors": "Shriyank Somvanshi, Md Monzurul Islam, Sazzad Bin Bashar Polock, Gaurab Chhetri, Darrell Anderson, Anandi Dutta, Subasish Das",
-      "publication_date": "2025/2/17",
-      "source": "Available at SSRN 5141686",
-      "description": "Quantum computing introduces new computational methods that address complex optimization and machine learning challenges in transportation engineering. This literature survey reviews fundamental quantum principles, including qubits, superposition, entanglement, and quantum gates, and examines their applications in transportation. Fundamental quantum algorithms, including Shor's algorithm, the Quantum Approximate Optimization Algorithm (QAOA), and Grover's search, are described for their applications in transportation, such as network analysis, traffic management, and vehicle routing. Quantum optimization techniques, including hybrid quantum-classical approaches and quantum annealing, have been explored for combinatorial challenges such as the Vehicle Routing Problem (VRP) and dynamic traffic signal control. Additionally, quantum machine learning models, such as Quantum Convolutional Neural Networks (QCNNs) and quantum clustering, present applications in traffic prediction and anomaly detection. Despite its potential, quantum computing in transportation faces challenges related to hardware limitations, error rates, and a lack of established quantum programming frameworks. Addressing these challenges necessitates progress in hardware scalability, error mitigation techniques, and algorithm refinement. As quantum computing continues to evolve, its integration into transportation engineering could improve computational efficiency and enable new capabilities in optimization, traffic management, and intelligent transportation systems. This survey outlines key developments, challenges, and future research directions …",
-      "date_added": "2025-05-19"
-    },
-    {
-      "title": "A Survey On Kolmogorov-arnold Network",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
-      "total_citations": 23,
-      "last_citation_update": "2025-05-19T01:40:53.134Z",
-      "year": "2024",
-      "date_added": "2024-12-31"
-    },
-    {
-      "title": "A Nonlinear Macromodel For Simulating The In-plane Behavior Of Unreinforced Masonry (Urm) Infilled Frames",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
-      "total_citations": 6,
-      "last_citation_update": "2025-05-19T01:40:53.135Z",
-      "year": "2022",
-      "date_added": "2022-12-31"
-    },
-    {
-      "title": "Comparative Study Of Design Response Spectrums Of Bangladesh National Building Code 2020 And Japanese Building Code",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u-x6o8ySG0sC",
-      "total_citations": 0,
-      "last_citation_update": "2025-05-19T01:40:53.135Z",
-      "year": "2021",
-      "date_added": "2021-12-31"
-    },
-    {
-      "title": "Evaluating Crash Risk Factors Of Farm Equipment Vehicles On County And Non-county Roads Using Interpretable Tabular Deep Learning (Tabnet)",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
-      "total_citations": 0,
-      "last_citation_update": "2025-05-19T01:40:53.134Z",
-      "year": "2025",
-      "source_url": "https://www.sciencedirect.com/science/article/pii/S0001457525001344",
-      "authors": "Md Monzurul Islam, Jinli Liu, Rohit Chakraborty, Subasish Das",
-      "publication_date": "2025/7/1",
-      "journal": "Accident Analysis & Prevention",
-      "volume": "217",
-      "pages": "108048",
-      "publisher": "Pergamon",
-      "description": "Crashes involving farm equipment vehicles are a significant safety concern on public roads, particularly in rural and agricultural regions. These vehicles display unique challenges due to their slow-moving operational speed and interactions with faster vehicles, often leading to severe crashes. This study analyzed crashes involving farm equipment vehicles to examine the factors influencing crash severity, with a particular focus on comparing incidents on county roads to those on non-county roads. The dataset included key variables such as road geometry, lighting conditions, and traffic interactions, with preprocessing techniques like Synthetic Minority Over-sampling Technique (SMOTE) applied to address class imbalance. The TabNet model, a tabular deep learning model, was employed to analyze crash dynamics, offering both predictive accuracy and interpretability through feature importance and SHapley …",
-      "date_added": "2025-05-20"
-    },
-    {
-      "title": "Applying Mambaattention, Tabpfn, And Tabtransformers To Classify Sae Automation Levels In Crashes",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC",
-      "total_citations": 0,
-      "last_citation_update": "2025-05-19T01:40:53.135Z",
-      "year": "",
-      "date_added": "2025-05-21"
-    }
-  ]
+    "last_updated_utc": "2025-05-30T15:04:39.685Z",
+    "data": [
+        {
+            "title": "A Survey On Structured State Space Sequence (S4) Models",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:UeHWp8X0CEIC",
+            "total_citations": 0,
+            "last_citation_update": "2025-05-30T15:04:39.684Z",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2503.18970",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
+            "publication_date": "2025/3/22",
+            "source": "arXiv preprint arXiv:2503.18970",
+            "description": "Recent advancements in sequence modeling have led to the emergence of Structured State Space Models (SSMs) as an efficient alternative to Recurrent Neural Networks (RNNs) and Transformers, addressing challenges in long-range dependency modeling and computational efficiency. While RNNs suffer from vanishing gradients and sequential inefficiencies, and Transformers face quadratic complexity, SSMs leverage structured recurrence and state-space representations to achieve superior long-sequence processing with linear or near-linear complexity. This survey provides a comprehensive review of SSMs, tracing their evolution from the foundational S4 model to its successors like Mamba, Simplified Structured State Space Sequence Model (S5), and Jamba, highlighting their improvements in computational efficiency, memory optimization, and inference speed. By comparing SSMs with traditional sequence models across domains such as natural language processing (NLP), speech recognition, vision, and time-series forecasting, we demonstrate their advantages in handling long-range dependencies while reducing computational overhead. Despite their potential, challenges remain in areas such as training optimization, hybrid modeling, and interpretability. This survey serves as a structured guide for researchers and practitioners, detailing the advancements, trade-offs, and future directions of SSM-based architectures in AI and deep learning.",
+            "date_added": "2025-05-18"
+        },
+        {
+            "title": "Quantum Computing In Transportation Engineering: A Survey",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
+            "total_citations": 0,
+            "last_citation_update": "2025-05-30T15:04:39.684Z",
+            "year": "2025",
+            "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141686",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Sazzad Bin Bashar Polock, Gaurab Chhetri, Darrell Anderson, Anandi Dutta, Subasish Das",
+            "publication_date": "2025/2/17",
+            "source": "Available at SSRN 5141686",
+            "description": "Quantum computing introduces new computational methods that address complex optimization and machine learning challenges in transportation engineering. This literature survey reviews fundamental quantum principles, including qubits, superposition, entanglement, and quantum gates, and examines their applications in transportation. Fundamental quantum algorithms, including Shor's algorithm, the Quantum Approximate Optimization Algorithm (QAOA), and Grover's search, are described for their applications in transportation, such as network analysis, traffic management, and vehicle routing. Quantum optimization techniques, including hybrid quantum-classical approaches and quantum annealing, have been explored for combinatorial challenges such as the Vehicle Routing Problem (VRP) and dynamic traffic signal control. Additionally, quantum machine learning models, such as Quantum Convolutional Neural Networks (QCNNs) and quantum clustering, present applications in traffic prediction and anomaly detection. Despite its potential, quantum computing in transportation faces challenges related to hardware limitations, error rates, and a lack of established quantum programming frameworks. Addressing these challenges necessitates progress in hardware scalability, error mitigation techniques, and algorithm refinement. As quantum computing continues to evolve, its integration into transportation engineering could improve computational efficiency and enable new capabilities in optimization, traffic management, and intelligent transportation systems. This survey outlines key developments, challenges, and future research directions …",
+            "date_added": "2025-05-19"
+        },
+        {
+            "title": "A Survey On Kolmogorov-arnold Network",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
+            "total_citations": 28,
+            "last_citation_update": "2025-05-30T15:04:39.684Z",
+            "year": "2024",
+            "date_added": "2024-12-31"
+        },
+        {
+            "title": "A Nonlinear Macromodel For Simulating The In-plane Behavior Of Unreinforced Masonry (Urm) Infilled Frames",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
+            "total_citations": 6,
+            "last_citation_update": "2025-05-30T15:04:39.684Z",
+            "year": "2022",
+            "date_added": "2022-12-31"
+        },
+        {
+            "title": "Comparative Study Of Design Response Spectrums Of Bangladesh National Building Code 2020 And Japanese Building Code",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u-x6o8ySG0sC",
+            "total_citations": 0,
+            "last_citation_update": "2025-05-30T15:04:39.685Z",
+            "year": "2021",
+            "date_added": "2021-12-31"
+        },
+        {
+            "title": "Evaluating Crash Risk Factors Of Farm Equipment Vehicles On County And Non-county Roads Using Interpretable Tabular Deep Learning (Tabnet)",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
+            "total_citations": 0,
+            "last_citation_update": "2025-05-30T15:04:39.684Z",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S0001457525001344",
+            "authors": "Md Monzurul Islam, Jinli Liu, Rohit Chakraborty, Subasish Das",
+            "publication_date": "2025/7/1",
+            "journal": "Accident Analysis & Prevention",
+            "volume": "217",
+            "pages": "108048",
+            "publisher": "Pergamon",
+            "description": "Crashes involving farm equipment vehicles are a significant safety concern on public roads, particularly in rural and agricultural regions. These vehicles display unique challenges due to their slow-moving operational speed and interactions with faster vehicles, often leading to severe crashes. This study analyzed crashes involving farm equipment vehicles to examine the factors influencing crash severity, with a particular focus on comparing incidents on county roads to those on non-county roads. The dataset included key variables such as road geometry, lighting conditions, and traffic interactions, with preprocessing techniques like Synthetic Minority Over-sampling Technique (SMOTE) applied to address class imbalance. The TabNet model, a tabular deep learning model, was employed to analyze crash dynamics, offering both predictive accuracy and interpretability through feature importance and SHapley …",
+            "date_added": "2025-05-20"
+        },
+        {
+            "title": "Applying Mambaattention, Tabpfn, And Tabtransformers To Classify Sae Automation Levels In Crashes",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC",
+            "total_citations": 0,
+            "last_citation_update": "2025-05-30T15:04:39.685Z",
+            "year": "",
+            "date_added": "2025-05-21"
+        }
+    ]
 }

@@ -245,7 +245,11 @@ const scholarParser = {
 
       return data;
     });
-    articleData = { ...articleData, ...articleMetaData, date_added: (new Date()).toISOString.split('T')[0] };
+    articleData = {
+      ...articleData,
+      ...articleMetaData,
+      date_added: new Date().toISOString().split('T')[0],
+    };
     console.log(articleData);
 
     return articleData;
