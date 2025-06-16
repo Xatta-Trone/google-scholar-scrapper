@@ -13,7 +13,10 @@ function normalizeJournal(raw) {
   const journal = raw.toLowerCase();
   if (journal.includes("ssrn")) return "ssrn";
   if (journal.includes("arxiv")) return "arxiv";
-  if (journal.includes("transportation research board"))
+  if (
+    journal.includes("transportation research board") ||
+    journal.includes("trb")
+  )
     return "transportation research board";
   return journal;
 }
