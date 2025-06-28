@@ -1,11 +1,11 @@
 {
-    "last_updated_utc": "2025-06-24T12:40:28.419Z",
+    "last_updated_utc": "2025-06-28T01:36:32.089Z",
     "data": [
         {
             "title": "A Survey On Structured State Space Sequence (S4) Models",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:UeHWp8X0CEIC",
             "total_citations": 1,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "last_citation_update": "2025-06-28T01:36:32.089Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2503.18970",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
@@ -18,7 +18,7 @@
             "title": "Quantum Computing In Transportation Engineering: A Survey",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
             "total_citations": 1,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "last_citation_update": "2025-06-28T01:36:32.089Z",
             "year": "2025",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141686",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Sazzad Bin Bashar Polock, Gaurab Chhetri, Darrell Anderson, Anandi Dutta, Subasish Das",
@@ -30,8 +30,8 @@
         {
             "title": "A Survey On Kolmogorov-arnold Network",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
-            "total_citations": 33,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "total_citations": 34,
+            "last_citation_update": "2025-06-28T01:36:32.089Z",
             "year": "2024",
             "date_added": "2024-12-31"
         },
@@ -39,7 +39,7 @@
             "title": "A Nonlinear Macromodel For Simulating The In-plane Behavior Of Unreinforced Masonry (Urm) Infilled Frames",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
             "total_citations": 6,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "last_citation_update": "2025-06-28T01:36:32.089Z",
             "year": "2022",
             "date_added": "2022-12-31"
         },
@@ -55,7 +55,7 @@
             "title": "Evaluating Crash Risk Factors Of Farm Equipment Vehicles On County And Non-county Roads Using Interpretable Tabular Deep Learning (Tabnet)",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
             "total_citations": 0,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "last_citation_update": "2025-06-28T01:36:32.088Z",
             "year": "2025",
             "source_url": "https://www.sciencedirect.com/science/article/pii/S0001457525001344",
             "authors": "Md Monzurul Islam, Jinli Liu, Rohit Chakraborty, Subasish Das",
@@ -71,7 +71,7 @@
             "title": "Applying Mambaattention, Tabpfn, And Tabtransformers To Classify Sae Automation Levels In Crashes",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC",
             "total_citations": 0,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "last_citation_update": "2025-06-28T01:36:32.089Z",
             "year": "",
             "date_added": "2025-05-21"
         },
@@ -79,7 +79,7 @@
             "title": "St-graphnet: A Spatio-temporal Graph Neural Network For Understanding And Predicting Automated Vehicle Crash Severity",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:LkGwnXOMwfcC",
             "total_citations": 0,
-            "last_citation_update": "2025-06-24T12:40:28.419Z",
+            "last_citation_update": "2025-06-28T01:36:32.089Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2506.08051",
             "authors": "Mahmuda Sultana Mimi, Md Monzurul Islam, Anannya Ghosh Tusti, Shriyank Somvanshi, Subasish Das",
