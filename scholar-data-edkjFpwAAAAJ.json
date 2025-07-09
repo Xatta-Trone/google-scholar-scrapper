@@ -1,11 +1,11 @@
 {
-    "last_updated_utc": "2025-06-28T01:36:32.089Z",
+    "last_updated_utc": "2025-07-09T01:41:59.719Z",
     "data": [
         {
             "title": "A Survey On Structured State Space Sequence (S4) Models",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:UeHWp8X0CEIC",
             "total_citations": 1,
-            "last_citation_update": "2025-06-28T01:36:32.089Z",
+            "last_citation_update": "2025-07-09T01:41:59.719Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2503.18970",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
@@ -18,7 +18,7 @@
             "title": "Quantum Computing In Transportation Engineering: A Survey",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
             "total_citations": 1,
-            "last_citation_update": "2025-06-28T01:36:32.089Z",
+            "last_citation_update": "2025-07-09T01:41:59.719Z",
             "year": "2025",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141686",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Sazzad Bin Bashar Polock, Gaurab Chhetri, Darrell Anderson, Anandi Dutta, Subasish Das",
@@ -30,8 +30,8 @@
         {
             "title": "A Survey On Kolmogorov-arnold Network",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
-            "total_citations": 34,
-            "last_citation_update": "2025-06-28T01:36:32.089Z",
+            "total_citations": 35,
+            "last_citation_update": "2025-07-09T01:41:59.719Z",
             "year": "2024",
             "date_added": "2024-12-31"
         },
@@ -39,7 +39,7 @@
             "title": "A Nonlinear Macromodel For Simulating The In-plane Behavior Of Unreinforced Masonry (Urm) Infilled Frames",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
             "total_citations": 6,
-            "last_citation_update": "2025-06-28T01:36:32.089Z",
+            "last_citation_update": "2025-07-09T01:41:59.719Z",
             "year": "2022",
             "date_added": "2022-12-31"
         },
@@ -54,8 +54,8 @@
         {
             "title": "Evaluating Crash Risk Factors Of Farm Equipment Vehicles On County And Non-county Roads Using Interpretable Tabular Deep Learning (Tabnet)",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
-            "total_citations": 0,
-            "last_citation_update": "2025-06-28T01:36:32.088Z",
+            "total_citations": 1,
+            "last_citation_update": "2025-07-09T01:41:54.238Z",
             "year": "2025",
             "source_url": "https://www.sciencedirect.com/science/article/pii/S0001457525001344",
             "authors": "Md Monzurul Islam, Jinli Liu, Rohit Chakraborty, Subasish Das",
@@ -71,7 +71,7 @@
             "title": "Applying Mambaattention, Tabpfn, And Tabtransformers To Classify Sae Automation Levels In Crashes",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC",
             "total_citations": 0,
-            "last_citation_update": "2025-06-28T01:36:32.089Z",
+            "last_citation_update": "2025-07-09T01:41:58.822Z",
             "year": "",
             "date_added": "2025-05-21"
         },
@@ -79,7 +79,7 @@
             "title": "St-graphnet: A Spatio-temporal Graph Neural Network For Understanding And Predicting Automated Vehicle Crash Severity",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:LkGwnXOMwfcC",
             "total_citations": 0,
-            "last_citation_update": "2025-06-28T01:36:32.089Z",
+            "last_citation_update": "2025-07-09T01:41:56.685Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2506.08051",
             "authors": "Mahmuda Sultana Mimi, Md Monzurul Islam, Anannya Ghosh Tusti, Shriyank Somvanshi, Subasish Das",
@@ -87,6 +87,45 @@
             "journal": "arXiv preprint arXiv:2506.08051",
             "description": "Understanding the spatial and temporal dynamics of automated vehicle (AV) crash severity is critical for advancing urban mobility safety and infrastructure planning. In this work, we introduce ST-GraphNet, a spatio-temporal graph neural network framework designed to model and predict AV crash severity by using both fine-grained and region-aggregated spatial graphs. Using a balanced dataset of 2,352 real-world AV-related crash reports from Texas (2024), including geospatial coordinates, crash timestamps, SAE automation levels, and narrative descriptions, we construct two complementary graph representations: (1) a fine-grained graph with individual crash events as nodes, where edges are defined via spatio-temporal proximity; and (2) a coarse-grained graph where crashes are aggregated into Hexagonal Hierarchical Spatial Indexing (H3)-based spatial cells, connected through hexagonal adjacency. Each node in the graph is enriched with multimodal data, including semantic, spatial, and temporal attributes, including textual embeddings from crash narratives using a pretrained Sentence-BERT model. We evaluate various graph neural network (GNN) architectures, such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), and Dynamic Spatio-Temporal GCN (DSTGCN), to classify crash severity and predict high-risk regions. Our proposed ST-GraphNet, which utilizes a DSTGCN backbone on the coarse-grained H3 graph, achieves a test accuracy of 97.74\\%, substantially outperforming the best fine-grained model (64.7\\% test accuracy). These findings highlight the effectiveness of spatial aggregation, dynamic …",
             "date_added": "2025-06-15"
+        },
+        {
+            "title": "From Tiny Machine Learning To Tiny Deep Learning: A Survey",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:Se3iqnhoufwC",
+            "total_citations": 0,
+            "last_citation_update": "2025-07-09T01:41:52.620Z",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2506.18927",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Gaurab Chhetri, Rohit Chakraborty, Mahmuda Sultana Mimi, Swagat Ahmed Shuvo, Kazi Sifatul Islam, Syed Aaqib Javed, Sharif Ahmed Rafat, Anandi Dutta, Subasish Das",
+            "publication_date": "2025/6/21",
+            "journal": "arXiv preprint arXiv:2506.18927",
+            "description": "The rapid growth of edge devices has driven the demand for deploying artificial intelligence (AI) at the edge, giving rise to Tiny Machine Learning (TinyML) and its evolving counterpart, Tiny Deep Learning (TinyDL). While TinyML initially focused on enabling simple inference tasks on microcontrollers, the emergence of TinyDL marks a paradigm shift toward deploying deep learning models on severely resource-constrained hardware. This survey presents a comprehensive overview of the transition from TinyML to TinyDL, encompassing architectural innovations, hardware platforms, model optimization techniques, and software toolchains. We analyze state-of-the-art methods in quantization, pruning, and neural architecture search (NAS), and examine hardware trends from MCUs to dedicated neural accelerators. Furthermore, we categorize software deployment frameworks, compilers, and AutoML tools enabling practical on-device learning. Applications across domains such as computer vision, audio recognition, healthcare, and industrial monitoring are reviewed to illustrate the real-world impact of TinyDL. Finally, we identify emerging directions including neuromorphic computing, federated TinyDL, edge-native foundation models, and domain-specific co-design approaches. This survey aims to serve as a foundational resource for researchers and practitioners, offering a holistic view of the ecosystem and laying the groundwork for future advancements in edge AI.",
+            "date_added": "2025-07-09"
+        },
+        {
+            "title": "A Comprehensive Survey On Bio-inspired Algorithms: Taxonomy, Applications, And Future Directions",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:UebtZRa9Y70C",
+            "total_citations": 0,
+            "last_citation_update": "2025-07-09T01:41:52.620Z",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2506.04238",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Syed Aaqib Javed, Gaurab Chhetri, Kazi Sifatul Islam, Tausif Islam Chowdhury, Sazzad Bin Bashar Polock, Anandi Dutta, Subasish Das",
+            "publication_date": "2025/5/26",
+            "source": "arXiv preprint arXiv:2506.04238",
+            "description": "Bio-inspired algorithms (BIAs) utilize natural processes such as evolution, swarm behavior, foraging, and plant growth to solve complex, nonlinear, high-dimensional optimization problems. This survey categorizes BIAs into eight groups: evolutionary, swarm intelligence, physics-inspired, ecosystem and plant-based, predator-prey, neural-inspired, human-inspired, and hybrid approaches, and reviews their core principles, strengths, and limitations. We illustrate the usage of these algorithms in machine learning, engineering design, bioinformatics, and intelligent systems, and highlight recent advances in hybridization, parameter tuning, and adaptive strategies. Finally, we identify open challenges such as scalability, convergence, reliability, and interpretability to suggest directions for future research. This work aims to serve as a foundational resource for both researchers and practitioners interested in understanding the current landscape and future directions of bio-inspired computing.",
+            "date_added": "2025-07-09"
+        },
+        {
+            "title": "From S4 To Mamba: A Comprehensive Survey On Structured State Space Models",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:roLk4NBRz8UC",
+            "total_citations": 0,
+            "last_citation_update": "2025-07-09T01:41:52.620Z",
+            "year": "2025",
+            "source_url": "https://arxiv.org/abs/2503.18970",
+            "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
+            "publication_date": "2025/3/22",
+            "source": "arXiv preprint arXiv:2503.18970",
+            "description": "Recent advancements in sequence modeling have led to the emergence of Structured State Space Models (SSMs) as an efficient alternative to Recurrent Neural Networks (RNNs) and Transformers, addressing challenges in long-range dependency modeling and computational efficiency. While RNNs suffer from vanishing gradients and sequential inefficiencies, and Transformers face quadratic complexity, SSMs leverage structured recurrence and state-space representations to achieve superior long-sequence processing with linear or near-linear complexity. This survey provides a comprehensive review of SSMs, tracing their evolution from the foundational S4 model to its successors like Mamba, Simplified Structured State Space Sequence Model (S5), and Jamba, highlighting their improvements in computational efficiency, memory optimization, and inference speed. By comparing SSMs with traditional sequence models across domains such as natural language processing (NLP), speech recognition, vision, and time-series forecasting, we demonstrate their advantages in handling long-range dependencies while reducing computational overhead. Despite their potential, challenges remain in areas such as training optimization, hybrid modeling, and interpretability. This survey serves as a structured guide for researchers and practitioners, detailing the advancements, trade-offs, and future directions of SSM-based architectures in AI and deep learning.",
+            "date_added": "2025-07-09"
         }
     ]
 }
