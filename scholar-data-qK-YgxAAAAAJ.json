@@ -6540,7 +6540,8 @@
             "publisher": "Taylor & Francis",
             "description": "This study analyzed 3,234 motorcycle roadway‑departure crashes recorded in Louisiana from 2017 to 2021. The dataset spans crash, vehicle, environmental, and location variables, enabling a comprehensive assessment of factors shaping injury severity. We used a two‑stage hybrid approach: cluster correspondence analysis first reduces dimensionality and uncovers latent patterns, then random parameters ordered probit models are fitted to the full sample and to each cluster. Six distinct clusters emerge, and the models capture both main effects and important interaction effects through random and fixed parameters. The combined method improves explanatory power and highlights high‑risk crash profiles, offering clear guidance for targeted countermeasures aimed at reducing fatal and serious injuries among Louisiana motorcyclists involved in roadway‑departure events.",
             "date_added": "2025-06-15",
-            "doi": "10.1080/19427867.2025.2516422"
+            "doi": "10.1080/19427867.2025.2516422",
+            "img": "new_images/HqhvjgTjE9cC.png"
         },
         {
             "title": "St-graphnet: A Spatio-temporal Graph Neural Network For Understanding And Predicting Automated Vehicle Crash Severity",
@@ -6553,7 +6554,8 @@
             "publication_date": "2025/6/9",
             "journal": "arXiv preprint arXiv:2506.08051",
             "description": "Understanding the spatial and temporal dynamics of automated vehicle (AV) crash severity is critical for advancing urban mobility safety and infrastructure planning. In this work, we introduce ST-GraphNet, a spatio-temporal graph neural network framework designed to model and predict AV crash severity by using both fine-grained and region-aggregated spatial graphs. Using a balanced dataset of 2,352 real-world AV-related crash reports from Texas (2024), including geospatial coordinates, crash timestamps, SAE automation levels, and narrative descriptions, we construct two complementary graph representations: (1) a fine-grained graph with individual crash events as nodes, where edges are defined via spatio-temporal proximity; and (2) a coarse-grained graph where crashes are aggregated into Hexagonal Hierarchical Spatial Indexing (H3)-based spatial cells, connected through hexagonal adjacency. Each node in the graph is enriched with multimodal data, including semantic, spatial, and temporal attributes, including textual embeddings from crash narratives using a pretrained Sentence-BERT model. We evaluate various graph neural network (GNN) architectures, such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), and Dynamic Spatio-Temporal GCN (DSTGCN), to classify crash severity and predict high-risk regions. Our proposed ST-GraphNet, which utilizes a DSTGCN backbone on the coarse-grained H3 graph, achieves a test accuracy of 97.74\\%, substantially outperforming the best fine-grained model (64.7\\% test accuracy). These findings highlight the effectiveness of spatial aggregation, dynamic …",
-            "date_added": "2025-06-15"
+            "date_added": "2025-06-15",
+            "img": "new_images/j8pvxH-kN2QC.png"
         },
         {
             "title": "The Autopilot Paradox: Public Perception Of Sleeping While Driving Semi-automated Cars",
@@ -6569,7 +6571,8 @@
             "publisher": "Routledge",
             "description": "Sleeping while driving is a cognitive-based distracted driving caused by tiredness and drowsiness. The public considers sleeping while driving a dangerous act due to the driver’s inability to control the vehicle. In recent years, the advancement of technology has resulted in vehicles with different levels of autonomy that can perform various activities such as steering, changing lanes, braking and stopping. Such situations cause the drivers to have fewer driving activities and make them more likely to fall asleep. This study explored the public sentiments on incidents involving drivers falling asleep in autopilot-enabled vehicles. The study applied text mining on 14,954 comments from seven YouTube videos posted between 2016 and 2021. It was found that the public showed more positive than negative reactions, trust than fear and relatively higher anticipation sentiments on the drivers sleeping in vehicles with autopilot …",
             "date_added": "2025-06-15",
-            "doi": "10.1080/23800127.2025.2516284"
+            "doi": "10.1080/23800127.2025.2516284",
+            "img": "new_images/I9gX6wnfuA8C.png"
         },
         {
             "title": "Understanding Pedestrian Hit And Run Crash Patterns Using Louisiana Data",
@@ -6585,7 +6588,8 @@
             "publisher": "Oxford University Press",
             "description": "Walking is an active and sustainable mode of transportation with numerous health and environmental benefits. However, the growing concern over the increasing number of hit-and-run crashes involving pedestrians poses a significant threat to public health. This research investigates the various factors contributing to the severity of injuries sustained by pedestrians in hit-and-run crashes. By analyzing data from hit-and-run incidents involving pedestrians in Louisiana, USA between 2017 and 2021, this study examined the complex relationships between contributing factors, pedestrian actions, driver and pedestrian characteristics, and injury severity. Bayesian Network (BN) analysis was employed to unravel the intricate web of variables. Findings showed that the highest probability of pedestrian injury occurred when the driver's condition was known and normal, without the involvement of alcohol or drugs …",
             "date_added": "2025-06-15",
-            "doi": "10.1093/tse/tdaf039/8157284"
+            "doi": "10.1093/tse/tdaf039/8157284",
+            "img": "new_images/IT1MJ6E3JesC.png"
         },
         {
             "title": "A Comprehensive Survey On Bio-inspired Algorithms: Taxonomy, Applications, And Future Directions",
@@ -6598,7 +6602,8 @@
             "publication_date": "2025/5/26",
             "source": "arXiv preprint arXiv:2506.04238",
             "description": "Bio-inspired algorithms (BIAs) utilize natural processes such as evolution, swarm behavior, foraging, and plant growth to solve complex, nonlinear, high-dimensional optimization problems. This survey categorizes BIAs into eight groups: evolutionary, swarm intelligence, physics-inspired, ecosystem and plant-based, predator-prey, neural-inspired, human-inspired, and hybrid approaches, and reviews their core principles, strengths, and limitations. We illustrate the usage of these algorithms in machine learning, engineering design, bioinformatics, and intelligent systems, and highlight recent advances in hybridization, parameter tuning, and adaptive strategies. Finally, we identify open challenges such as scalability, convergence, reliability, and interpretability to suggest directions for future research. This work aims to serve as a foundational resource for both researchers and practitioners interested in understanding the current landscape and future directions of bio-inspired computing.",
-            "date_added": "2025-06-15"
+            "date_added": "2025-06-15",
+            "img": "new_images/ujxm2eEBZHIC.png"
         },
         {
             "title": "A Survey On Kolmogorov-arnold Network",
@@ -6613,7 +6618,8 @@
             "publisher": "ACM",
             "description": "This review study explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov-Arnold Networks (KAN), a neural network model inspired by the Kolmogorov-Arnold representation theorem. KANs set themselves apart from traditional neural networks by employing learnable, spline-parameterized functions rather than fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. The review explores Kan’s architectural strengths, including adaptive edge-based activation functions that enhance parameter efficiency and scalability across varied applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements including Temporal-KAN (T-KAN), FastKAN, and Partial Differential Equation (PDE) KAN illustrate KAN’s growing applicability in dynamic environments, significantly improving …",
             "date_added": "2025-06-15",
-            "doi": "10.1145/3743128"
+            "doi": "10.1145/3743128",
+            "img": "new_images/CCeGMaHljPEC.png"
         },
         {
             "title": "Exploring The Factors Affecting Injury Severity In Highway And Non-highway Crashes In Bangladesh Applying Machine Learning And Shap",
@@ -6630,7 +6636,8 @@
             "pages": "259-270",
             "publisher": "Elsevier",
             "description": "To create effective preventive measures and targeted interventions, it is crucial to comprehend the contributing factors to the crash and quantify how they affect the injury, especially in least-developed countries. However, highway and non-highway crashes are linked to having distinguished characteristics, road-specific interventions, and data granularity. Combining all sorts of crashes into a single model may offer fewer insights than one would anticipate when building safety countermeasures. This research compares CART, RF, GBM, XGBoost, LightGBM, CatBoost, and AdaBoost and effectively simulates the complex relationship between collision injury severity and risk factors for both highway and non-highway crashes. Additionally, the Shapley Additive exPlanation (SHAP) framework is presented to explain the contribution of each risk factor from the output of the most appropriate classifier, thereby assisting in …",
-            "date_added": "2025-06-24"
+            "date_added": "2025-06-24",
+            "img": "new_images/yZoBfgUKqwcC.png"
         },
         {
             "title": "From Tiny Machine Learning To Tiny Deep Learning: A Survey",
@@ -6643,7 +6650,8 @@
             "publication_date": "2025/6/21",
             "journal": "arXiv preprint arXiv:2506.18927",
             "description": "The rapid growth of edge devices has driven the demand for deploying artificial intelligence (AI) at the edge, giving rise to Tiny Machine Learning (TinyML) and its evolving counterpart, Tiny Deep Learning (TinyDL). While TinyML initially focused on enabling simple inference tasks on microcontrollers, the emergence of TinyDL marks a paradigm shift toward deploying deep learning models on severely resource-constrained hardware. This survey presents a comprehensive overview of the transition from TinyML to TinyDL, encompassing architectural innovations, hardware platforms, model optimization techniques, and software toolchains. We analyze state-of-the-art methods in quantization, pruning, and neural architecture search (NAS), and examine hardware trends from MCUs to dedicated neural accelerators. Furthermore, we categorize software deployment frameworks, compilers, and AutoML tools enabling practical on-device learning. Applications across domains such as computer vision, audio recognition, healthcare, and industrial monitoring are reviewed to illustrate the real-world impact of TinyDL. Finally, we identify emerging directions including neuromorphic computing, federated TinyDL, edge-native foundation models, and domain-specific co-design approaches. This survey aims to serve as a foundational resource for researchers and practitioners, offering a holistic view of the ecosystem and laying the groundwork for future advancements in edge AI.",
-            "date_added": "2025-06-28"
+            "date_added": "2025-06-28",
+            "img": "new_images/It0W0vAlS5QC.png"
         },
         {
             "title": "From S4 To Mamba: A Comprehensive Survey On Structured State Space Models",
@@ -6656,7 +6664,8 @@
             "publication_date": "2025/3/22",
             "source": "arXiv preprint arXiv:2503.18970",
             "description": "Recent advancements in sequence modeling have led to the emergence of Structured State Space Models (SSMs) as an efficient alternative to Recurrent Neural Networks (RNNs) and Transformers, addressing challenges in long-range dependency modeling and computational efficiency. While RNNs suffer from vanishing gradients and sequential inefficiencies, and Transformers face quadratic complexity, SSMs leverage structured recurrence and state-space representations to achieve superior long-sequence processing with linear or near-linear complexity. This survey provides a comprehensive review of SSMs, tracing their evolution from the foundational S4 model to its successors like Mamba, Simplified Structured State Space Sequence Model (S5), and Jamba, highlighting their improvements in computational efficiency, memory optimization, and inference speed. By comparing SSMs with traditional sequence models across domains such as natural language processing (NLP), speech recognition, vision, and time-series forecasting, we demonstrate their advantages in handling long-range dependencies while reducing computational overhead. Despite their potential, challenges remain in areas such as training optimization, hybrid modeling, and interpretability. This survey serves as a structured guide for researchers and practitioners, detailing the advancements, trade-offs, and future directions of SSM-based architectures in AI and deep learning.",
-            "date_added": "2025-06-28"
+            "date_added": "2025-06-28",
+            "img": "new_images/iKswqCX-FLkC.png"
         },
         {
             "title": "Covid-19 Era Crash Fatality/severe Injury And Proven Speed–crash Relations",
@@ -6672,21 +6681,24 @@
             "publisher": "SAGE Publications",
             "description": "The number of highway crash fatalities increased significantly in 2020 compared to the previous year, coinciding with the unique traffic conditions brought about by the COVID-19 pandemic. This research investigates the hypothesis that increased speeds, influenced by various factors during the pandemic, may have contributed to the elevated fatality rates. Speed is widely recognized as a critical factor affecting crash severity. To test this hypothesis, the research team analyzed speed changes and their relationships with fatal and serious injury crashes using Washington State data specifically from 2018 to 2020. The results showed that despite a reduction in total crashes and vehicle miles traveled in 2020, fatal and serious injury crash rates per million vehicle miles traveled increased compared to 2017 and 2018, indicating a shift toward higher-severity crashes during the COVID-19 pandemic. Average operating …",
             "date_added": "2025-07-09",
-            "doi": "10.1177/03611981251341322"
+            "doi": "10.1177/03611981251341322",
+            "img": "new_images/wkm4DBaukwsC.png"
         },
         {
             "title": "Behavioral Patterns And Severity Outcomes In E-scooter Crashes: An Association Rule Mining Approach Using The Lift Increase Criterion",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:ufKn5pxu7C0C",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.938Z",
-            "year": ""
+            "year": "",
+            "img": "new_images/ufKn5pxu7C0C.png"
         },
         {
             "title": "Uncovering Behavioral Risk Patterns In U-turn Crash Severity Using Multimodal Data And Lift Increase Criterion In Association Rule Mining",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:oAywNP-vUhwC",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.938Z",
-            "year": ""
+            "year": "",
+            "img": "new_images/oAywNP-vUhwC.png"
         },
         {
             "title": "Evaluating U-left Turn And Direct Left Turn Movements At Signalized Intersections Using Traffic Conflict Indices",
@@ -6700,7 +6712,8 @@
             "journal": "Journal of Traffic and Transportation Engineering (English Edition)",
             "publisher": "Elsevier",
             "description": "This research aims to analyze and compare the impact of U-left turn (ULT) and direct left turn (DLT) movements on safety and traffic flow using traffic conflict indices as a non-crash data methodology. The primary focus of this study is to assess the risks associated with left-turn movements at intersections controlled by traffic lights, providing a basis for evaluating the safety of DLT and ULT maneuvers. To collect data on left-turn conflicts with through-traffic vehicles, video analysis was employed to capture conflict indicators. By classifying the base time and base speed indices, the study compared collision probability, collision severity, and collision risk between DLT and ULT movements. The results revealed that conflict events, as measured by the speed distribution, predominantly had a time to collision (TTC) value greater than 4 s, indicating a safe passage. Additionally, conflict events assessed using the time index …",
-            "date_added": "2025-07-14"
+            "date_added": "2025-07-14",
+            "img": "new_images/SWgZeABleR0C.png"
         },
         {
             "title": "Hypersumm-rl: A Dialogue Summarization Framework For Modeling Leadership Perception In Social Robots",
@@ -6713,7 +6726,8 @@
             "publication_date": "2025/7/5",
             "journal": "arXiv preprint arXiv:2507.04160",
             "description": "This paper introduces HyperSumm-RL, a hypertext-aware summarization and interaction analysis framework designed to investigate human perceptions of social robot leadership through long-form dialogue. The system utilizes a structured Natural Language Processing (NLP) workflow that combines transformer-based long dialogue summarization, leadership style modeling, and user response analysis, enabling scalable evaluation of social robots in complex human-robot interaction (HRI) settings. Unlike prior work that focuses on static or task-oriented HRI, HyperSumm-RL captures and hypertextually organizes dynamic conversational exchanges into navigable, semantically rich representations which allows researchers to trace interaction threads, identify influence cues, and analyze leadership framing over time. The contributions of this study are threefold: (1) we present a novel infrastructure for summarizing and linking long, multi-turn dialogues using leadership-style taxonomies; (2) we propose an interactive hypertext model that supports relational navigation across conversational themes, participant responses, and robot behavior modes; and (3) we demonstrate the utility of this system in interpreting participant trust, engagement, and expectation shifts during social robot leadership scenarios. The findings reveal how hypertextual workflows can augment HRI research by enabling transparent, interpretable, and semantically grounded analysis of emergent social dynamics.",
-            "date_added": "2025-07-14"
+            "date_added": "2025-07-14",
+            "img": "new_images/v_xunPV0uK0C.png"
         },
         {
             "title": "A Survey On Generative Ai In Transportation Systems Management And Operation",
@@ -6728,7 +6742,8 @@
             "pages": "829-832",
             "publisher": "IEEE",
             "description": "The integration of Generative AI (Gen-AI) into Transportation Systems Management and Operations (TSMO) offers transformative potential to address persistent knowledge management challenges. This survey study explores how Gen-AI can revolutionize TSMO through enhanced data integration, automated knowledge extraction, and predictive modeling. By synthesizing diverse datasets, Gen-AI facilitates the creation of unified knowledge repositories, improves real-time decision-making, and supports proactive scenario planning. The study introduces a comprehensive framework for embedding Gen-AI into TSMO workflows, enabling streamlined operational efficiency, cross-agency collaboration, and scalable data-driven strategies. Key applications of Gen-AI in TSMO include adaptive traffic control, crash response planning, and predictive modeling for future traffic scenarios. The study highlights innovative Gen …",
-            "date_added": "2025-07-14"
+            "date_added": "2025-07-14",
+            "img": "new_images/eAUscmXIlQ8C.png"
         },
         {
             "title": "Modeling Distracted Driving: Analyzing Driver Gaze, Vehicle Positioning, And Psychological Response For Enhanced Traffic Safety",
@@ -6743,7 +6758,8 @@
             "pages": "1044-1049",
             "publisher": "IEEE",
             "description": "Driver distraction, resulting from attention shifts due to external factors or the use of in-vehicle devices, significantly heightens collision risks and varies in severity across different vehicle types, such as passenger cars and SUVs. Factors like alcohol impairment exacerbate these risks by affecting driver perception and reaction times, further compounding errors related to distraction while driving. This study analyzes data collected from 26 drivers using a multimodal Virtual Reality (VR) simulator, which captures biometrics, vehicle dynamics, and responses to distraction scenarios illustrated by varying grid sizes. Exploratory data analysis shows changes in psychological measures, such as Galvanic Skin Response (GSR), and vehicle positioning as distraction levels increase. Machine learning models (e.g., Multinomial Logit, SVM, Random Forest, XGBoost) and deep learning models (e.g., TabNet, RNN) are employed …",
-            "date_added": "2025-07-14"
+            "date_added": "2025-07-14",
+            "img": "new_images/8p8iYwVyaVcC.png"
         },
         {
             "title": "Identifying Patterns In Backing Maneuver Crashes Utilizing Differential Evolution Optimization Algorithm",
@@ -6759,7 +6775,8 @@
             "publisher": "Taylor & Francis",
             "description": "Vehicle backing crashes pose unique safety challenges due to limited driver visibility and complex situational factors, yet research on specific factors influencing injury versus non-injury outcomes remains limited. This study applies an optimized Association Rule Mining (ARM) approach using Differential Evolution (DE) to identify key patterns in backing-related crashes in Louisiana (2018–2021). By refining rule generation based on support, confidence, and fitness, the DE-ARM framework uncovers meaningful associations between crash characteristics and injury outcomes. Key findings indicate that larger vehicles, multi-occupant scenarios, and road alignments such as hillcrest and straight alignment are more closely linked to injury outcomes, while non-injury crashes are associated with smaller vehicles, residential areas, and simpler road setups. An interactive mapping tool was also developed to support spatial …",
             "date_added": "2025-07-15",
-            "doi": "10.1080/19439962.2025.2529835"
+            "doi": "10.1080/19439962.2025.2529835",
+            "img": "new_images/vD2iS2Kej30C.png"
         },
         {
             "title": "Clustering Patterns Of Roadway Departure Related Motorcycle Crashes Using Dimension Reduction Analysis",
@@ -6775,7 +6792,8 @@
             "publisher": "Taylor & Francis",
             "description": "Motorcycle safety has emerged as a pressing concern, particularly concerning roadway departure crashes, which often lead to severe outcomes. To address this issue comprehensively, this study utilized an extensive dataset comprising 4,470 records spanning seven years (2014–2020) in Louisiana, with a specific focus on roadway departure crashes involving motorcycles. The dataset encompasses a wide range of factors, such as crash and vehicle characteristics, environmental features, and location-specific characteristics, which were rigorously considered in the analysis. By employing cluster correspondence analysis (CCA), this study aimed to identify novel insights that could significantly contribute to improving road safety measures for motorcyclists. The CCA methodology facilitates the identification and parsing of distinct crash scenarios, each characterized by unique sets of contributing variables. This …",
             "date_added": "2025-07-15",
-            "doi": "10.1080/19439962.2025.2529831"
+            "doi": "10.1080/19439962.2025.2529831",
+            "img": "new_images/ybfzIt2tCtgC.png"
         },
         {
             "title": "Examining Patterns Of Gps-related Traffic Crashes: Insights From A Matched Case–control Approach Through Crash Narratives",
@@ -6793,7 +6811,8 @@
             "publisher": "American Society of Civil Engineers",
             "description": "Global positioning systems (GPS) have revolutionized transportation by providing real-time location and navigation information. Although GPS technology has significantly enhanced mobility and efficiency, its potential role in traffic crashes remains understudied, partly due to a lack of information in the crash data that associates GPSs with crashes. However, growing concerns over distracted driving and navigation errors caused by GPS systems have gained attention—studies estimate that over 200,000 crashes annually involve GPS-related distractions in the US alone. Additionally, high-profile incidents, such as drivers following incorrect GPS directions onto hazardous routes, have raised safety concerns, indicating potential risks associated with GPS reliance. In recent years, the availability of crash narratives has added more information to crash databases, including GPS-related details. This study addresses this …",
             "date_added": "2025-07-18",
-            "doi": "10.1061/JTEPBS.TEENG-8910"
+            "doi": "10.1061/JTEPBS.TEENG-8910",
+            "img": "new_images/XtJa11BXPS4C.png"
         },
         {
             "title": "Assessing Risk Factors In Ambulance-involved Collisions: Understanding The Impact Of Covid-19 Pandemic",
@@ -6809,7 +6828,8 @@
             "publisher": "Taylor & Francis",
             "description": "Using ambulance-involved crash data spanning 2019–2021 in Texas, this research employs a random parameters logit model with heterogeneity in means to evaluate crash injury severities categorised as fatal and severe injury, minor injury, and no injury. Separate yearly models were developed, and likelihood ratio tests were conducted to assess temporal stability, and the effectiveness of partially constrained versus unconstrained modelling approaches. Findings show that daylight and high-population urban areas exhibited time-varying impacts on crash severity, with factors like female drivers and spring season associated with increased injury severity under daylight conditions in earlier years. In contrast, inattentive driving during daylight was linked to reduced severity. Rainy weather increased severity during the pandemic, while darkness with street lighting was associated with reduced severity in later years …",
             "date_added": "2025-07-22",
-            "doi": "10.1080/23249935.2025.2532844"
+            "doi": "10.1080/23249935.2025.2532844",
+            "img": "new_images/oynPyU19kbsC.png"
         },
         {
             "title": "Bridging The Black Box: A Survey On Mechanistic Interpretability In Ai",
@@ -6822,14 +6842,16 @@
             "publication_date": "2025/7/1",
             "journal": "Available at SSRN 5345552",
             "description": "Mechanistic interpretability aims to reverse engineer the internal computations of neural networks by uncovering human-intelligible circuits, algorithms, and causal structures. Unlike post hoc methods that treat models as black boxes, mechanistic approaches dissect internal components-neurons, attention heads, and weight patterns to explain behavior in terms of explicit mechanisms. Recent advances have revealed canonical structures in large language models (LLMs)(eg, induction heads) and algorithmic subroutines in vision and multimodal transformers. This survey organizes the field across three abstraction layers, neurons, circuits, and full algorithms, and three evaluation regimes: behavioral, counterfactual, and causal. We synthesize key techniques including manual circuit tracing, causal scrubbing, sparse autoencoders (SAEs), and synthetic benchmarks such as Tracr and RAVEL. We also catalog practical tools like TransformerLens, SAE visualization frameworks, and causal patching libraries. Despite substantial progress, major challenges remain: scaling interpretability to models like GPT-4, resolving polysemantic neurons, minimizing human subjectivity, and establishing standardized evaluation benchmarks. We conclude by outlining future research directions that integrate mechanistic insights into model training, auditing, and governance, positioning mechanistic interpretability as a foundation for transparent and trustworthy AI.",
-            "date_added": "2025-07-29"
+            "date_added": "2025-07-29",
+            "img": "new_images/xii_ZKWM4-0C.png"
         },
         {
             "title": "Exploring Behavioral And Environmental Predictors Of Pedestrian Injury Severity In Urban Squares",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:NXYAu82O0W8C",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.938Z",
-            "year": ""
+            "year": "",
+            "img": "new_images/NXYAu82O0W8C.png"
         },
         {
             "title": "Impact Of Lighting Conditions On Nighttime Crash Severity Among Older And Elderly Drivers",
@@ -6845,7 +6867,8 @@
             "publisher": "Taylor & Francis",
             "description": "Traffic crashes involving elderly drivers (65 years old and over) present a significant safety concern, especially under varying lighting conditions. Understanding the factors contributing to crash severity among this demographic is crucial for improving road safety. This study analyzed crash data for two driver groups (65–74 years old as older and over 74 years old as elderly) under different lighting conditions: dark with lighting, dark with no lighting, and dawn/dusk. Using Association Rules Mining (ARM), the study identified the top factors contributing to crash severity for each group and condition. The findings revealed that drivers aged 65–74 years (older drivers) are more likely to experience severe crashes at higher speed limits and in specific demographic settings, while drivers over 74 years (elderly drivers) are more vulnerable to severe crashes in rural areas and during complex maneuvers like left turns …",
             "date_added": "2025-08-06",
-            "doi": "10.1080/19439962.2025.2529833"
+            "doi": "10.1080/19439962.2025.2529833",
+            "img": "new_images/_9Xh93LWpsYC.png"
         },
         {
             "title": "A Survey On Automated Vehicles In Low Visibility And Infrastructure-limited Roadway Settings",
@@ -6858,14 +6881,16 @@
             "publication_date": "2025/8/1",
             "source": "Available at SSRN 5387394",
             "description": "Automated vehicles (AVs) have demonstrated promising capabilities on structured highways, yet their performance on local and low-volume roadways characterized by inconsistent infrastructure, degraded sensing conditions, and a lack of digital blueprints remains underexplored. This paper presents a comprehensive literature review of the technological, environmental, and regulatory barriers hindering AV deployment in local settings, including rural, suburban, and unstructured urban roads. Key challenges include missing or faded lane markings, limited signage, poor GPS coverage, lack of HD maps, dynamic road users, and insufficient vehicle-to-infrastructure (V2I) or vehicle-to-vehicle (V2V) connectivity. The review synthesizes advancements in perception under sun glare and low-light conditions, Simultaneous Localization and Mapping (SLAM) based localization without pre-existing maps, adaptive planning without lane references, and fallback strategies during GPS outages. Furthermore, we examine Operational Design Domain (ODD) limitations, dynamic ODD adjustment strategies, and the role of AV disengagement in uncertain terrain. Drawing from pilot deployments like the AVA project and platforms such as CARMA, we identify persistent research gaps in datasets, safety evaluation metrics, and human factors on unmarked roads. The findings emphasize the need for resilient, map-independent AV systems and robust validation frameworks tailored to the complexities of local roads.",
-            "date_added": "2025-08-17"
+            "date_added": "2025-08-17",
+            "img": "new_images/4oJvMfeQlr8C.png"
         },
         {
             "title": "Built Environment And Injury Risk: Association Rule-based Exploration Of E-scooter Crashes In Texas Cities",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:ZysSsiWj_g4C",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.938Z",
-            "year": ""
+            "year": "",
+            "img": "new_images/ZysSsiWj_g4C.png"
         },
         {
             "title": "Crash Modification Factors For Super 2 Highways",
@@ -6879,7 +6904,8 @@
             "issue": "FHWA/TX-25/0-7183-R1",
             "publisher": "Texas. Department of Transportation",
             "description": "Super 2 highways have been used across Texas for over 20 years, providing operational and safety benefits to rural two-lane highways at a lower cost than widening such facilities to four lanes. More Super 2 highways are planned as the demand increases on the state highway system. Previous research has provided insights on Super 2 safety, but updated crash modification factors (CMFs) based on a rigorous analysis of recent crash data would provide additional support for installing Super 2 corridors throughout the state and complement existing guidance. This project investigated the crash history of existing Super 2 highway corridors in Texas before and after installation, compared to similar two-lane highways without Super 2 passing lanes. Researchers developed a comprehensive dataset of 67 Super 2 corridors for analysis and identification of relationships between crashes and other characteristics. Researchers also developed a database of 165 reference segments (i.e., two-lane highway segments without passing lanes) for crash history comparisons with Super 2 corridors. An empirical Bayes before-after analysis of available crash data revealed that Super 2 highways reduced total crashes by 21 percent compared to traditional rural two-lane highways. This result was statistically significant, with a 95 percent confidence interval between 16 and 26 percent for total crashes. Similar results were observed for fatal-injury (KABC) and property damage only (PDO) crashes; Super 2 highways reduced KABC and PDO crashes by 16 and 23 percent, respectively. This research provides guidance on the selection and use of appropriate CMFs for …",
-            "date_added": "2025-08-24"
+            "date_added": "2025-08-24",
+            "img": "new_images/urP0JZOBBUsC.png"
         },
         {
             "title": "Not Just Another Survey On Physics-informed Neural Networks (Pinns): Foundations, Advances, And Open Problems",
@@ -6894,14 +6920,16 @@
             "volume": "37",
             "issue": "4",
             "description": "Partial Differential Equations (PDEs) are ubiquitous in modeling physical, biological, and engineering systems, including fluid dynamics, quantum mechanics, electromagnetics, and biomechanics. Classical numerical methods such as the finite difference method (FDM), the finite element method (FEM), and spectral methods have long served as the backbone of scientific computing. However, they often struggle with several persistent challenges: handling sparse or noisy data, dealing with complex geometries, and solving high-dimensional or multiscale problems [1–3]. Moreover, solving inverse problems inferring unknown parameters, sources, or governing equations from observations can require complex, problem-specific formulations and incur prohibitive computational costs [4, 5]. These limitations motivate the exploration of hybrid paradigms that combine data-driven learning with physical modeling, thereby leveraging the strengths of both. Deep learning has revolutionized many domains, but its extension to physics-based systems often termed Scientific Machine Learning (SciML) has required new strategies. Purely data-driven neural networks typically demand large, high-quality datasets, which are often unavailable in many scientific applications. Moreover, such models may lack physical consistency and fail to generalize beyond the training distribution [6–8]. Physics-informed learning addresses this by embedding governing physical laws into the architecture or loss function of neural networks. This approach enables neural networks to learn from both observational data and physics-based constraints, such as PDEs, boundary conditions …",
-            "date_added": "2025-08-24"
+            "date_added": "2025-08-24",
+            "img": "new_images/nU66GSXDKhoC.png"
         },
         {
             "title": "0-7183: Develop Crash Modification Factors For Super 2 Highways [Brief]",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:xa5BkEQK8BgC",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.927Z",
-            "year": "2024"
+            "year": "2024",
+            "img": "new_images/xa5BkEQK8BgC.png"
         },
         {
             "title": "Behavioral And Psychological Determinants Of Pedestrian Collisions On Arterial Roads With Evidence From Random Parameter Models",
@@ -6918,7 +6946,8 @@
             "pages": "31684",
             "publisher": "Nature Publishing Group UK",
             "description": "Arterial roads, while comprising a small percentage of total roadway mileage in the U.S., contribute disproportionately to pedestrian fatalities. Focusing on the behavioral and psychological dimensions of crash risk, this study analyzes 1722 pedestrian crashes on principal arterials and 1614 on minor arterials in Louisiana from 2017 to 2021. A Random Parameter Multinomial Logit Model with Heterogeneity in Means and Variance captures the hidden variation in how individual behaviors and situational contexts affect injury outcomes. Results indicate that perceptual challenges (dark conditions without street lighting), driver decision errors (lane departures), and alcohol‑impaired judgment are strong predictors of severe or fatal crashes. Marginal effects show elevated risk when pedestrians or drivers navigate low‑visibility environments, single‑vehicle settings that isolate responsibility, and scenarios involving Black …",
-            "date_added": "2025-09-02"
+            "date_added": "2025-09-02",
+            "img": "new_images/nOiSByfp82kC.png"
         },
         {
             "title": "Model Context Protocols In Adaptive Transport Systems: A Survey",
@@ -6931,7 +6960,8 @@
             "publication_date": "2025/8/26",
             "source": "arXiv preprint arXiv:2508.19239",
             "description": "The rapid expansion of interconnected devices, autonomous systems, and AI applications has created severe fragmentation in adaptive transport systems, where diverse protocols and context sources remain isolated. This survey provides the first systematic investigation of the Model Context Protocol (MCP) as a unifying paradigm, highlighting its ability to bridge protocol-level adaptation with context-aware decision making. Analyzing established literature, we show that existing efforts have implicitly converged toward MCP-like architectures, signaling a natural evolution from fragmented solutions to standardized integration frameworks. We propose a five-category taxonomy covering adaptive mechanisms, context-aware frameworks, unification models, integration strategies, and MCP-enabled architectures. Our findings reveal three key insights: traditional transport protocols have reached the limits of isolated adaptation, MCP's client-server and JSON-RPC structure enables semantic interoperability, and AI-driven transport demands integration paradigms uniquely suited to MCP. Finally, we present a research roadmap positioning MCP as a foundation for next-generation adaptive, context-aware, and intelligent transport infrastructures.",
-            "date_added": "2025-09-02"
+            "date_added": "2025-09-02",
+            "img": "new_images/tgTmbKTkO1IC.png"
         },
         {
             "title": "Investigation Of Commercial Motor Vehicle (Cmv)-related Crashes In Ohio Work Zones",
@@ -6945,35 +6975,40 @@
             "issue": "FHWA/OH-2025/11",
             "publisher": "Ohio. Department of Transportation",
             "description": "This research project was conducted to identify causation trends and factors that contribute to commercial motor vehicle (CMV)-involved work zone crashes in Ohio. In addition, the research project examined how workspace access points contribute to the CMV crash risk in work zones. In Phase 1, the research team reviewed previous research findings, conducted a preliminary crash analysis, and identified potential projects and novel data sources. In Phase 2, the research team reviewed the characteristics, narratives, and diagrams of fatal, serious injury suspected, and minor injury suspected CMV-involved work zone crashes to determine the factor that primarily influenced the crash, whether a CMV was fault, and whether a work-related CMV was involved. In addition, the research team used two statistical modeling techniques to identify the association between critical factors. The research team also conducted field studies in Phase 2 to observe the operational and safety impact of workspace access points. Based on the crash analysis and field study findings, the research team made 10 recommendations for improving CMV safety in work zones.",
-            "date_added": "2025-09-02"
+            "date_added": "2025-09-02",
+            "img": "new_images/cdwqcPQS8ssC.png"
         },
         {
             "title": "A Possible Link Between Air Pollution And Suicide?",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:rpSJNIKeXWsC",
             "total_citations": 1,
             "last_citation_update": "2025-09-12T12:37:17.930Z",
-            "year": "2023"
+            "year": "2023",
+            "img": "new_images/rpSJNIKeXWsC.png"
         },
         {
             "title": "The Need Of The Specific Targeting Of Psychiatric Patients In Vaccine Campaigns",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:GtqhT-R7ZnwC",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.931Z",
-            "year": "2022"
+            "year": "2022",
+            "img": "new_images/GtqhT-R7ZnwC.png"
         },
         {
             "title": "A Semi-automated Tool For Identifying Agricultural Roadway Crashes In Crash Narratives",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:1xBWf43XMUgC",
             "total_citations": 14,
             "last_citation_update": "2025-09-12T12:37:17.935Z",
-            "year": "2019"
+            "year": "2019",
+            "img": "new_images/1xBWf43XMUgC.png"
         },
         {
             "title": "Uncovering Age-specific Patterns In Cannabis-involved Fatal Crashes: A Behavior-oriented Association Rule Mining Approach",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:cF7EPgIk0B4C",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.938Z",
-            "year": ""
+            "year": "",
+            "img": "new_images/cF7EPgIk0B4C.png"
         },
         {
             "title": "Global Burden Of 288 Causesof Death And Life Expectancy Decomposition In204 Countries And Territories And 811 Subnationallocations, 1990–2021: A Systematic Analysis Forthe …",
@@ -6987,7 +7022,8 @@
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qK-YgxAAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=qK-YgxAAAAAJ:Cvh0bltMcLgC",
             "total_citations": 0,
             "last_citation_update": "2025-09-12T12:37:17.938Z",
-            "year": ""
+            "year": "",
+            "img": "new_images/Cvh0bltMcLgC.png"
         }
     ]
 }
