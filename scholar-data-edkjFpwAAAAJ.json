@@ -1,11 +1,11 @@
 {
-    "last_updated_utc": "2025-09-17T12:38:25.777Z",
+    "last_updated_utc": "2025-09-19T01:23:00.749Z",
     "data": [
         {
             "title": "A Survey On Structured State Space Sequence (S4) Models",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:UeHWp8X0CEIC",
             "total_citations": 3,
-            "last_citation_update": "2025-09-17T12:38:25.777Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2503.18970",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
@@ -18,7 +18,7 @@
             "title": "Quantum Computing In Transportation Engineering: A Survey",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
             "total_citations": 2,
-            "last_citation_update": "2025-09-17T12:38:25.777Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2025",
             "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5141686",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Sazzad Bin Bashar Polock, Gaurab Chhetri, Darrell Anderson, Anandi Dutta, Subasish Das",
@@ -31,7 +31,7 @@
             "title": "A Survey On Kolmogorov-arnold Network",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
             "total_citations": 69,
-            "last_citation_update": "2025-09-17T12:38:25.777Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2024",
             "date_added": "2024-12-31"
         },
@@ -39,7 +39,7 @@
             "title": "A Nonlinear Macromodel For Simulating The In-plane Behavior Of Unreinforced Masonry (Urm) Infilled Frames",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
             "total_citations": 6,
-            "last_citation_update": "2025-09-17T12:38:25.777Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2022",
             "date_added": "2022-12-31"
         },
@@ -55,7 +55,7 @@
             "title": "Evaluating Crash Risk Factors Of Farm Equipment Vehicles On County And Non-county Roads Using Interpretable Tabular Deep Learning (Tabnet)",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
             "total_citations": 2,
-            "last_citation_update": "2025-09-17T12:38:25.776Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2025",
             "source_url": "https://www.sciencedirect.com/science/article/pii/S0001457525001344",
             "authors": "Md Monzurul Islam, Jinli Liu, Rohit Chakraborty, Subasish Das",
@@ -71,7 +71,7 @@
             "title": "Applying Mambaattention, Tabpfn, And Tabtransformers To Classify Sae Automation Levels In Crashes",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC",
             "total_citations": 0,
-            "last_citation_update": "2025-09-17T12:38:25.776Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "",
             "date_added": "2025-05-21"
         },
@@ -79,7 +79,7 @@
             "title": "St-graphnet: A Spatio-temporal Graph Neural Network For Understanding And Predicting Automated Vehicle Crash Severity",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:LkGwnXOMwfcC",
             "total_citations": 0,
-            "last_citation_update": "2025-09-17T12:38:25.776Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2506.08051",
             "authors": "Mahmuda Sultana Mimi, Md Monzurul Islam, Anannya Ghosh Tusti, Shriyank Somvanshi, Subasish Das",
@@ -91,8 +91,8 @@
         {
             "title": "From Tiny Machine Learning To Tiny Deep Learning: A Survey",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:Se3iqnhoufwC",
-            "total_citations": 0,
-            "last_citation_update": "2025-09-17T12:38:25.776Z",
+            "total_citations": 1,
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2506.18927",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Gaurab Chhetri, Rohit Chakraborty, Mahmuda Sultana Mimi, Swagat Ahmed Shuvo, Kazi Sifatul Islam, Syed Aaqib Javed, Sharif Ahmed Rafat, Anandi Dutta, Subasish Das",
@@ -118,7 +118,7 @@
             "title": "From S4 To Mamba: A Comprehensive Survey On Structured State Space Models",
             "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:roLk4NBRz8UC",
             "total_citations": 1,
-            "last_citation_update": "2025-09-17T12:38:25.777Z",
+            "last_citation_update": "2025-09-19T01:23:00.749Z",
             "year": "2025",
             "source_url": "https://arxiv.org/abs/2503.18970",
             "authors": "Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das",
@@ -126,6 +126,22 @@
             "source": "arXiv preprint arXiv:2503.18970",
             "description": "Recent advancements in sequence modeling have led to the emergence of Structured State Space Models (SSMs) as an efficient alternative to Recurrent Neural Networks (RNNs) and Transformers, addressing challenges in long-range dependency modeling and computational efficiency. While RNNs suffer from vanishing gradients and sequential inefficiencies, and Transformers face quadratic complexity, SSMs leverage structured recurrence and state-space representations to achieve superior long-sequence processing with linear or near-linear complexity. This survey provides a comprehensive review of SSMs, tracing their evolution from the foundational S4 model to its successors like Mamba, Simplified Structured State Space Sequence Model (S5), and Jamba, highlighting their improvements in computational efficiency, memory optimization, and inference speed. By comparing SSMs with traditional sequence models across domains such as natural language processing (NLP), speech recognition, vision, and time-series forecasting, we demonstrate their advantages in handling long-range dependencies while reducing computational overhead. Despite their potential, challenges remain in areas such as training optimization, hybrid modeling, and interpretability. This survey serves as a structured guide for researchers and practitioners, detailing the advancements, trade-offs, and future directions of SSM-based architectures in AI and deep learning.",
             "date_added": "2025-07-09"
+        },
+        {
+            "title": "A Data-driven Approach To Child Pedestrian Crash Analysis Using Dimension Reduction, Clustering, And Explainable Ai",
+            "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&sortby=pubdate&citation_for_view=edkjFpwAAAAJ:ULOm3_A8WrAC",
+            "total_citations": 0,
+            "last_citation_update": "2025-09-19T01:22:56.611Z",
+            "year": "2025",
+            "source_url": "https://www.sciencedirect.com/science/article/pii/S0001457525003173",
+            "authors": "Swastika Barua, Rohit Chakraborty, Md Monzurul Islam, Subasish Das",
+            "publication_date": "2025/11/1",
+            "journal": "Accident Analysis & Prevention",
+            "volume": "222",
+            "pages": "108229",
+            "publisher": "Pergamon",
+            "description": "Child pedestrian (less than 15 years old) crashes are a critical road safety concern, often resulting in severe or fatal injuries due to the inherent vulnerability of young pedestrians. Despite the pressing nature of this issue, limited studies have comprehensively analyzed the key contributing factors influencing crash severity outcomes. Addressing this gap, the current study utilizes hybrid approach employing machine learning models, such as XGBoost and Random Forest, and Cluster Correspondence Analysis (CCA), a joint dimension reduction and clustering method to identify and explain the major risk factors associated with child pedestrian crash severity, and to generate evidence-based safety recommendations through advanced analytical techniques. SHAP analysis, an explainable AI, was conducted on each cluster to further investigate the impact of factors on crash severity. The study uses crash data from the …",
+            "date_added": "2025-09-19"
         }
     ]
 }
