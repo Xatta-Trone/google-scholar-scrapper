@@ -271,7 +271,7 @@ const scholarParser = {
 };
 
 // List of Google Scholar user IDs
-const userIds = ["qK-YgxAAAAAJ", "edkjFpwAAAAJ"];
+const userIds = ["edkjFpwAAAAJ"];
 // const userIds = ["U9tD0ywAAAAJ"];
 
 // Run the parser for each user ID
