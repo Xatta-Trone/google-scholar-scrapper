@@ -20,7 +20,7 @@
   <body>
     <div class="container my-5">
       <h1 class="text-center mb-4">Google Scholar Publications of 
-        <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=qK-YgxAAAAAJ&sortby=pubdate" target="_blank">Dr. Subhasish Das</a>
+        <a href="https://scholar.google.com/citations?hl=en&user=edkjFpwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Md Monzurul Islam</a>
       </h1>
       <p class="text-center" id="last-updated">Last Updated: Loading...</p>
       <p class="text-center" id="last-updated">GitHub Repo: 
@@ -75,7 +75,7 @@
       // Function to load data from a JSON file
       async function loadData() {
         try {
-          const response = await fetch("scholar-data-qK-YgxAAAAAJ.json"); // Adjust the path if necessary
+          const response = await fetch("scholar-data-edkjFpwAAAAJ.json"); // Adjust the path if necessary
           const jsonData = await response.json();
           const publications = jsonData.data;
           const tableBody = document.getElementById("publication-table");
